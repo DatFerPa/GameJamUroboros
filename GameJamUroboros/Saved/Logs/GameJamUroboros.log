@@ -692,3 +692,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.02-19.29.51:455][129]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/lolpa/Documents/GitHub/GameJamUroboros'
 [2021.01.02-19.29.51:455][129]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/lolpa/Documents/GitHub/GameJamUroboros'
 [2021.01.02-19.29.51:549][129]EditorErrors: Warning: No assets to check in!
+[2021.01.02-19.31.18:611][981]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
