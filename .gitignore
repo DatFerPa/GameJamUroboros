@@ -72,3 +72,8 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+GameJamUroboros/Saved/Logs/GameJamUroboros.log
+GameJamUroboros/Saved/Logs/GameJamUroboros-backup-2021.01.02-19.37.38.log
+GameJamUroboros/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+GameJamUroboros/Saved/Config/CrashReportClient/UE4CC-Windows-B68D5E5445BDED71B2DFB28FF63F8EDE/CrashReportClient.ini
+GameJamUroboros/Intermediate/CachedAssetRegistry.bin
