@@ -2646,3 +2646,19 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.04-11.09.01:173][ 38]AssetCheck: New page: Asset Save: multiple assets
 [2021.01.04-11.09.01:173][ 38]LogContentValidation: Display: Validating World /Game/Levels/Test_Room.Test_Room
 [2021.01.04-11.09.01:173][ 38]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Test_Room_BuiltData.Test_Room_BuiltData
+[2021.01.04-11.15.26:378][567]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Mat_StonePLiquid7E72C87C47336B97A098E1B537E2BF36.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Potions/Materials/Mat_StonePLiquid.uasset'
+[2021.01.04-11.15.26:492][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.01.04-11.15.26:514][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2021.01.04-11.15.26:529][567]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.01.04-11.15.26:550][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_StonePotion" FILE="../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Blueprints/BP_StonePotion.uasset" SILENT=true
+[2021.01.04-11.15.26:569][567]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/BP_StonePotionBFEC31A647C0E1C30E3CAF8256160D00.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Blueprints/BP_StonePotion.uasset'
+[2021.01.04-11.15.26:596][567]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.04-11.15.26:596][567]LogContentValidation: Display: Validating Material /Game/Potions/Materials/Mat_StonePLiquid.Mat_StonePLiquid
+[2021.01.04-11.15.26:596][567]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_StonePotion.BP_StonePotion
+[2021.01.04-11.15.29:772][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.01.04-11.15.29:792][756]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Test_RoomF6594ED94B6F0050C71644B2455ACAE6.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room.umap'
+[2021.01.04-11.15.29:819][756]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Test_Room_BuiltData" FILE="../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room_BuiltData.uasset" SILENT=true
+[2021.01.04-11.15.29:840][756]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Test_Room_BuiltData37B4AB114194F62ADD9714A287E85269.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room_BuiltData.uasset'
+[2021.01.04-11.15.29:851][756]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.04-11.15.29:851][756]LogContentValidation: Display: Validating World /Game/Levels/Test_Room.Test_Room
+[2021.01.04-11.15.29:851][756]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Test_Room_BuiltData.Test_Room_BuiltData
