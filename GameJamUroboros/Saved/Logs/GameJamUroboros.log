@@ -2794,3 +2794,1692 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.05-00.54.28:377][926]LogSavePackage: Moving '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/BP_TrampaPinchos367A426E4264B87292243AA0CDEB69A4.tmp' to '../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Blueprints/Trampas/BP_TrampaPinchos.uasset'
 [2021.01.05-00.54.28:395][926]AssetCheck: New page: Asset Save: BP_TrampaPinchos
 [2021.01.05-00.54.28:395][926]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Trampas/BP_TrampaPinchos.BP_TrampaPinchos
+[2021.01.05-00.56.43:968][ 78]LogEditorViewport: Clicking on Actor (LMB): BP_Interact_C (BP_Interact)
+[2021.01.05-00.56.45:984][301]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane3)
+[2021.01.05-00.56.46:956][411]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.05-00.56.46:969][411]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.05-00.56.46:969][411]PIE: New page: PIE session: Test_Room (Jan 5, 2021, 2:56:46 AM)
+[2021.01.05-00.56.46:969][411]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.05-00.56.46:970][411]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001666s)
+[2021.01.05-00.56.46:971][411]LogAIModule: Creating AISystem for world Test_Room
+[2021.01.05-00.56.46:971][411]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002C4BC2F0E00), frame # 356411
+[2021.01.05-00.56.46:971][411]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002C4AFD5B9C0), frame # 356411
+[2021.01.05-00.56.46:971][411]LogPlayLevel: PIE: World Init took: (0.000924s)
+[2021.01.05-00.56.46:971][411]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test_Room.Test_Room to /Game/Levels/UEDPIE_0_Test_Room.Test_Room (0.002724s)
+[2021.01.05-00.56.47:004][411]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2021.01.05-00.56.47:006][411]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.05-00.56.47:006][411]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.05-00.56.47:006][411]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.05-00.56.47:006][411]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.05-00.56.47:006][411]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.05-00.56.47:006][411]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.05-00.56.47:006][411]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.05-00.56.47:006][411]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.05-00.56.47:006][411]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.05-00.56.47:006][411]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.05-00.56.47:012][411]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.05-00.56.47:013][411]LogAudioMixer: Display: 1: FrontRight
+[2021.01.05-00.56.47:035][411]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2021.01.05-00.56.47:035][411]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.05-00.56.47:035][411]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.05-00.56.47:035][411]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.05-00.56.47:036][411]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.05-00.56.47:047][411]LogInit: FAudioDevice initialized.
+[2021.01.05-00.56.47:054][411]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.05-00.56.47:055][411]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test_Room.Test_Room up for play (max tick rate 0) at 2021.01.05-01.56.47
+[2021.01.05-00.56.47:056][411]LogWorld: Bringing up level for play took: 0.000554
+[2021.01.05-00.56.47:056][411]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2021.01.05-00.56.47:058][411]PIE: Server logged in
+[2021.01.05-00.56.47:059][411]PIE: Play in editor total start time 0.094 seconds.
+[2021.01.05-00.56.51:508][937]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.05-00.56.51:508][937]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.05-00.56.51:509][937]LogWorld: UWorld::CleanupWorld for Test_Room, bSessionEnded=true, bCleanupResources=true
+[2021.01.05-00.56.51:509][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.05-00.56.51:518][937]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.05-00.56.51:522][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.05-00.56.51:563][937]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.05-00.56.51:563][937]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002C4AFD5B9C0), frame # 356937
+[2021.01.05-00.56.51:563][937]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002C4BC2F0E00), frame # 356937
+[2021.01.05-00.56.51:566][937]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2021.01.05-00.56.51:590][938]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2021.01.05-00.57.31:743][975]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.01.05-00.57.31:743][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.05-01.00.27:470][942]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.01.05-01.00.45:232][238]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Trampas/BP_TrampaFlechas.BP_TrampaFlechas
+[2021.01.05-01.01.15:617][732]BlueprintLog: New page: Compile BP_TrampaFlechas
+[2021.01.05-01.01.15:672][732]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2021.01.05-01.01.21:407][403]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Trampas/BP_TrampaFlechas" FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Blueprints/Trampas/BP_TrampaFlechas.uasset" SILENT=true
+[2021.01.05-01.01.21:415][403]LogSavePackage: Moving '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/BP_TrampaFlechas703E4A024BB50A208FAC56A193D5B353.tmp' to '../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Blueprints/Trampas/BP_TrampaFlechas.uasset'
+[2021.01.05-01.01.21:436][403]AssetCheck: New page: Asset Save: BP_TrampaFlechas
+[2021.01.05-01.01.21:437][403]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Trampas/BP_TrampaFlechas.BP_TrampaFlechas
+[2021.01.05-01.01.39:177][441]BlueprintLog: New page: Compile BP_TrampaFlechas
+[2021.01.05-01.01.39:219][441]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2021.01.05-01.01.43:930][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Test_Room" FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.05-01.01.43:959][981]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2021.01.05-01.01.43:972][981]LogSavePackage: Moving '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/Test_Room6C7C62F24095A7D477086B86D55F3F17.tmp' to '../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room.umap'
+[2021.01.05-01.01.43:992][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Test_Room_BuiltData" FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room_BuiltData.uasset" SILENT=true
+[2021.01.05-01.01.44:004][981]LogSavePackage: Moving '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/Test_Room_BuiltData871C2D3A47140D9CC4F8A3AEC4EDE5B5.tmp' to '../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room_BuiltData.uasset'
+[2021.01.05-01.01.44:021][981]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.05-01.01.44:022][981]LogContentValidation: Display: Validating World /Game/Levels/Test_Room.Test_Room
+[2021.01.05-01.01.44:022][981]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Test_Room_BuiltData.Test_Room_BuiltData
+[2021.01.05-01.01.47:491][259]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.01.05-01.01.53:545][974]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Trampas/BP_Flecha.BP_Flecha
+[2021.01.05-01.02.16:737][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Trampas/BP_Flecha" FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Blueprints/Trampas/BP_Flecha.uasset" SILENT=true
+[2021.01.05-01.02.16:745][611]LogSavePackage: Moving '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/BP_Flecha686A746440E9574532A7AD9011363C8D.tmp' to '../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Blueprints/Trampas/BP_Flecha.uasset'
+[2021.01.05-01.02.16:759][611]AssetCheck: New page: Asset Save: BP_Flecha
+[2021.01.05-01.02.16:759][611]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Trampas/BP_Flecha.BP_Flecha
+[2021.01.05-01.02.23:802][384]LogEditorViewport: Clicking on Actor (LMB): BP_Flecha_C (BP_Flecha)
+[2021.01.05-01.02.24:583][475]LogEditorViewport: Clicking on Actor (LMB): BP_TrampaFlechas_C (BP_TrampaFlechas)
+[2021.01.05-01.02.25:531][586]Cmd: DELETE
+[2021.01.05-01.02.25:531][586]Cmd: ACTOR DELETE
+[2021.01.05-01.02.25:533][586]LogEditorActor: Deleted Actor: BP_TrampaFlechas_C
+[2021.01.05-01.02.25:568][586]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2021.01.05-01.02.25:569][586]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2021.01.05-01.02.26:230][665]LogEditorViewport: Clicking on Actor (LMB): BP_Flecha_C (BP_Flecha)
+[2021.01.05-01.02.26:323][673]Cmd: DELETE
+[2021.01.05-01.02.26:323][673]Cmd: ACTOR DELETE
+[2021.01.05-01.02.26:324][673]LogEditorActor: Deleted Actor: BP_Flecha_C
+[2021.01.05-01.02.26:354][673]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2021.01.05-01.02.26:356][673]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2021.01.05-01.02.32:787][418]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Trampas/BP_TrampaFlechas" FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Blueprints/Trampas/BP_TrampaFlechas.uasset" SILENT=true
+[2021.01.05-01.02.32:799][418]LogSavePackage: Moving '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/BP_TrampaFlechas7FA49AB64D699EBD6B5A809AC62D89F8.tmp' to '../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Blueprints/Trampas/BP_TrampaFlechas.uasset'
+[2021.01.05-01.02.32:812][418]AssetCheck: New page: Asset Save: BP_TrampaFlechas
+[2021.01.05-01.02.32:812][418]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Trampas/BP_TrampaFlechas.BP_TrampaFlechas
+[2021.01.05-01.02.44:082][704]LogEditorViewport: Clicking on Actor (LMB): BP_TrampaFlechas_C (BP_TrampaFlechas)
+[2021.01.05-01.02.47:225][ 79]LogEditorViewport: Clicking on Actor (LMB): BP_TrampaFlechas_C (BP_TrampaFlechas)
+[2021.01.05-01.02.48:253][201]LogEditorViewport: Clicking on Actor (LMB): BP_TrampaFlechas_C (BP_TrampaFlechas)
+[2021.01.05-01.02.48:614][243]Cmd: DELETE
+[2021.01.05-01.02.48:614][243]Cmd: ACTOR DELETE
+[2021.01.05-01.02.48:615][243]LogEditorActor: Deleted Actor: BP_TrampaFlechas_C
+[2021.01.05-01.02.48:648][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.01.05-01.02.48:650][243]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2021.01.05-01.03.29:718][141]BlueprintLog: New page: Compile BP_Flecha
+[2021.01.05-01.03.29:763][141]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2021.01.05-01.11.44:258][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2021.01.05-01.11.44:261][ 60]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Test_Room" FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/Autosaves/Game/Levels/Test_Room_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.01.05-01.11.44:274][ 60]LogSavePackage: Moving '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/Test_Room_Auto1AFC06AA042CB2D6CCD31429A7A2EDA41.tmp' to '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/Autosaves/Game/Levels/Test_Room_Auto1.umap'
+[2021.01.05-01.11.44:276][ 60]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Test_Room' took 0.057
+[2021.01.05-01.11.44:276][ 60]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.057
+[2021.01.05-01.12.02:666][822]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.05-01.12.02:680][822]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.05-01.12.02:680][822]PIE: New page: PIE session: Test_Room (Jan 5, 2021, 3:12:02 AM)
+[2021.01.05-01.12.02:681][822]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.05-01.12.02:683][822]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002060s)
+[2021.01.05-01.12.02:684][822]LogAIModule: Creating AISystem for world Test_Room
+[2021.01.05-01.12.02:684][822]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002C446C4E200), frame # 386822
+[2021.01.05-01.12.02:684][822]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002C4BACEA200), frame # 386822
+[2021.01.05-01.12.02:684][822]LogPlayLevel: PIE: World Init took: (0.001017s)
+[2021.01.05-01.12.02:684][822]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test_Room.Test_Room to /Game/Levels/UEDPIE_0_Test_Room.Test_Room (0.003286s)
+[2021.01.05-01.12.02:716][822]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.01.05-01.12.02:719][822]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.05-01.12.02:719][822]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.05-01.12.02:719][822]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.05-01.12.02:719][822]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.05-01.12.02:719][822]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.05-01.12.02:719][822]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.05-01.12.02:719][822]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.05-01.12.02:719][822]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.05-01.12.02:719][822]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.05-01.12.02:719][822]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.05-01.12.02:727][822]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.05-01.12.02:727][822]LogAudioMixer: Display: 1: FrontRight
+[2021.01.05-01.12.02:750][822]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2021.01.05-01.12.02:750][822]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.05-01.12.02:750][822]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.05-01.12.02:750][822]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.05-01.12.02:751][822]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.05-01.12.02:752][822]LogInit: FAudioDevice initialized.
+[2021.01.05-01.12.02:766][822]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.05-01.12.02:768][822]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test_Room.Test_Room up for play (max tick rate 0) at 2021.01.05-02.12.02
+[2021.01.05-01.12.02:768][822]LogWorld: Bringing up level for play took: 0.000660
+[2021.01.05-01.12.02:768][822]LogOnline: OSS: Creating online subsystem instance for: :Context_53
+[2021.01.05-01.12.02:771][822]PIE: Server logged in
+[2021.01.05-01.12.02:772][822]PIE: Play in editor total start time 0.097 seconds.
+[2021.01.05-01.12.06:965][318]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.05-01.12.06:965][318]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.05-01.12.06:965][318]LogWorld: UWorld::CleanupWorld for Test_Room, bSessionEnded=true, bCleanupResources=true
+[2021.01.05-01.12.06:966][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.05-01.12.06:976][318]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.05-01.12.06:979][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.05-01.12.07:023][318]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.05-01.12.07:023][318]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002C4BACEA200), frame # 387318
+[2021.01.05-01.12.07:023][318]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002C446C4E200), frame # 387318
+[2021.01.05-01.12.07:025][318]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.01.05-01.12.07:053][319]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2021.01.05-01.12.08:509][490]LogEditorViewport: Clicking on Actor (LMB): BP_TrampaFlechas_C (BP_TrampaFlechas)
+[2021.01.05-01.12.10:336][706]Cmd: DELETE
+[2021.01.05-01.12.10:336][706]Cmd: ACTOR DELETE
+[2021.01.05-01.12.10:337][706]LogEditorActor: Deleted Actor: BP_TrampaFlechas_C
+[2021.01.05-01.12.10:367][706]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2021.01.05-01.12.10:369][706]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2021.01.05-01.23.16:441][953]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.01.05-01.23.16:443][953]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Test_Room" FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/Autosaves/Game/Levels/Test_Room_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.01.05-01.23.16:457][953]LogSavePackage: Moving '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/Test_Room_Auto2C1174A6A4335F02702326AAF4EC5DF02.tmp' to '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/Autosaves/Game/Levels/Test_Room_Auto2.umap'
+[2021.01.05-01.23.16:459][953]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Test_Room' took 0.054
+[2021.01.05-01.23.16:460][953]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.054
+[2021.01.05-01.23.16:460][953]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Trampas/BP_TrampaFlechas] ([1] browsable assets)...
+[2021.01.05-01.23.16:471][953]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Trampas/BP_TrampaFlechas.BP_TrampaFlechas]
+[2021.01.05-01.23.16:471][953]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Trampas/BP_TrampaFlechas]
+[2021.01.05-01.23.16:484][953]LogSavePackage: Moving '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/BP_TrampaFlechas_Auto2D1D092F84617A57AF19CA0995ED5D39B.tmp' to '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/Autosaves/Game/Blueprints/Trampas/BP_TrampaFlechas_Auto2.uasset'
+[2021.01.05-01.23.16:485][953]LogFileHelpers: Auto-saving content packages took 0.027
+[2021.01.05-01.25.08:601][851]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.01.05-01.25.53:132][184]BlueprintLog: New page: Compile BP_TrampaFlechas
+[2021.01.05-01.25.53:186][184]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.01.05-01.28.04:975][ 51]BlueprintLog: New page: Compile BP_Flecha
+[2021.01.05-01.28.05:028][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2021.01.05-01.28.06:550][206]BlueprintLog: New page: Compile BP_TrampaFlechas
+[2021.01.05-01.28.06:605][206]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2021.01.05-01.28.07:331][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Trampas/BP_TrampaFlechas" FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Blueprints/Trampas/BP_TrampaFlechas.uasset" SILENT=true
+[2021.01.05-01.28.07:347][284]LogSavePackage: Moving '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/BP_TrampaFlechas102EFC544EF21B0627493891DCF3BFCC.tmp' to '../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Blueprints/Trampas/BP_TrampaFlechas.uasset'
+[2021.01.05-01.28.07:363][284]AssetCheck: New page: Asset Save: BP_TrampaFlechas
+[2021.01.05-01.28.07:363][284]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Trampas/BP_TrampaFlechas.BP_TrampaFlechas
+[2021.01.05-01.28.33:903][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Trampas/BP_Flecha" FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Blueprints/Trampas/BP_Flecha.uasset" SILENT=true
+[2021.01.05-01.28.33:918][806]LogSavePackage: Moving '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/BP_Flecha5D34DC20441C8FD806C6C483F7B18005.tmp' to '../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Blueprints/Trampas/BP_Flecha.uasset'
+[2021.01.05-01.28.33:938][806]AssetCheck: New page: Asset Save: BP_Flecha
+[2021.01.05-01.28.33:938][806]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Trampas/BP_Flecha.BP_Flecha
+[2021.01.05-01.28.39:959][480]BlueprintLog: New page: Compile BP_Flecha
+[2021.01.05-01.28.40:010][480]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2021.01.05-01.29.06:478][778]BlueprintLog: New page: Compile BP_TrampaFlechas
+[2021.01.05-01.29.06:527][778]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.01.05-01.29.07:115][840]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Trampas/BP_TrampaFlechas" FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Blueprints/Trampas/BP_TrampaFlechas.uasset" SILENT=true
+[2021.01.05-01.29.07:131][840]LogSavePackage: Moving '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/BP_TrampaFlechas6B22E9374E8FC13500D4E3BDA5E1E005.tmp' to '../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Blueprints/Trampas/BP_TrampaFlechas.uasset'
+[2021.01.05-01.29.07:145][840]AssetCheck: New page: Asset Save: BP_TrampaFlechas
+[2021.01.05-01.29.07:145][840]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Trampas/BP_TrampaFlechas.BP_TrampaFlechas
+[2021.01.05-01.29.08:649][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Trampas/BP_Flecha" FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Blueprints/Trampas/BP_Flecha.uasset" SILENT=true
+[2021.01.05-01.29.08:662][985]LogSavePackage: Moving '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/BP_FlechaAFCCBB54492583899282659E830B0995.tmp' to '../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Blueprints/Trampas/BP_Flecha.uasset'
+[2021.01.05-01.29.08:684][985]AssetCheck: New page: Asset Save: BP_Flecha
+[2021.01.05-01.29.08:684][985]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Trampas/BP_Flecha.BP_Flecha
+[2021.01.05-01.30.42:053][569]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Test_Room" FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.05-01.30.42:090][569]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2021.01.05-01.30.42:107][569]LogSavePackage: Moving '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/Test_Room45CD983645FC0D81E1CED3AAC1E94133.tmp' to '../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room.umap'
+[2021.01.05-01.30.42:130][569]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Test_Room_BuiltData" FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room_BuiltData.uasset" SILENT=true
+[2021.01.05-01.30.42:143][569]LogSavePackage: Moving '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/Test_Room_BuiltDataB61777B34A5A32F9A51267999023937A.tmp' to '../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room_BuiltData.uasset'
+[2021.01.05-01.30.42:161][569]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.05-01.30.42:161][569]LogContentValidation: Display: Validating World /Game/Levels/Test_Room.Test_Room
+[2021.01.05-01.30.42:161][569]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Test_Room_BuiltData.Test_Room_BuiltData
+[2021.01.05-01.30.42:790][635]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.05-01.30.42:807][635]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.05-01.30.42:807][635]PIE: New page: PIE session: Test_Room (Jan 5, 2021, 3:30:42 AM)
+[2021.01.05-01.30.42:807][635]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.05-01.30.42:809][635]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001829s)
+[2021.01.05-01.30.42:810][635]LogAIModule: Creating AISystem for world Test_Room
+[2021.01.05-01.30.42:810][635]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002C4C2F4CE00), frame # 430635
+[2021.01.05-01.30.42:810][635]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002C4C7B6F4C0), frame # 430635
+[2021.01.05-01.30.42:810][635]LogPlayLevel: PIE: World Init took: (0.001042s)
+[2021.01.05-01.30.42:811][635]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test_Room.Test_Room to /Game/Levels/UEDPIE_0_Test_Room.Test_Room (0.003020s)
+[2021.01.05-01.30.42:841][635]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2021.01.05-01.30.42:843][635]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.05-01.30.42:843][635]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.05-01.30.42:843][635]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.05-01.30.42:843][635]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.05-01.30.42:843][635]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.05-01.30.42:843][635]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.05-01.30.42:843][635]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.05-01.30.42:843][635]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.05-01.30.42:843][635]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.05-01.30.42:843][635]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.05-01.30.42:851][635]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.05-01.30.42:851][635]LogAudioMixer: Display: 1: FrontRight
+[2021.01.05-01.30.42:873][635]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2021.01.05-01.30.42:874][635]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.05-01.30.42:874][635]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.05-01.30.42:874][635]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.05-01.30.42:874][635]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.05-01.30.42:885][635]LogInit: FAudioDevice initialized.
+[2021.01.05-01.30.42:891][635]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.05-01.30.42:893][635]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test_Room.Test_Room up for play (max tick rate 0) at 2021.01.05-02.30.42
+[2021.01.05-01.30.42:893][635]LogWorld: Bringing up level for play took: 0.000599
+[2021.01.05-01.30.42:894][635]LogOnline: OSS: Creating online subsystem instance for: :Context_54
+[2021.01.05-01.30.42:896][635]PIE: Server logged in
+[2021.01.05-01.30.42:897][635]PIE: Play in editor total start time 0.098 seconds.
+[2021.01.05-01.30.53:023][841]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.05-01.30.53:023][841]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.05-01.30.53:023][841]LogWorld: UWorld::CleanupWorld for Test_Room, bSessionEnded=true, bCleanupResources=true
+[2021.01.05-01.30.53:024][841]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.05-01.30.53:030][841]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.05-01.30.53:034][841]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.05-01.30.53:063][841]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.05-01.30.53:078][841]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002C4C7B6F4C0), frame # 431841
+[2021.01.05-01.30.53:078][841]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002C4C2F4CE00), frame # 431841
+[2021.01.05-01.30.53:081][841]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.01.05-01.30.53:110][842]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2021.01.05-01.31.11:853][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Trampas/BP_Flecha" FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Blueprints/Trampas/BP_Flecha.uasset" SILENT=true
+[2021.01.05-01.31.11:863][951]LogSavePackage: Moving '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/BP_FlechaD2CE459246C3C122D9DD10BED925B250.tmp' to '../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Blueprints/Trampas/BP_Flecha.uasset'
+[2021.01.05-01.31.11:885][951]AssetCheck: New page: Asset Save: BP_Flecha
+[2021.01.05-01.31.11:885][951]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Trampas/BP_Flecha.BP_Flecha
+[2021.01.05-01.31.41:781][338]BlueprintLog: New page: Compile BP_Flecha
+[2021.01.05-01.31.41:831][338]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2021.01.05-01.31.42:349][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Trampas/BP_Flecha" FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Blueprints/Trampas/BP_Flecha.uasset" SILENT=true
+[2021.01.05-01.31.42:362][388]LogSavePackage: Moving '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/BP_FlechaCADDE6AF4275B19CEBD54A9D3C9C6AF6.tmp' to '../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Blueprints/Trampas/BP_Flecha.uasset'
+[2021.01.05-01.31.42:383][388]AssetCheck: New page: Asset Save: BP_Flecha
+[2021.01.05-01.31.42:383][388]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Trampas/BP_Flecha.BP_Flecha
+[2021.01.05-01.31.46:890][900]LogEditorViewport: Clicking on Actor (LMB): BP_TrampaFlechas_C (BP_TrampaFlechas)
+[2021.01.05-01.31.59:598][355]LogActorFactory: Actor Factory created Cube
+[2021.01.05-01.32.00:221][426]LogActorFactory: Actor Factory created Cube
+[2021.01.05-01.32.15:744][144]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.05-01.32.15:757][144]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.05-01.32.15:757][144]PIE: New page: PIE session: Test_Room (Jan 5, 2021, 3:32:15 AM)
+[2021.01.05-01.32.15:758][144]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.05-01.32.15:760][144]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001910s)
+[2021.01.05-01.32.15:760][144]LogAIModule: Creating AISystem for world Test_Room
+[2021.01.05-01.32.15:760][144]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002C4CF47B800), frame # 441144
+[2021.01.05-01.32.15:760][144]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002C4AB41B9C0), frame # 441144
+[2021.01.05-01.32.15:761][144]LogPlayLevel: PIE: World Init took: (0.000952s)
+[2021.01.05-01.32.15:761][144]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test_Room.Test_Room to /Game/Levels/UEDPIE_0_Test_Room.Test_Room (0.003019s)
+[2021.01.05-01.32.15:793][144]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2021.01.05-01.32.15:796][144]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.05-01.32.15:796][144]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.05-01.32.15:796][144]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.05-01.32.15:796][144]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.05-01.32.15:796][144]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.05-01.32.15:796][144]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.05-01.32.15:796][144]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.05-01.32.15:796][144]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.05-01.32.15:797][144]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.05-01.32.15:797][144]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.05-01.32.15:803][144]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.05-01.32.15:803][144]LogAudioMixer: Display: 1: FrontRight
+[2021.01.05-01.32.15:826][144]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2021.01.05-01.32.15:826][144]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.05-01.32.15:827][144]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.05-01.32.15:827][144]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.05-01.32.15:827][144]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.05-01.32.15:839][144]LogInit: FAudioDevice initialized.
+[2021.01.05-01.32.15:844][144]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.05-01.32.15:846][144]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test_Room.Test_Room up for play (max tick rate 0) at 2021.01.05-02.32.15
+[2021.01.05-01.32.15:846][144]LogWorld: Bringing up level for play took: 0.000609
+[2021.01.05-01.32.15:846][144]LogOnline: OSS: Creating online subsystem instance for: :Context_55
+[2021.01.05-01.32.15:849][144]PIE: Server logged in
+[2021.01.05-01.32.15:850][144]PIE: Play in editor total start time 0.096 seconds.
+[2021.01.05-01.32.21:373][770]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.05-01.32.21:374][770]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.05-01.32.21:374][770]LogWorld: UWorld::CleanupWorld for Test_Room, bSessionEnded=true, bCleanupResources=true
+[2021.01.05-01.32.21:374][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.05-01.32.21:389][770]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.05-01.32.21:393][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.05-01.32.21:436][770]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.05-01.32.21:437][770]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002C4AB41B9C0), frame # 441770
+[2021.01.05-01.32.21:437][770]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002C4CF47B800), frame # 441770
+[2021.01.05-01.32.21:439][770]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2021.01.05-01.32.21:467][771]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2021.01.05-01.33.00:904][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Trampas/BP_Flecha" FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Blueprints/Trampas/BP_Flecha.uasset" SILENT=true
+[2021.01.05-01.33.00:915][131]LogSavePackage: Moving '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/BP_Flecha7E6546ED41763E47A94AAD930145F9DD.tmp' to '../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Blueprints/Trampas/BP_Flecha.uasset'
+[2021.01.05-01.33.00:936][131]AssetCheck: New page: Asset Save: BP_Flecha
+[2021.01.05-01.33.00:936][131]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Trampas/BP_Flecha.BP_Flecha
+[2021.01.05-01.33.03:952][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Test_Room" FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.05-01.33.03:981][460]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.01.05-01.33.03:996][460]LogSavePackage: Moving '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/Test_Room9ECE4FC842495CE9AB47B0854C997A11.tmp' to '../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room.umap'
+[2021.01.05-01.33.04:015][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Test_Room_BuiltData" FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room_BuiltData.uasset" SILENT=true
+[2021.01.05-01.33.04:028][460]LogSavePackage: Moving '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/Test_Room_BuiltDataBCD3D8654D4C9D325AEB8BA4BBE740BF.tmp' to '../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room_BuiltData.uasset'
+[2021.01.05-01.33.04:045][460]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.05-01.33.04:045][460]LogContentValidation: Display: Validating World /Game/Levels/Test_Room.Test_Room
+[2021.01.05-01.33.04:045][460]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Test_Room_BuiltData.Test_Room_BuiltData
+[2021.01.05-01.33.04:630][522]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.05-01.33.04:644][522]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.05-01.33.04:644][522]PIE: New page: PIE session: Test_Room (Jan 5, 2021, 3:33:04 AM)
+[2021.01.05-01.33.04:669][522]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.05-01.33.04:670][522]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001704s)
+[2021.01.05-01.33.04:671][522]LogAIModule: Creating AISystem for world Test_Room
+[2021.01.05-01.33.04:671][522]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002C486C6D200), frame # 443522
+[2021.01.05-01.33.04:671][522]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002C4BACEB600), frame # 443522
+[2021.01.05-01.33.04:671][522]LogPlayLevel: PIE: World Init took: (0.000973s)
+[2021.01.05-01.33.04:671][522]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test_Room.Test_Room to /Game/Levels/UEDPIE_0_Test_Room.Test_Room (0.002919s)
+[2021.01.05-01.33.04:701][522]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2021.01.05-01.33.04:702][522]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.05-01.33.04:702][522]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.05-01.33.04:702][522]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.05-01.33.04:702][522]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.05-01.33.04:702][522]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.05-01.33.04:703][522]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.05-01.33.04:703][522]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.05-01.33.04:703][522]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.05-01.33.04:703][522]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.05-01.33.04:703][522]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.05-01.33.04:709][522]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.05-01.33.04:709][522]LogAudioMixer: Display: 1: FrontRight
+[2021.01.05-01.33.04:731][522]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2021.01.05-01.33.04:731][522]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.05-01.33.04:731][522]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.05-01.33.04:731][522]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.05-01.33.04:732][522]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.05-01.33.04:743][522]LogInit: FAudioDevice initialized.
+[2021.01.05-01.33.04:754][522]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.05-01.33.04:755][522]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test_Room.Test_Room up for play (max tick rate 0) at 2021.01.05-02.33.04
+[2021.01.05-01.33.04:755][522]LogWorld: Bringing up level for play took: 0.000640
+[2021.01.05-01.33.04:755][522]LogOnline: OSS: Creating online subsystem instance for: :Context_56
+[2021.01.05-01.33.04:758][522]PIE: Server logged in
+[2021.01.05-01.33.04:759][522]PIE: Play in editor total start time 0.12 seconds.
+[2021.01.05-01.33.09:823][123]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.05-01.33.09:823][123]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.05-01.33.09:823][123]LogWorld: UWorld::CleanupWorld for Test_Room, bSessionEnded=true, bCleanupResources=true
+[2021.01.05-01.33.09:823][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.05-01.33.09:833][123]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.05-01.33.09:836][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.05-01.33.09:880][123]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.05-01.33.09:881][123]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002C4BACEB600), frame # 444123
+[2021.01.05-01.33.09:881][123]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002C486C6D200), frame # 444123
+[2021.01.05-01.33.09:883][123]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.01.05-01.33.09:910][124]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2021.01.05-01.33.24:049][741]LogEditorTransaction: Undo Modify Component(s)
+[2021.01.05-01.34.03:977][380]BlueprintLog: New page: Compile BP_Flecha
+[2021.01.05-01.34.04:028][380]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.01.05-01.34.11:678][243]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Trampas/BP_Flecha" FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Blueprints/Trampas/BP_Flecha.uasset" SILENT=true
+[2021.01.05-01.34.11:691][243]LogSavePackage: Moving '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/BP_FlechaA33B44D0449B107137247A92E9C61CD5.tmp' to '../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Blueprints/Trampas/BP_Flecha.uasset'
+[2021.01.05-01.34.11:704][243]AssetCheck: New page: Asset Save: BP_Flecha
+[2021.01.05-01.34.11:704][243]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Trampas/BP_Flecha.BP_Flecha
+[2021.01.05-01.34.17:105][861]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.05-01.34.17:118][861]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.05-01.34.17:118][861]PIE: New page: PIE session: Test_Room (Jan 5, 2021, 3:34:17 AM)
+[2021.01.05-01.34.17:118][861]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.05-01.34.17:120][861]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001743s)
+[2021.01.05-01.34.17:121][861]LogAIModule: Creating AISystem for world Test_Room
+[2021.01.05-01.34.17:121][861]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002C449BAF000), frame # 451861
+[2021.01.05-01.34.17:121][861]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002C4D36996C0), frame # 451861
+[2021.01.05-01.34.17:121][861]LogPlayLevel: PIE: World Init took: (0.000938s)
+[2021.01.05-01.34.17:121][861]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test_Room.Test_Room to /Game/Levels/UEDPIE_0_Test_Room.Test_Room (0.002829s)
+[2021.01.05-01.34.17:152][861]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2021.01.05-01.34.17:154][861]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.05-01.34.17:154][861]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.05-01.34.17:154][861]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.05-01.34.17:154][861]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.05-01.34.17:154][861]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.05-01.34.17:155][861]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.05-01.34.17:155][861]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.05-01.34.17:155][861]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.05-01.34.17:155][861]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.05-01.34.17:155][861]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.05-01.34.17:162][861]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.05-01.34.17:162][861]LogAudioMixer: Display: 1: FrontRight
+[2021.01.05-01.34.17:184][861]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2021.01.05-01.34.17:184][861]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.05-01.34.17:184][861]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.05-01.34.17:184][861]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.05-01.34.17:185][861]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.05-01.34.17:197][861]LogInit: FAudioDevice initialized.
+[2021.01.05-01.34.17:206][861]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.05-01.34.17:208][861]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test_Room.Test_Room up for play (max tick rate 0) at 2021.01.05-02.34.17
+[2021.01.05-01.34.17:209][861]LogWorld: Bringing up level for play took: 0.000875
+[2021.01.05-01.34.17:209][861]LogOnline: OSS: Creating online subsystem instance for: :Context_57
+[2021.01.05-01.34.17:212][861]PIE: Server logged in
+[2021.01.05-01.34.17:212][861]PIE: Play in editor total start time 0.098 seconds.
+[2021.01.05-01.34.22:083][415]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.05-01.34.22:083][415]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.05-01.34.22:083][415]LogWorld: UWorld::CleanupWorld for Test_Room, bSessionEnded=true, bCleanupResources=true
+[2021.01.05-01.34.22:084][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.05-01.34.22:098][415]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.05-01.34.22:101][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.05-01.34.22:145][415]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.05-01.34.22:146][415]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002C4D36996C0), frame # 452415
+[2021.01.05-01.34.22:146][415]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002C449BAF000), frame # 452415
+[2021.01.05-01.34.22:148][415]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2021.01.05-01.34.22:175][416]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2021.01.05-01.34.31:235][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Test_Room" FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.05-01.34.31:267][445]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.01.05-01.34.31:281][445]LogSavePackage: Moving '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/Test_Room524DAB20474CA62CE98834A9BBA54A7D.tmp' to '../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room.umap'
+[2021.01.05-01.34.31:301][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Test_Room_BuiltData" FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room_BuiltData.uasset" SILENT=true
+[2021.01.05-01.34.31:314][445]LogSavePackage: Moving '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/Test_Room_BuiltData905A71E14C1D7709EED698AC2F75E99D.tmp' to '../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room_BuiltData.uasset'
+[2021.01.05-01.34.31:330][445]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.05-01.34.31:331][445]LogContentValidation: Display: Validating World /Game/Levels/Test_Room.Test_Room
+[2021.01.05-01.34.31:331][445]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Test_Room_BuiltData.Test_Room_BuiltData
+[2021.01.05-01.35.03:514][152]BlueprintLog: New page: Compile BP_Flecha
+[2021.01.05-01.35.03:566][152]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2021.01.05-01.35.03:978][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Trampas/BP_Flecha" FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Blueprints/Trampas/BP_Flecha.uasset" SILENT=true
+[2021.01.05-01.35.03:992][190]LogSavePackage: Moving '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/BP_FlechaBF402454469607154D85B7AF2690D8E3.tmp' to '../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Blueprints/Trampas/BP_Flecha.uasset'
+[2021.01.05-01.35.04:013][190]AssetCheck: New page: Asset Save: BP_Flecha
+[2021.01.05-01.35.04:013][190]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Trampas/BP_Flecha.BP_Flecha
+[2021.01.05-01.35.41:815][465]BlueprintLog: New page: Compile BP_Flecha
+[2021.01.05-01.35.41:865][465]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2021.01.05-01.35.44:031][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Trampas/BP_Flecha" FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Blueprints/Trampas/BP_Flecha.uasset" SILENT=true
+[2021.01.05-01.35.44:045][699]LogSavePackage: Moving '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/BP_Flecha3F85F12547700FEA784D63898772E213.tmp' to '../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Blueprints/Trampas/BP_Flecha.uasset'
+[2021.01.05-01.35.44:064][699]AssetCheck: New page: Asset Save: BP_Flecha
+[2021.01.05-01.35.44:064][699]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Trampas/BP_Flecha.BP_Flecha
+[2021.01.05-01.35.48:868][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Test_Room" FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.05-01.35.48:900][247]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2021.01.05-01.35.48:914][247]LogSavePackage: Moving '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/Test_Room361DFF0648D079054EA24B83E3E78CA2.tmp' to '../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room.umap'
+[2021.01.05-01.35.48:933][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Test_Room_BuiltData" FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room_BuiltData.uasset" SILENT=true
+[2021.01.05-01.35.48:945][247]LogSavePackage: Moving '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/Test_Room_BuiltData5A766F444F7031A0E13DBE9D5CFBCD99.tmp' to '../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room_BuiltData.uasset'
+[2021.01.05-01.35.48:964][247]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.05-01.35.48:964][247]LogContentValidation: Display: Validating World /Game/Levels/Test_Room.Test_Room
+[2021.01.05-01.35.48:964][247]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Test_Room_BuiltData.Test_Room_BuiltData
+[2021.01.05-01.35.49:704][328]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.05-01.35.49:717][328]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.05-01.35.49:717][328]PIE: New page: PIE session: Test_Room (Jan 5, 2021, 3:35:49 AM)
+[2021.01.05-01.35.49:717][328]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.05-01.35.49:719][328]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001843s)
+[2021.01.05-01.35.49:720][328]LogAIModule: Creating AISystem for world Test_Room
+[2021.01.05-01.35.49:720][328]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002C4E8B49E00), frame # 462328
+[2021.01.05-01.35.49:720][328]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002C4A848D800), frame # 462328
+[2021.01.05-01.35.49:720][328]LogPlayLevel: PIE: World Init took: (0.000938s)
+[2021.01.05-01.35.49:720][328]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test_Room.Test_Room to /Game/Levels/UEDPIE_0_Test_Room.Test_Room (0.002929s)
+[2021.01.05-01.35.49:751][328]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2021.01.05-01.35.49:752][328]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.05-01.35.49:752][328]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.05-01.35.49:752][328]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.05-01.35.49:752][328]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.05-01.35.49:752][328]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.05-01.35.49:752][328]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.05-01.35.49:752][328]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.05-01.35.49:752][328]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.05-01.35.49:753][328]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.05-01.35.49:753][328]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.05-01.35.49:760][328]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.05-01.35.49:760][328]LogAudioMixer: Display: 1: FrontRight
+[2021.01.05-01.35.49:783][328]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2021.01.05-01.35.49:783][328]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.05-01.35.49:783][328]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.05-01.35.49:783][328]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.05-01.35.49:783][328]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.05-01.35.49:795][328]LogInit: FAudioDevice initialized.
+[2021.01.05-01.35.49:804][328]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.05-01.35.49:806][328]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test_Room.Test_Room up for play (max tick rate 0) at 2021.01.05-02.35.49
+[2021.01.05-01.35.49:806][328]LogWorld: Bringing up level for play took: 0.000596
+[2021.01.05-01.35.49:806][328]LogOnline: OSS: Creating online subsystem instance for: :Context_58
+[2021.01.05-01.35.49:809][328]PIE: Server logged in
+[2021.01.05-01.35.49:810][328]PIE: Play in editor total start time 0.096 seconds.
+[2021.01.05-01.35.59:052][425]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.05-01.35.59:052][425]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.05-01.35.59:053][425]LogWorld: UWorld::CleanupWorld for Test_Room, bSessionEnded=true, bCleanupResources=true
+[2021.01.05-01.35.59:053][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.05-01.35.59:066][425]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.05-01.35.59:070][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.05-01.35.59:099][425]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.05-01.35.59:114][425]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002C4A848D800), frame # 463425
+[2021.01.05-01.35.59:114][425]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002C4E8B49E00), frame # 463425
+[2021.01.05-01.35.59:116][425]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.01.05-01.35.59:145][426]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2021.01.05-01.36.49:004][121]BlueprintLog: New page: Compile BP_Flecha
+[2021.01.05-01.36.49:056][121]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.01.05-01.36.49:613][176]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Trampas/BP_Flecha" FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Blueprints/Trampas/BP_Flecha.uasset" SILENT=true
+[2021.01.05-01.36.49:627][176]LogSavePackage: Moving '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/BP_FlechaE084D9EA408C07FD07DA769CBB769208.tmp' to '../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Blueprints/Trampas/BP_Flecha.uasset'
+[2021.01.05-01.36.49:646][176]AssetCheck: New page: Asset Save: BP_Flecha
+[2021.01.05-01.36.49:646][176]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Trampas/BP_Flecha.BP_Flecha
+[2021.01.05-01.36.51:434][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Test_Room" FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.05-01.36.51:466][377]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.01.05-01.36.51:479][377]LogSavePackage: Moving '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/Test_Room68EE0CCD42836ABEC5806EAE846D5B5A.tmp' to '../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room.umap'
+[2021.01.05-01.36.51:499][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Test_Room_BuiltData" FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room_BuiltData.uasset" SILENT=true
+[2021.01.05-01.36.51:510][377]LogSavePackage: Moving '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/Test_Room_BuiltDataA712CA134299F605BB323E96238E196F.tmp' to '../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room_BuiltData.uasset'
+[2021.01.05-01.36.51:527][377]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.05-01.36.51:527][377]LogContentValidation: Display: Validating World /Game/Levels/Test_Room.Test_Room
+[2021.01.05-01.36.51:527][377]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Test_Room_BuiltData.Test_Room_BuiltData
+[2021.01.05-01.36.52:105][444]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.05-01.36.52:119][444]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.05-01.36.52:119][444]PIE: New page: PIE session: Test_Room (Jan 5, 2021, 3:36:52 AM)
+[2021.01.05-01.36.52:168][444]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.05-01.36.52:173][444]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004243s)
+[2021.01.05-01.36.52:175][444]LogAIModule: Creating AISystem for world Test_Room
+[2021.01.05-01.36.52:175][444]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002C4BB269800), frame # 469444
+[2021.01.05-01.36.52:175][444]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002C4D2F85300), frame # 469444
+[2021.01.05-01.36.52:175][444]LogPlayLevel: PIE: World Init took: (0.002248s)
+[2021.01.05-01.36.52:175][444]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test_Room.Test_Room to /Game/Levels/UEDPIE_0_Test_Room.Test_Room (0.007025s)
+[2021.01.05-01.36.52:232][444]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2021.01.05-01.36.52:233][444]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.05-01.36.52:233][444]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.05-01.36.52:233][444]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.05-01.36.52:233][444]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.05-01.36.52:233][444]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.05-01.36.52:233][444]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.05-01.36.52:233][444]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.05-01.36.52:233][444]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.05-01.36.52:234][444]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.05-01.36.52:234][444]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.05-01.36.52:245][444]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.05-01.36.52:245][444]LogAudioMixer: Display: 1: FrontRight
+[2021.01.05-01.36.52:267][444]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2021.01.05-01.36.52:267][444]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.05-01.36.52:267][444]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.05-01.36.52:267][444]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.05-01.36.52:268][444]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.05-01.36.52:280][444]LogInit: FAudioDevice initialized.
+[2021.01.05-01.36.52:288][444]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.05-01.36.52:290][444]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test_Room.Test_Room up for play (max tick rate 0) at 2021.01.05-02.36.52
+[2021.01.05-01.36.52:290][444]LogWorld: Bringing up level for play took: 0.000690
+[2021.01.05-01.36.52:290][444]LogOnline: OSS: Creating online subsystem instance for: :Context_59
+[2021.01.05-01.36.52:293][444]PIE: Server logged in
+[2021.01.05-01.36.52:293][444]PIE: Play in editor total start time 0.179 seconds.
+[2021.01.05-01.36.57:453][ 56]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.05-01.36.57:453][ 56]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.05-01.36.57:453][ 56]LogWorld: UWorld::CleanupWorld for Test_Room, bSessionEnded=true, bCleanupResources=true
+[2021.01.05-01.36.57:453][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.05-01.36.57:462][ 56]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.05-01.36.57:465][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.05-01.36.57:494][ 56]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.05-01.36.57:509][ 56]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002C4D2F85300), frame # 470056
+[2021.01.05-01.36.57:509][ 56]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002C4BB269800), frame # 470056
+[2021.01.05-01.36.57:511][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.01.05-01.36.57:538][ 57]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2021.01.05-01.37.01:159][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Trampas/BP_Flecha" FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Blueprints/Trampas/BP_Flecha.uasset" SILENT=true
+[2021.01.05-01.37.01:172][460]LogSavePackage: Moving '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/BP_FlechaA766D1AB413A9419E50ABBB190870059.tmp' to '../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Blueprints/Trampas/BP_Flecha.uasset'
+[2021.01.05-01.37.01:187][460]AssetCheck: New page: Asset Save: BP_Flecha
+[2021.01.05-01.37.01:187][460]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Trampas/BP_Flecha.BP_Flecha
+[2021.01.05-01.37.04:048][788]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.05-01.37.04:062][788]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.01.05-01.37.04:064][788]LogPlayLevel: [PlayLevel] Compiling BP_Flecha before play...
+[2021.01.05-01.37.04:125][788]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2021.01.05-01.37.04:127][788]LogPlayLevel: PlayLevel: Blueprint regeneration took 64 ms (1 blueprints)
+[2021.01.05-01.37.04:127][788]PIE: New page: PIE session: Test_Room (Jan 5, 2021, 3:37:04 AM)
+[2021.01.05-01.37.04:159][788]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.05-01.37.04:160][788]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001765s)
+[2021.01.05-01.37.04:161][788]LogAIModule: Creating AISystem for world Test_Room
+[2021.01.05-01.37.04:161][788]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002C4DD2F4A00), frame # 470788
+[2021.01.05-01.37.04:161][788]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002C4CF519800), frame # 470788
+[2021.01.05-01.37.04:161][788]LogPlayLevel: PIE: World Init took: (0.001054s)
+[2021.01.05-01.37.04:161][788]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test_Room.Test_Room to /Game/Levels/UEDPIE_0_Test_Room.Test_Room (0.003058s)
+[2021.01.05-01.37.04:191][788]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.01.05-01.37.04:191][788]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.05-01.37.04:191][788]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.05-01.37.04:191][788]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.05-01.37.04:191][788]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.05-01.37.04:191][788]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.05-01.37.04:192][788]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.05-01.37.04:192][788]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.05-01.37.04:192][788]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.05-01.37.04:192][788]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.05-01.37.04:192][788]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.05-01.37.04:199][788]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.05-01.37.04:199][788]LogAudioMixer: Display: 1: FrontRight
+[2021.01.05-01.37.04:220][788]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2021.01.05-01.37.04:220][788]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.05-01.37.04:220][788]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.05-01.37.04:220][788]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.05-01.37.04:221][788]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.05-01.37.04:232][788]LogInit: FAudioDevice initialized.
+[2021.01.05-01.37.04:237][788]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.05-01.37.04:239][788]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test_Room.Test_Room up for play (max tick rate 0) at 2021.01.05-02.37.04
+[2021.01.05-01.37.04:239][788]LogWorld: Bringing up level for play took: 0.000729
+[2021.01.05-01.37.04:239][788]LogOnline: OSS: Creating online subsystem instance for: :Context_60
+[2021.01.05-01.37.04:242][788]PIE: Server logged in
+[2021.01.05-01.37.04:242][788]PIE: Play in editor total start time 0.185 seconds.
+[2021.01.05-01.37.05:792][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.05-01.37.05:792][969]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.05-01.37.05:793][969]LogWorld: UWorld::CleanupWorld for Test_Room, bSessionEnded=true, bCleanupResources=true
+[2021.01.05-01.37.05:793][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.05-01.37.05:801][969]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.05-01.37.05:805][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.05-01.37.05:834][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.05-01.37.05:850][969]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002C4CF519800), frame # 470969
+[2021.01.05-01.37.05:850][969]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002C4DD2F4A00), frame # 470969
+[2021.01.05-01.37.05:852][969]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2021.01.05-01.37.05:881][970]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2021.01.05-01.37.56:488][651]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.05-01.37.56:501][651]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.05-01.37.56:501][651]PIE: New page: PIE session: Test_Room (Jan 5, 2021, 3:37:56 AM)
+[2021.01.05-01.37.56:501][651]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.05-01.37.56:503][651]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001678s)
+[2021.01.05-01.37.56:503][651]LogAIModule: Creating AISystem for world Test_Room
+[2021.01.05-01.37.56:503][651]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002C4C002FE00), frame # 471651
+[2021.01.05-01.37.56:503][651]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002C4B39A5800), frame # 471651
+[2021.01.05-01.37.56:504][651]LogPlayLevel: PIE: World Init took: (0.001033s)
+[2021.01.05-01.37.56:504][651]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test_Room.Test_Room to /Game/Levels/UEDPIE_0_Test_Room.Test_Room (0.002855s)
+[2021.01.05-01.37.56:534][651]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.01.05-01.37.56:536][651]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.05-01.37.56:536][651]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.05-01.37.56:536][651]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.05-01.37.56:536][651]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.05-01.37.56:536][651]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.05-01.37.56:536][651]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.05-01.37.56:536][651]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.05-01.37.56:536][651]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.05-01.37.56:536][651]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.05-01.37.56:536][651]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.05-01.37.56:543][651]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.05-01.37.56:543][651]LogAudioMixer: Display: 1: FrontRight
+[2021.01.05-01.37.56:565][651]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2021.01.05-01.37.56:565][651]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.05-01.37.56:565][651]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.05-01.37.56:565][651]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.05-01.37.56:566][651]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.05-01.37.56:578][651]LogInit: FAudioDevice initialized.
+[2021.01.05-01.37.56:585][651]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.05-01.37.56:586][651]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test_Room.Test_Room up for play (max tick rate 0) at 2021.01.05-02.37.56
+[2021.01.05-01.37.56:587][651]LogWorld: Bringing up level for play took: 0.000640
+[2021.01.05-01.37.56:587][651]LogOnline: OSS: Creating online subsystem instance for: :Context_61
+[2021.01.05-01.37.56:590][651]PIE: Server logged in
+[2021.01.05-01.37.56:591][651]PIE: Play in editor total start time 0.094 seconds.
+[2021.01.05-01.38.01:146][186]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.05-01.38.01:146][186]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.05-01.38.01:147][186]LogWorld: UWorld::CleanupWorld for Test_Room, bSessionEnded=true, bCleanupResources=true
+[2021.01.05-01.38.01:147][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.05-01.38.01:175][186]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.05-01.38.01:187][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.05-01.38.01:250][186]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.05-01.38.01:266][186]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002C4B39A5800), frame # 472186
+[2021.01.05-01.38.01:267][186]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002C4C002FE00), frame # 472186
+[2021.01.05-01.38.01:269][186]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2021.01.05-01.38.01:297][187]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2021.01.05-01.38.02:414][310]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.05-01.38.02:427][310]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.05-01.38.02:427][310]PIE: New page: PIE session: Test_Room (Jan 5, 2021, 3:38:02 AM)
+[2021.01.05-01.38.02:458][310]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.05-01.38.02:460][310]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001671s)
+[2021.01.05-01.38.02:461][310]LogAIModule: Creating AISystem for world Test_Room
+[2021.01.05-01.38.02:461][310]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002C4BC467A00), frame # 472310
+[2021.01.05-01.38.02:461][310]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002C4D369B9C0), frame # 472310
+[2021.01.05-01.38.02:461][310]LogPlayLevel: PIE: World Init took: (0.000949s)
+[2021.01.05-01.38.02:461][310]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test_Room.Test_Room to /Game/Levels/UEDPIE_0_Test_Room.Test_Room (0.002808s)
+[2021.01.05-01.38.02:492][310]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2021.01.05-01.38.02:494][310]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.05-01.38.02:494][310]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.05-01.38.02:494][310]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.05-01.38.02:494][310]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.05-01.38.02:494][310]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.05-01.38.02:494][310]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.05-01.38.02:495][310]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.05-01.38.02:495][310]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.05-01.38.02:495][310]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.05-01.38.02:495][310]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.05-01.38.02:504][310]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.05-01.38.02:504][310]LogAudioMixer: Display: 1: FrontRight
+[2021.01.05-01.38.02:525][310]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2021.01.05-01.38.02:525][310]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.05-01.38.02:525][310]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.05-01.38.02:525][310]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.05-01.38.02:525][310]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.05-01.38.02:537][310]LogInit: FAudioDevice initialized.
+[2021.01.05-01.38.02:543][310]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.05-01.38.02:545][310]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test_Room.Test_Room up for play (max tick rate 0) at 2021.01.05-02.38.02
+[2021.01.05-01.38.02:545][310]LogWorld: Bringing up level for play took: 0.000706
+[2021.01.05-01.38.02:545][310]LogOnline: OSS: Creating online subsystem instance for: :Context_62
+[2021.01.05-01.38.02:547][310]PIE: Server logged in
+[2021.01.05-01.38.02:548][310]PIE: Play in editor total start time 0.126 seconds.
+[2021.01.05-01.38.07:202][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.05-01.38.07:203][859]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.05-01.38.07:203][859]LogWorld: UWorld::CleanupWorld for Test_Room, bSessionEnded=true, bCleanupResources=true
+[2021.01.05-01.38.07:204][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.05-01.38.07:222][859]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.05-01.38.07:230][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.05-01.38.07:279][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.05-01.38.07:295][859]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002C4D369B9C0), frame # 472859
+[2021.01.05-01.38.07:295][859]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002C4BC467A00), frame # 472859
+[2021.01.05-01.38.07:297][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2021.01.05-01.38.07:325][860]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2021.01.05-01.38.41:311][850]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Trampas/BP_TrampaFlechas" FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Blueprints/Trampas/BP_TrampaFlechas.uasset" SILENT=true
+[2021.01.05-01.38.41:327][850]LogSavePackage: Moving '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/BP_TrampaFlechasFA62988B49874489A6B3CDA447A6BCD7.tmp' to '../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Blueprints/Trampas/BP_TrampaFlechas.uasset'
+[2021.01.05-01.38.41:342][850]AssetCheck: New page: Asset Save: BP_TrampaFlechas
+[2021.01.05-01.38.41:342][850]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Trampas/BP_TrampaFlechas.BP_TrampaFlechas
+[2021.01.05-01.38.42:039][929]BlueprintLog: New page: Compile BP_TrampaFlechas
+[2021.01.05-01.38.42:091][929]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2021.01.05-01.38.43:467][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Test_Room" FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.05-01.38.43:499][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2021.01.05-01.38.43:512][ 79]LogSavePackage: Moving '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/Test_Room1B2B207648184131D82B96A4F01E2B31.tmp' to '../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room.umap'
+[2021.01.05-01.38.43:532][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Test_Room_BuiltData" FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room_BuiltData.uasset" SILENT=true
+[2021.01.05-01.38.43:544][ 79]LogSavePackage: Moving '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/Test_Room_BuiltDataCF5B629F4BF9192DBC2C4BB7E3A1229F.tmp' to '../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room_BuiltData.uasset'
+[2021.01.05-01.38.43:563][ 79]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.05-01.38.43:563][ 79]LogContentValidation: Display: Validating World /Game/Levels/Test_Room.Test_Room
+[2021.01.05-01.38.43:563][ 79]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Test_Room_BuiltData.Test_Room_BuiltData
+[2021.01.05-01.38.44:154][137]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.05-01.38.44:168][137]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.05-01.38.44:168][137]PIE: New page: PIE session: Test_Room (Jan 5, 2021, 3:38:44 AM)
+[2021.01.05-01.38.44:209][137]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.05-01.38.44:212][137]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003427s)
+[2021.01.05-01.38.44:214][137]LogAIModule: Creating AISystem for world Test_Room
+[2021.01.05-01.38.44:214][137]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002C4BD019E00), frame # 477137
+[2021.01.05-01.38.44:214][137]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002C4BF79DD00), frame # 477137
+[2021.01.05-01.38.44:214][137]LogPlayLevel: PIE: World Init took: (0.002075s)
+[2021.01.05-01.38.44:215][137]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test_Room.Test_Room to /Game/Levels/UEDPIE_0_Test_Room.Test_Room (0.005884s)
+[2021.01.05-01.38.44:261][137]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2021.01.05-01.38.44:262][137]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.05-01.38.44:262][137]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.05-01.38.44:262][137]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.05-01.38.44:262][137]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.05-01.38.44:262][137]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.05-01.38.44:262][137]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.05-01.38.44:262][137]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.05-01.38.44:262][137]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.05-01.38.44:262][137]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.05-01.38.44:262][137]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.05-01.38.44:272][137]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.05-01.38.44:273][137]LogAudioMixer: Display: 1: FrontRight
+[2021.01.05-01.38.44:305][137]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2021.01.05-01.38.44:306][137]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.05-01.38.44:306][137]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.05-01.38.44:306][137]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.05-01.38.44:306][137]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.05-01.38.44:324][137]LogInit: FAudioDevice initialized.
+[2021.01.05-01.38.44:330][137]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.05-01.38.44:332][137]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test_Room.Test_Room up for play (max tick rate 0) at 2021.01.05-02.38.44
+[2021.01.05-01.38.44:332][137]LogWorld: Bringing up level for play took: 0.000856
+[2021.01.05-01.38.44:333][137]LogOnline: OSS: Creating online subsystem instance for: :Context_63
+[2021.01.05-01.38.44:336][137]PIE: Server logged in
+[2021.01.05-01.38.44:337][137]PIE: Play in editor total start time 0.173 seconds.
+[2021.01.05-01.38.52:051][ 53]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.05-01.38.52:051][ 53]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.05-01.38.52:052][ 53]LogWorld: UWorld::CleanupWorld for Test_Room, bSessionEnded=true, bCleanupResources=true
+[2021.01.05-01.38.52:052][ 53]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.05-01.38.52:064][ 53]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.05-01.38.52:068][ 53]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.05-01.38.52:096][ 53]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.05-01.38.52:112][ 53]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002C4BF79DD00), frame # 478053
+[2021.01.05-01.38.52:112][ 53]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002C4BD019E00), frame # 478053
+[2021.01.05-01.38.52:114][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2021.01.05-01.38.52:140][ 54]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2021.01.05-01.38.53:283][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Test_Room" FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.05-01.38.53:314][182]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.01.05-01.38.53:328][182]LogSavePackage: Moving '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/Test_Room5B31CBD64EF5AF5518AB5BBAD46AE6CC.tmp' to '../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room.umap'
+[2021.01.05-01.38.53:346][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Test_Room_BuiltData" FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room_BuiltData.uasset" SILENT=true
+[2021.01.05-01.38.53:358][182]LogSavePackage: Moving '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/Test_Room_BuiltDataEE22A00E4FC1EE14B1D2C0A2AED5ADC0.tmp' to '../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room_BuiltData.uasset'
+[2021.01.05-01.38.53:374][182]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.05-01.38.53:374][182]LogContentValidation: Display: Validating World /Game/Levels/Test_Room.Test_Room
+[2021.01.05-01.38.53:375][182]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Test_Room_BuiltData.Test_Room_BuiltData
+[2021.01.05-01.40.41:412][575]BlueprintLog: New page: Compile BP_Flecha
+[2021.01.05-01.40.41:466][575]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2021.01.05-01.40.51:954][792]LogEditorTransaction: Undo Modify Component Scale
+[2021.01.05-01.41.03:741][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Trampas/BP_Flecha" FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Blueprints/Trampas/BP_Flecha.uasset" SILENT=true
+[2021.01.05-01.41.03:755][115]LogSavePackage: Moving '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/BP_Flecha49937509488A6B20ECF29A934EC755FE.tmp' to '../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Blueprints/Trampas/BP_Flecha.uasset'
+[2021.01.05-01.41.03:773][115]AssetCheck: New page: Asset Save: BP_Flecha
+[2021.01.05-01.41.03:773][115]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Trampas/BP_Flecha.BP_Flecha
+[2021.01.05-01.41.06:083][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Test_Room" FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.05-01.41.06:115][367]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2021.01.05-01.41.06:131][367]LogSavePackage: Moving '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/Test_RoomE24142FC4B4EFDD18566A98EC4223282.tmp' to '../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room.umap'
+[2021.01.05-01.41.06:151][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Test_Room_BuiltData" FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room_BuiltData.uasset" SILENT=true
+[2021.01.05-01.41.06:164][367]LogSavePackage: Moving '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/Test_Room_BuiltData9D6AC9C644346B953FD7588A488A5FF1.tmp' to '../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room_BuiltData.uasset'
+[2021.01.05-01.41.06:184][367]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.05-01.41.06:184][367]LogContentValidation: Display: Validating World /Game/Levels/Test_Room.Test_Room
+[2021.01.05-01.41.06:184][367]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Test_Room_BuiltData.Test_Room_BuiltData
+[2021.01.05-01.41.06:752][424]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.05-01.41.06:766][424]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.05-01.41.06:766][424]PIE: New page: PIE session: Test_Room (Jan 5, 2021, 3:41:06 AM)
+[2021.01.05-01.41.06:766][424]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.05-01.41.06:768][424]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001963s)
+[2021.01.05-01.41.06:769][424]LogAIModule: Creating AISystem for world Test_Room
+[2021.01.05-01.41.06:769][424]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002C449160C00), frame # 487424
+[2021.01.05-01.41.06:769][424]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002C4B39A7D80), frame # 487424
+[2021.01.05-01.41.06:769][424]LogPlayLevel: PIE: World Init took: (0.000961s)
+[2021.01.05-01.41.06:769][424]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test_Room.Test_Room to /Game/Levels/UEDPIE_0_Test_Room.Test_Room (0.003084s)
+[2021.01.05-01.41.06:799][424]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.01.05-01.41.06:800][424]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.05-01.41.06:800][424]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.05-01.41.06:800][424]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.05-01.41.06:800][424]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.05-01.41.06:800][424]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.05-01.41.06:800][424]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.05-01.41.06:800][424]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.05-01.41.06:800][424]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.05-01.41.06:801][424]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.05-01.41.06:801][424]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.05-01.41.06:807][424]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.05-01.41.06:807][424]LogAudioMixer: Display: 1: FrontRight
+[2021.01.05-01.41.06:830][424]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2021.01.05-01.41.06:830][424]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.05-01.41.06:831][424]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.05-01.41.06:831][424]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.05-01.41.06:831][424]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.05-01.41.06:842][424]LogInit: FAudioDevice initialized.
+[2021.01.05-01.41.06:854][424]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.05-01.41.06:855][424]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test_Room.Test_Room up for play (max tick rate 0) at 2021.01.05-02.41.06
+[2021.01.05-01.41.06:855][424]LogWorld: Bringing up level for play took: 0.000604
+[2021.01.05-01.41.06:856][424]LogOnline: OSS: Creating online subsystem instance for: :Context_64
+[2021.01.05-01.41.06:858][424]PIE: Server logged in
+[2021.01.05-01.41.06:860][424]PIE: Play in editor total start time 0.098 seconds.
+[2021.01.05-01.41.10:083][803]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.05-01.41.10:083][803]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.05-01.41.10:084][803]LogWorld: UWorld::CleanupWorld for Test_Room, bSessionEnded=true, bCleanupResources=true
+[2021.01.05-01.41.10:084][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.05-01.41.10:108][803]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.05-01.41.10:114][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.05-01.41.10:152][803]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.05-01.41.10:168][803]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002C4B39A7D80), frame # 487803
+[2021.01.05-01.41.10:168][803]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002C449160C00), frame # 487803
+[2021.01.05-01.41.10:171][803]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2021.01.05-01.41.10:199][804]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2021.01.05-01.41.18:270][736]BlueprintLog: New page: Compile BP_Flecha
+[2021.01.05-01.41.18:317][736]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2021.01.05-01.41.20:567][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Test_Room" FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.05-01.41.20:599][977]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2021.01.05-01.41.20:613][977]LogSavePackage: Moving '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/Test_RoomE47D71534CEE8A89591574B9ADE470E3.tmp' to '../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room.umap'
+[2021.01.05-01.41.20:632][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Test_Room_BuiltData" FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room_BuiltData.uasset" SILENT=true
+[2021.01.05-01.41.20:645][977]LogSavePackage: Moving '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/Test_Room_BuiltData2265A7FF494D5A04CD79798D48F53754.tmp' to '../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room_BuiltData.uasset'
+[2021.01.05-01.41.20:664][977]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.05-01.41.20:664][977]LogContentValidation: Display: Validating World /Game/Levels/Test_Room.Test_Room
+[2021.01.05-01.41.20:664][977]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Test_Room_BuiltData.Test_Room_BuiltData
+[2021.01.05-01.41.21:303][ 45]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.05-01.41.21:317][ 45]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.05-01.41.21:317][ 45]PIE: New page: PIE session: Test_Room (Jan 5, 2021, 3:41:21 AM)
+[2021.01.05-01.41.21:317][ 45]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.05-01.41.21:319][ 45]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001912s)
+[2021.01.05-01.41.21:320][ 45]LogAIModule: Creating AISystem for world Test_Room
+[2021.01.05-01.41.21:320][ 45]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002C449A55400), frame # 489045
+[2021.01.05-01.41.21:320][ 45]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002C4E3548E00), frame # 489045
+[2021.01.05-01.41.21:320][ 45]LogPlayLevel: PIE: World Init took: (0.000905s)
+[2021.01.05-01.41.21:320][ 45]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test_Room.Test_Room to /Game/Levels/UEDPIE_0_Test_Room.Test_Room (0.002968s)
+[2021.01.05-01.41.21:350][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2021.01.05-01.41.21:350][ 45]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.05-01.41.21:350][ 45]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.05-01.41.21:350][ 45]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.05-01.41.21:350][ 45]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.05-01.41.21:350][ 45]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.05-01.41.21:351][ 45]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.05-01.41.21:351][ 45]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.05-01.41.21:351][ 45]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.05-01.41.21:351][ 45]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.05-01.41.21:351][ 45]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.05-01.41.21:357][ 45]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.05-01.41.21:357][ 45]LogAudioMixer: Display: 1: FrontRight
+[2021.01.05-01.41.21:379][ 45]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2021.01.05-01.41.21:379][ 45]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.05-01.41.21:379][ 45]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.05-01.41.21:379][ 45]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.05-01.41.21:379][ 45]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.05-01.41.21:390][ 45]LogInit: FAudioDevice initialized.
+[2021.01.05-01.41.21:398][ 45]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.05-01.41.21:399][ 45]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test_Room.Test_Room up for play (max tick rate 0) at 2021.01.05-02.41.21
+[2021.01.05-01.41.21:399][ 45]LogWorld: Bringing up level for play took: 0.000615
+[2021.01.05-01.41.21:399][ 45]LogOnline: OSS: Creating online subsystem instance for: :Context_65
+[2021.01.05-01.41.21:402][ 45]PIE: Server logged in
+[2021.01.05-01.41.21:403][ 45]PIE: Play in editor total start time 0.09 seconds.
+[2021.01.05-01.41.23:051][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Trampas/BP_Flecha" FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Blueprints/Trampas/BP_Flecha.uasset" SILENT=true
+[2021.01.05-01.41.23:065][227]LogSavePackage: Moving '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/BP_FlechaA2AAF40C43E79A8402016193A8A1FB13.tmp' to '../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Blueprints/Trampas/BP_Flecha.uasset'
+[2021.01.05-01.41.23:073][227]AssetCheck: New page: Asset Save: BP_Flecha
+[2021.01.05-01.41.23:073][227]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Trampas/BP_Flecha.BP_Flecha
+[2021.01.05-01.41.24:942][427]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.05-01.41.24:942][427]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.05-01.41.24:942][427]LogWorld: UWorld::CleanupWorld for Test_Room, bSessionEnded=true, bCleanupResources=true
+[2021.01.05-01.41.24:942][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.05-01.41.24:950][427]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.05-01.41.24:954][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.05-01.41.24:982][427]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.05-01.41.24:998][427]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002C4E3548E00), frame # 489427
+[2021.01.05-01.41.24:998][427]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002C449A55400), frame # 489427
+[2021.01.05-01.41.25:001][427]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2021.01.05-01.41.25:027][428]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2021.01.05-01.41.38:654][967]BlueprintLog: New page: Compile BP_Flecha
+[2021.01.05-01.41.38:706][967]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2021.01.05-01.41.40:137][111]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.05-01.41.40:150][111]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.05-01.41.40:151][111]PIE: New page: PIE session: Test_Room (Jan 5, 2021, 3:41:40 AM)
+[2021.01.05-01.41.40:151][111]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.05-01.41.40:152][111]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001647s)
+[2021.01.05-01.41.40:153][111]LogAIModule: Creating AISystem for world Test_Room
+[2021.01.05-01.41.40:153][111]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002C403D9EC00), frame # 491111
+[2021.01.05-01.41.40:153][111]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002C4A848D1C0), frame # 491111
+[2021.01.05-01.41.40:153][111]LogPlayLevel: PIE: World Init took: (0.000936s)
+[2021.01.05-01.41.40:153][111]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test_Room.Test_Room to /Game/Levels/UEDPIE_0_Test_Room.Test_Room (0.002730s)
+[2021.01.05-01.41.40:184][111]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2021.01.05-01.41.40:185][111]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.05-01.41.40:185][111]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.05-01.41.40:185][111]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.05-01.41.40:185][111]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.05-01.41.40:186][111]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.05-01.41.40:186][111]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.05-01.41.40:186][111]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.05-01.41.40:186][111]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.05-01.41.40:186][111]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.05-01.41.40:186][111]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.05-01.41.40:193][111]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.05-01.41.40:193][111]LogAudioMixer: Display: 1: FrontRight
+[2021.01.05-01.41.40:214][111]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2021.01.05-01.41.40:214][111]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.05-01.41.40:214][111]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.05-01.41.40:214][111]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.05-01.41.40:215][111]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.05-01.41.40:225][111]LogInit: FAudioDevice initialized.
+[2021.01.05-01.41.40:236][111]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.05-01.41.40:237][111]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test_Room.Test_Room up for play (max tick rate 0) at 2021.01.05-02.41.40
+[2021.01.05-01.41.40:238][111]LogWorld: Bringing up level for play took: 0.000909
+[2021.01.05-01.41.40:238][111]LogOnline: OSS: Creating online subsystem instance for: :Context_66
+[2021.01.05-01.41.40:240][111]PIE: Server logged in
+[2021.01.05-01.41.40:241][111]PIE: Play in editor total start time 0.096 seconds.
+[2021.01.05-01.41.45:492][692]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.05-01.41.45:492][692]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.05-01.41.45:492][692]LogWorld: UWorld::CleanupWorld for Test_Room, bSessionEnded=true, bCleanupResources=true
+[2021.01.05-01.41.45:492][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.05-01.41.45:500][692]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.05-01.41.45:504][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.05-01.41.45:547][692]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.05-01.41.45:548][692]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002C4A848D1C0), frame # 491692
+[2021.01.05-01.41.45:548][692]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002C403D9EC00), frame # 491692
+[2021.01.05-01.41.45:550][692]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2021.01.05-01.41.45:571][693]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2021.01.05-01.41.56:771][  9]BlueprintLog: New page: Compile BP_Flecha
+[2021.01.05-01.41.56:821][  9]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.01.05-01.42.11:157][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Trampas/BP_Flecha" FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Blueprints/Trampas/BP_Flecha.uasset" SILENT=true
+[2021.01.05-01.42.11:171][690]LogSavePackage: Moving '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/BP_Flecha1F8762944E4292AA95563AA186872C75.tmp' to '../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Blueprints/Trampas/BP_Flecha.uasset'
+[2021.01.05-01.42.11:189][690]AssetCheck: New page: Asset Save: BP_Flecha
+[2021.01.05-01.42.11:189][690]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Trampas/BP_Flecha.BP_Flecha
+[2021.01.05-01.42.13:922][  0]BlueprintLog: New page: Compile BP_Flecha
+[2021.01.05-01.42.13:983][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2021.01.05-01.42.38:193][750]BlueprintLog: New page: Compile BP_Flecha
+[2021.01.05-01.42.38:247][750]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2021.01.05-01.42.38:776][803]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Trampas/BP_Flecha" FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Blueprints/Trampas/BP_Flecha.uasset" SILENT=true
+[2021.01.05-01.42.38:790][803]LogSavePackage: Moving '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/BP_FlechaE8FEC18A4F80B52C2C2C8F9AC468FB06.tmp' to '../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Blueprints/Trampas/BP_Flecha.uasset'
+[2021.01.05-01.42.38:813][803]AssetCheck: New page: Asset Save: BP_Flecha
+[2021.01.05-01.42.38:813][803]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Trampas/BP_Flecha.BP_Flecha
+[2021.01.05-01.42.40:249][962]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Test_Room" FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.05-01.42.40:282][962]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2021.01.05-01.42.40:296][962]LogSavePackage: Moving '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/Test_Room5275D36A4BD60BA1D355C597E21AD26D.tmp' to '../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room.umap'
+[2021.01.05-01.42.40:315][962]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Test_Room_BuiltData" FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room_BuiltData.uasset" SILENT=true
+[2021.01.05-01.42.40:328][962]LogSavePackage: Moving '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/Test_Room_BuiltData85D0888F4874E524D94BCBBAACFA994B.tmp' to '../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room_BuiltData.uasset'
+[2021.01.05-01.42.40:345][962]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.05-01.42.40:346][962]LogContentValidation: Display: Validating World /Game/Levels/Test_Room.Test_Room
+[2021.01.05-01.42.40:346][962]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Test_Room_BuiltData.Test_Room_BuiltData
+[2021.01.05-01.42.41:111][ 43]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.05-01.42.41:124][ 43]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.05-01.42.41:124][ 43]PIE: New page: PIE session: Test_Room (Jan 5, 2021, 3:42:41 AM)
+[2021.01.05-01.42.41:125][ 43]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.05-01.42.41:126][ 43]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001683s)
+[2021.01.05-01.42.41:127][ 43]LogAIModule: Creating AISystem for world Test_Room
+[2021.01.05-01.42.41:127][ 43]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002C4BFEEBE00), frame # 498043
+[2021.01.05-01.42.41:127][ 43]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002C4C7B6F240), frame # 498043
+[2021.01.05-01.42.41:127][ 43]LogPlayLevel: PIE: World Init took: (0.000956s)
+[2021.01.05-01.42.41:127][ 43]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test_Room.Test_Room to /Game/Levels/UEDPIE_0_Test_Room.Test_Room (0.002786s)
+[2021.01.05-01.42.41:157][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2021.01.05-01.42.41:158][ 43]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.05-01.42.41:158][ 43]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.05-01.42.41:158][ 43]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.05-01.42.41:158][ 43]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.05-01.42.41:158][ 43]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.05-01.42.41:158][ 43]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.05-01.42.41:158][ 43]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.05-01.42.41:158][ 43]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.05-01.42.41:159][ 43]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.05-01.42.41:159][ 43]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.05-01.42.41:166][ 43]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.05-01.42.41:166][ 43]LogAudioMixer: Display: 1: FrontRight
+[2021.01.05-01.42.41:189][ 43]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2021.01.05-01.42.41:189][ 43]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.05-01.42.41:189][ 43]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.05-01.42.41:189][ 43]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.05-01.42.41:190][ 43]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.05-01.42.41:201][ 43]LogInit: FAudioDevice initialized.
+[2021.01.05-01.42.41:213][ 43]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.05-01.42.41:215][ 43]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test_Room.Test_Room up for play (max tick rate 0) at 2021.01.05-02.42.41
+[2021.01.05-01.42.41:215][ 43]LogWorld: Bringing up level for play took: 0.000599
+[2021.01.05-01.42.41:215][ 43]LogOnline: OSS: Creating online subsystem instance for: :Context_67
+[2021.01.05-01.42.41:218][ 43]PIE: Server logged in
+[2021.01.05-01.42.41:219][ 43]PIE: Play in editor total start time 0.098 seconds.
+[2021.01.05-01.42.41:819][113]LogBlueprintUserMessages: [BP_Flecha_C_1] Hello
+[2021.01.05-01.42.41:819][113]LogBlueprintUserMessages: [BP_Flecha_C_1] Hello
+[2021.01.05-01.42.42:519][197]LogBlueprintUserMessages: [BP_Flecha_C_2] Hello
+[2021.01.05-01.42.42:519][197]LogBlueprintUserMessages: [BP_Flecha_C_2] Hello
+[2021.01.05-01.42.43:219][281]LogBlueprintUserMessages: [BP_Flecha_C_3] Hello
+[2021.01.05-01.42.43:219][281]LogBlueprintUserMessages: [BP_Flecha_C_3] Hello
+[2021.01.05-01.42.43:920][365]LogBlueprintUserMessages: [BP_Flecha_C_4] Hello
+[2021.01.05-01.42.43:920][365]LogBlueprintUserMessages: [BP_Flecha_C_4] Hello
+[2021.01.05-01.42.44:611][448]LogBlueprintUserMessages: [BP_Flecha_C_5] Hello
+[2021.01.05-01.42.44:612][448]LogBlueprintUserMessages: [BP_Flecha_C_5] Hello
+[2021.01.05-01.42.45:122][503]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.05-01.42.45:122][503]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.05-01.42.45:122][503]LogWorld: UWorld::CleanupWorld for Test_Room, bSessionEnded=true, bCleanupResources=true
+[2021.01.05-01.42.45:123][503]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.05-01.42.45:144][503]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.05-01.42.45:151][503]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.05-01.42.45:199][503]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.05-01.42.45:214][503]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002C4C7B6F240), frame # 498503
+[2021.01.05-01.42.45:214][503]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002C4BFEEBE00), frame # 498503
+[2021.01.05-01.42.45:216][503]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2021.01.05-01.42.45:241][504]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2021.01.05-01.43.06:247][911]BlueprintLog: New page: Compile BP_Flecha
+[2021.01.05-01.43.06:295][911]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.01.05-01.43.06:792][959]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Trampas/BP_Flecha" FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Blueprints/Trampas/BP_Flecha.uasset" SILENT=true
+[2021.01.05-01.43.06:806][959]LogSavePackage: Moving '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/BP_Flecha08B693EB47D3BABB941D288A36B03564.tmp' to '../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Blueprints/Trampas/BP_Flecha.uasset'
+[2021.01.05-01.43.06:827][959]AssetCheck: New page: Asset Save: BP_Flecha
+[2021.01.05-01.43.06:827][959]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Trampas/BP_Flecha.BP_Flecha
+[2021.01.05-01.43.07:437][ 29]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.05-01.43.07:451][ 29]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.05-01.43.07:451][ 29]PIE: New page: PIE session: Test_Room (Jan 5, 2021, 3:43:07 AM)
+[2021.01.05-01.43.07:451][ 29]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.05-01.43.07:453][ 29]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001732s)
+[2021.01.05-01.43.07:453][ 29]LogAIModule: Creating AISystem for world Test_Room
+[2021.01.05-01.43.07:454][ 29]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002C4471FEE00), frame # 501029
+[2021.01.05-01.43.07:454][ 29]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002C4CCAB7880), frame # 501029
+[2021.01.05-01.43.07:454][ 29]LogPlayLevel: PIE: World Init took: (0.000968s)
+[2021.01.05-01.43.07:454][ 29]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test_Room.Test_Room to /Game/Levels/UEDPIE_0_Test_Room.Test_Room (0.002837s)
+[2021.01.05-01.43.07:484][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2021.01.05-01.43.07:485][ 29]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.05-01.43.07:485][ 29]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.05-01.43.07:485][ 29]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.05-01.43.07:485][ 29]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.05-01.43.07:485][ 29]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.05-01.43.07:485][ 29]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.05-01.43.07:485][ 29]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.05-01.43.07:485][ 29]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.05-01.43.07:485][ 29]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.05-01.43.07:485][ 29]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.05-01.43.07:492][ 29]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.05-01.43.07:492][ 29]LogAudioMixer: Display: 1: FrontRight
+[2021.01.05-01.43.07:513][ 29]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2021.01.05-01.43.07:513][ 29]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.05-01.43.07:513][ 29]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.05-01.43.07:513][ 29]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.05-01.43.07:514][ 29]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.05-01.43.07:526][ 29]LogInit: FAudioDevice initialized.
+[2021.01.05-01.43.07:599][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.05-01.43.07:600][ 29]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.05-01.43.07:604][ 29]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test_Room.Test_Room up for play (max tick rate 0) at 2021.01.05-02.43.07
+[2021.01.05-01.43.07:605][ 29]LogWorld: Bringing up level for play took: 0.002616
+[2021.01.05-01.43.07:605][ 29]LogOnline: OSS: Creating online subsystem instance for: :Context_68
+[2021.01.05-01.43.07:612][ 29]PIE: Server logged in
+[2021.01.05-01.43.07:613][ 29]PIE: Play in editor total start time 0.166 seconds.
+[2021.01.05-01.43.19:608][261]LogSlate: Window 'GameJamUroboros Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.01.05-01.43.19:620][261]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.05-01.43.19:620][261]LogWorld: UWorld::CleanupWorld for Test_Room, bSessionEnded=true, bCleanupResources=true
+[2021.01.05-01.43.19:620][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.05-01.43.19:632][261]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.05-01.43.19:635][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.05-01.43.19:678][261]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002C4CCAB7880), frame # 502261
+[2021.01.05-01.43.19:678][261]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002C4471FEE00), frame # 502261
+[2021.01.05-01.43.19:681][261]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.01.05-01.43.19:709][262]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2021.01.05-01.44.23:078][ 35]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.05-01.44.23:078][ 35]PIE: New page: PIE session: Test_Room (Jan 5, 2021, 3:44:23 AM)
+[2021.01.05-01.44.23:078][ 35]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.05-01.44.23:080][ 35]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001716s)
+[2021.01.05-01.44.23:081][ 35]LogAIModule: Creating AISystem for world Test_Room
+[2021.01.05-01.44.23:081][ 35]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002C42F7C4C00), frame # 506035
+[2021.01.05-01.44.23:081][ 35]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002C4AF0A6FC0), frame # 506035
+[2021.01.05-01.44.23:081][ 35]LogPlayLevel: PIE: World Init took: (0.001008s)
+[2021.01.05-01.44.23:081][ 35]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test_Room.Test_Room to /Game/Levels/UEDPIE_0_Test_Room.Test_Room (0.002863s)
+[2021.01.05-01.44.23:111][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.01.05-01.44.23:114][ 35]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.05-01.44.23:114][ 35]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.05-01.44.23:114][ 35]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.05-01.44.23:114][ 35]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.05-01.44.23:114][ 35]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.05-01.44.23:114][ 35]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.05-01.44.23:114][ 35]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.05-01.44.23:114][ 35]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.05-01.44.23:115][ 35]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.05-01.44.23:115][ 35]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.05-01.44.23:122][ 35]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.05-01.44.23:122][ 35]LogAudioMixer: Display: 1: FrontRight
+[2021.01.05-01.44.23:145][ 35]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2021.01.05-01.44.23:145][ 35]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.05-01.44.23:145][ 35]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.05-01.44.23:145][ 35]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.05-01.44.23:145][ 35]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.05-01.44.23:156][ 35]LogInit: FAudioDevice initialized.
+[2021.01.05-01.44.23:219][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.05-01.44.23:220][ 35]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.05-01.44.23:223][ 35]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test_Room.Test_Room up for play (max tick rate 0) at 2021.01.05-02.44.23
+[2021.01.05-01.44.23:224][ 35]LogWorld: Bringing up level for play took: 0.001874
+[2021.01.05-01.44.23:224][ 35]LogOnline: OSS: Creating online subsystem instance for: :Context_69
+[2021.01.05-01.44.23:235][ 35]PIE: Server logged in
+[2021.01.05-01.44.23:237][ 35]PIE: Play in editor total start time 0.164 seconds.
+[2021.01.05-01.44.33:533][ 78]LogSlate: Window 'GameJamUroboros Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.01.05-01.44.33:578][ 78]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.05-01.44.33:578][ 78]LogWorld: UWorld::CleanupWorld for Test_Room, bSessionEnded=true, bCleanupResources=true
+[2021.01.05-01.44.33:578][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.05-01.44.33:586][ 78]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.05-01.44.33:590][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.05-01.44.33:634][ 78]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002C4AF0A6FC0), frame # 507078
+[2021.01.05-01.44.33:634][ 78]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002C42F7C4C00), frame # 507078
+[2021.01.05-01.44.33:636][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.01.05-01.44.33:911][ 79]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2021.01.05-01.44.47:419][529]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.05-01.44.47:419][529]PIE: New page: PIE session: Test_Room (Jan 5, 2021, 3:44:47 AM)
+[2021.01.05-01.44.47:419][529]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.05-01.44.47:421][529]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001723s)
+[2021.01.05-01.44.47:422][529]LogAIModule: Creating AISystem for world Test_Room
+[2021.01.05-01.44.47:422][529]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002C4E46B2200), frame # 508529
+[2021.01.05-01.44.47:422][529]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002C4C7DBCCC0), frame # 508529
+[2021.01.05-01.44.47:422][529]LogPlayLevel: PIE: World Init took: (0.000966s)
+[2021.01.05-01.44.47:422][529]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test_Room.Test_Room to /Game/Levels/UEDPIE_0_Test_Room.Test_Room (0.002828s)
+[2021.01.05-01.44.47:452][529]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2021.01.05-01.44.47:453][529]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.05-01.44.47:453][529]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.05-01.44.47:453][529]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.05-01.44.47:453][529]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.05-01.44.47:453][529]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.05-01.44.47:453][529]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.05-01.44.47:454][529]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.05-01.44.47:454][529]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.05-01.44.47:454][529]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.05-01.44.47:454][529]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.05-01.44.47:461][529]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.05-01.44.47:462][529]LogAudioMixer: Display: 1: FrontRight
+[2021.01.05-01.44.47:483][529]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2021.01.05-01.44.47:483][529]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.05-01.44.47:483][529]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.05-01.44.47:483][529]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.05-01.44.47:484][529]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.05-01.44.47:495][529]LogInit: FAudioDevice initialized.
+[2021.01.05-01.44.47:502][529]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.05-01.44.47:503][529]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test_Room.Test_Room up for play (max tick rate 0) at 2021.01.05-02.44.47
+[2021.01.05-01.44.47:503][529]LogWorld: Bringing up level for play took: 0.000609
+[2021.01.05-01.44.47:503][529]LogOnline: OSS: Creating online subsystem instance for: :Context_70
+[2021.01.05-01.44.47:506][529]PIE: Server logged in
+[2021.01.05-01.44.47:507][529]PIE: Play in editor total start time 0.093 seconds.
+[2021.01.05-01.44.52:531][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.05-01.44.52:531][126]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.05-01.44.52:531][126]LogWorld: UWorld::CleanupWorld for Test_Room, bSessionEnded=true, bCleanupResources=true
+[2021.01.05-01.44.52:532][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.05-01.44.52:544][126]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.05-01.44.52:550][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.05-01.44.52:592][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.05-01.44.52:610][126]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002C4C7DBCCC0), frame # 509126
+[2021.01.05-01.44.52:610][126]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002C4E46B2200), frame # 509126
+[2021.01.05-01.44.52:613][126]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2021.01.05-01.44.52:641][127]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2021.01.05-01.44.54:103][287]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.05-01.44.54:116][287]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.05-01.44.54:116][287]PIE: New page: PIE session: Test_Room (Jan 5, 2021, 3:44:54 AM)
+[2021.01.05-01.44.54:116][287]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.05-01.44.54:118][287]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001927s)
+[2021.01.05-01.44.54:119][287]LogAIModule: Creating AISystem for world Test_Room
+[2021.01.05-01.44.54:119][287]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002C4E2377000), frame # 509287
+[2021.01.05-01.44.54:119][287]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002C4BB32B4C0), frame # 509287
+[2021.01.05-01.44.54:119][287]LogPlayLevel: PIE: World Init took: (0.000918s)
+[2021.01.05-01.44.54:119][287]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test_Room.Test_Room to /Game/Levels/UEDPIE_0_Test_Room.Test_Room (0.002989s)
+[2021.01.05-01.44.54:149][287]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2021.01.05-01.44.54:150][287]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.05-01.44.54:150][287]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.05-01.44.54:150][287]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.05-01.44.54:150][287]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.05-01.44.54:150][287]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.05-01.44.54:150][287]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.05-01.44.54:150][287]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.05-01.44.54:150][287]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.05-01.44.54:151][287]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.05-01.44.54:151][287]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.05-01.44.54:157][287]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.05-01.44.54:157][287]LogAudioMixer: Display: 1: FrontRight
+[2021.01.05-01.44.54:179][287]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2021.01.05-01.44.54:179][287]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.05-01.44.54:179][287]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.05-01.44.54:179][287]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.05-01.44.54:180][287]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.05-01.44.54:192][287]LogInit: FAudioDevice initialized.
+[2021.01.05-01.44.54:198][287]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.05-01.44.54:200][287]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test_Room.Test_Room up for play (max tick rate 0) at 2021.01.05-02.44.54
+[2021.01.05-01.44.54:200][287]LogWorld: Bringing up level for play took: 0.000591
+[2021.01.05-01.44.54:200][287]LogOnline: OSS: Creating online subsystem instance for: :Context_71
+[2021.01.05-01.44.54:203][287]PIE: Server logged in
+[2021.01.05-01.44.54:203][287]PIE: Play in editor total start time 0.091 seconds.
+[2021.01.05-01.44.56:258][522]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.05-01.44.56:259][522]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.05-01.44.56:259][522]LogWorld: UWorld::CleanupWorld for Test_Room, bSessionEnded=true, bCleanupResources=true
+[2021.01.05-01.44.56:260][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.05-01.44.56:280][522]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.05-01.44.56:286][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.05-01.44.56:336][522]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.05-01.44.56:355][522]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002C4BB32B4C0), frame # 509522
+[2021.01.05-01.44.56:355][522]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002C4E2377000), frame # 509522
+[2021.01.05-01.44.56:358][522]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2021.01.05-01.44.56:389][523]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2021.01.05-01.45.05:182][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Test_Room" FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.05-01.45.05:214][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2021.01.05-01.45.05:228][277]LogSavePackage: Moving '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/Test_Room785C69684FF60CCAD17D51AFE02FF79E.tmp' to '../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room.umap'
+[2021.01.05-01.45.05:247][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Test_Room_BuiltData" FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room_BuiltData.uasset" SILENT=true
+[2021.01.05-01.45.05:258][277]LogSavePackage: Moving '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/Test_Room_BuiltDataB274BB9548DAF78F2C77DFB7A6ED3198.tmp' to '../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room_BuiltData.uasset'
+[2021.01.05-01.45.05:275][277]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.05-01.45.05:275][277]LogContentValidation: Display: Validating World /Game/Levels/Test_Room.Test_Room
+[2021.01.05-01.45.05:275][277]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Test_Room_BuiltData.Test_Room_BuiltData
+[2021.01.05-01.49.57:959][102]BlueprintLog: New page: Compile BP_Flecha
+[2021.01.05-01.49.58:012][102]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2021.01.05-01.49.58:726][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Trampas/BP_Flecha" FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Blueprints/Trampas/BP_Flecha.uasset" SILENT=true
+[2021.01.05-01.49.58:741][178]LogSavePackage: Moving '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/BP_Flecha96CBAEA94A2FEE886039F2A888E37676.tmp' to '../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Blueprints/Trampas/BP_Flecha.uasset'
+[2021.01.05-01.49.58:759][178]AssetCheck: New page: Asset Save: BP_Flecha
+[2021.01.05-01.49.58:760][178]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Trampas/BP_Flecha.BP_Flecha
+[2021.01.05-01.50.06:526][ 81]BlueprintLog: New page: Compile BP_Flecha
+[2021.01.05-01.50.06:579][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2021.01.05-01.50.07:042][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Trampas/BP_Flecha" FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Blueprints/Trampas/BP_Flecha.uasset" SILENT=true
+[2021.01.05-01.50.07:055][126]LogSavePackage: Moving '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/BP_Flecha95FF42D24B1C6223CCBCC4A4C8371CA9.tmp' to '../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Blueprints/Trampas/BP_Flecha.uasset'
+[2021.01.05-01.50.07:074][126]AssetCheck: New page: Asset Save: BP_Flecha
+[2021.01.05-01.50.07:075][126]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Trampas/BP_Flecha.BP_Flecha
+[2021.01.05-01.50.09:473][401]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2021.01.05-01.50.12:206][401]LogSlate: Window 'Save Content' being destroyed
+[2021.01.05-01.50.12:232][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Test_Room" FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.05-01.50.12:261][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.01.05-01.50.12:274][401]LogSavePackage: Moving '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/Test_RoomBD47BF31462C7073E425CDBFB65C31A1.tmp' to '../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room.umap'
+[2021.01.05-01.50.12:294][401]LogFileHelpers: Saving map 'Test_Room' took 0.062
+[2021.01.05-01.50.12:294][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Test_Room_BuiltData" FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room_BuiltData.uasset" SILENT=true
+[2021.01.05-01.50.12:307][401]LogSavePackage: Moving '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/Test_Room_BuiltData1FA0BD0A4364CB956D8088868C4D678B.tmp' to '../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room_BuiltData.uasset'
+[2021.01.05-01.50.12:352][401]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.01.05-01.50.12:352][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.05-01.50.12:478][401]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.01.05-01.50.12:478][401]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.01.05-01.50.12:478][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.05-01.50.12:598][401]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.01.05-01.50.12:598][401]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.01.05-01.50.12:598][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.05-01.50.12:675][401]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.01.05-01.50.12:676][401]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.01.05-01.50.12:676][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.05-01.50.12:746][401]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.01.05-01.50.12:746][401]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.01.05-01.50.12:746][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.05-01.50.12:839][401]LogSlate: Window 'GameJamUroboros - Unreal Editor' being destroyed
+[2021.01.05-01.50.13:033][401]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.05-01.50.13:033][401]LogContentValidation: Display: Validating World /Game/Levels/Test_Room.Test_Room
+[2021.01.05-01.50.13:033][401]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Test_Room_BuiltData.Test_Room_BuiltData
+[2021.01.05-01.50.13:047][402]Cmd: QUIT_EDITOR
+[2021.01.05-01.50.13:047][402]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.01.05-01.50.13:057][402]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.01.05-01.50.13:195][402]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.01.05-01.50.13:221][402]LogExit: Preparing to exit.
+[2021.01.05-01.50.13:503][402]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.01.05-01.50.13:504][402]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.01.05-01.50.13:504][402]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.01.05-01.50.13:504][402]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.01.05-01.50.13:504][402]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.01.05-01.50.13:504][402]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.01.05-01.50.13:505][402]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.01.05-01.50.13:505][402]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.01.05-01.50.13:505][402]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.01.05-01.50.13:505][402]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.01.05-01.50.13:505][402]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.01.05-01.50.13:507][402]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.01.05-01.50.13:507][402]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.01.05-01.50.13:507][402]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.01.05-01.50.13:507][402]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.01.05-01.50.13:507][402]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.01.05-01.50.13:507][402]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.01.05-01.50.13:507][402]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.01.05-01.50.13:507][402]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.01.05-01.50.13:508][402]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.01.05-01.50.13:508][402]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.01.05-01.50.13:538][402]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.01.05-01.50.13:552][402]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.01.05-01.50.13:552][402]LogExit: Editor shut down
+[2021.01.05-01.50.13:553][402]LogExit: Transaction tracking system shut down
+[2021.01.05-01.50.13:887][402]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (000002C3A1745400), frame # 518402
+[2021.01.05-01.50.13:887][402]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002C3A1696AC0), frame # 518402
+[2021.01.05-01.50.13:887][402]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002C3A170C800), frame # 518402
+[2021.01.05-01.50.13:900][402]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002C398912000), frame # 518402
+[2021.01.05-01.50.13:900][402]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002C3A6944A40), frame # 518402
+[2021.01.05-01.50.14:011][402]LogExit: Object subsystem successfully closed.
+[2021.01.05-01.50.14:032][402]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.01.05-01.50.14:052][402]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (798)
+[2021.01.05-01.50.14:052][402]LogModuleManager: Shutting down and abandoning module BlueprintGraph (796)
+[2021.01.05-01.50.14:052][402]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (794)
+[2021.01.05-01.50.14:052][402]LogModuleManager: Shutting down and abandoning module Voice (792)
+[2021.01.05-01.50.14:052][402]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (790)
+[2021.01.05-01.50.14:052][402]LogModuleManager: Shutting down and abandoning module AddContentDialog (788)
+[2021.01.05-01.50.14:054][402]LogModuleManager: Shutting down and abandoning module WidgetCarousel (787)
+[2021.01.05-01.50.14:054][402]LogModuleManager: Shutting down and abandoning module EditorWidgets (784)
+[2021.01.05-01.50.14:054][402]LogModuleManager: Shutting down and abandoning module CollectionManager (782)
+[2021.01.05-01.50.14:055][402]LogModuleManager: Shutting down and abandoning module SceneOutliner (780)
+[2021.01.05-01.50.14:055][402]LogModuleManager: Shutting down and abandoning module StatsViewer (778)
+[2021.01.05-01.50.14:055][402]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (776)
+[2021.01.05-01.50.14:055][402]LogModuleManager: Shutting down and abandoning module FoliageEdit (774)
+[2021.01.05-01.50.14:055][402]LogModuleManager: Shutting down and abandoning module LandscapeEditor (772)
+[2021.01.05-01.50.14:055][402]LogModuleManager: Shutting down and abandoning module MeshPaintMode (770)
+[2021.01.05-01.50.14:055][402]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (768)
+[2021.01.05-01.50.14:055][402]LogModuleManager: Shutting down and abandoning module ActorPickerMode (766)
+[2021.01.05-01.50.14:055][402]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (764)
+[2021.01.05-01.50.14:055][402]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (762)
+[2021.01.05-01.50.14:055][402]LogModuleManager: Shutting down and abandoning module AutomationWorker (760)
+[2021.01.05-01.50.14:055][402]LogModuleManager: Shutting down and abandoning module SteamVREditor (758)
+[2021.01.05-01.50.14:055][402]LogModuleManager: Shutting down and abandoning module OculusMR (756)
+[2021.01.05-01.50.14:055][402]LogModuleManager: Shutting down and abandoning module GooglePADEditor (754)
+[2021.01.05-01.50.14:055][402]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (752)
+[2021.01.05-01.50.14:055][402]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (750)
+[2021.01.05-01.50.14:055][402]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (748)
+[2021.01.05-01.50.14:055][402]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (746)
+[2021.01.05-01.50.14:056][402]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (744)
+[2021.01.05-01.50.14:056][402]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (742)
+[2021.01.05-01.50.14:056][402]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (740)
+[2021.01.05-01.50.14:056][402]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (738)
+[2021.01.05-01.50.14:056][402]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (736)
+[2021.01.05-01.50.14:056][402]LogModuleManager: Shutting down and abandoning module WebMMedia (734)
+[2021.01.05-01.50.14:056][402]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (732)
+[2021.01.05-01.50.14:056][402]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (730)
+[2021.01.05-01.50.14:056][402]LogModuleManager: Shutting down and abandoning module SequenceRecorder (729)
+[2021.01.05-01.50.14:056][402]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (726)
+[2021.01.05-01.50.14:056][402]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (724)
+[2021.01.05-01.50.14:056][402]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (722)
+[2021.01.05-01.50.14:056][402]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (720)
+[2021.01.05-01.50.14:056][402]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (718)
+[2021.01.05-01.50.14:056][402]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (716)
+[2021.01.05-01.50.14:056][402]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (714)
+[2021.01.05-01.50.14:056][402]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (712)
+[2021.01.05-01.50.14:056][402]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (710)
+[2021.01.05-01.50.14:056][402]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (708)
+[2021.01.05-01.50.14:056][402]LogModuleManager: Shutting down and abandoning module PlanarCut (706)
+[2021.01.05-01.50.14:056][402]LogModuleManager: Shutting down and abandoning module CharacterAI (704)
+[2021.01.05-01.50.14:056][402]LogModuleManager: Shutting down and abandoning module TextureAlignMode (702)
+[2021.01.05-01.50.14:056][402]LogModuleManager: Shutting down and abandoning module BspMode (700)
+[2021.01.05-01.50.14:056][402]LogModuleManager: Shutting down and abandoning module PlacementMode (699)
+[2021.01.05-01.50.14:057][402]LogModuleManager: Shutting down and abandoning module GeometryMode (696)
+[2021.01.05-01.50.14:057][402]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (694)
+[2021.01.05-01.50.14:057][402]LogModuleManager: Shutting down and abandoning module SmartSnapping (692)
+[2021.01.05-01.50.14:057][402]LogModuleManager: Shutting down and abandoning module SessionServices (690)
+[2021.01.05-01.50.14:057][402]LogModuleManager: Shutting down and abandoning module MeshPaint (688)
+[2021.01.05-01.50.14:057][402]LogModuleManager: Shutting down and abandoning module ViewportSnapping (686)
+[2021.01.05-01.50.14:057][402]LogModuleManager: Shutting down and abandoning module ViewportInteraction (684)
+[2021.01.05-01.50.14:057][402]LogModuleManager: Shutting down and abandoning module ClothPainter (682)
+[2021.01.05-01.50.14:057][402]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (681)
+[2021.01.05-01.50.14:057][402]LogModuleManager: Shutting down and abandoning module LogVisualizer (678)
+[2021.01.05-01.50.14:057][402]LogModuleManager: Shutting down and abandoning module IntroTutorials (676)
+[2021.01.05-01.50.14:058][402]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (675)
+[2021.01.05-01.50.14:058][402]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (672)
+[2021.01.05-01.50.14:058][402]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (670)
+[2021.01.05-01.50.14:058][402]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (668)
+[2021.01.05-01.50.14:058][402]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (667)
+[2021.01.05-01.50.14:733][402]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (664)
+[2021.01.05-01.50.14:733][402]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (662)
+[2021.01.05-01.50.14:733][402]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (660)
+[2021.01.05-01.50.14:733][402]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (658)
+[2021.01.05-01.50.14:734][402]LogModuleManager: Shutting down and abandoning module TraceInsights (656)
+[2021.01.05-01.50.14:734][402]LogModuleManager: Shutting down and abandoning module TraceServices (655)
+[2021.01.05-01.50.14:734][402]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (652)
+[2021.01.05-01.50.14:734][402]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (650)
+[2021.01.05-01.50.14:734][402]LogModuleManager: Shutting down and abandoning module InputBindingEditor (648)
+[2021.01.05-01.50.14:734][402]LogModuleManager: Shutting down and abandoning module MergeActors (646)
+[2021.01.05-01.50.14:734][402]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (644)
+[2021.01.05-01.50.14:734][402]LogModuleManager: Shutting down and abandoning module LocalizationService (643)
+[2021.01.05-01.50.14:734][402]LogModuleManager: Shutting down and abandoning module HardwareTargeting (640)
+[2021.01.05-01.50.14:734][402]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (638)
+[2021.01.05-01.50.14:734][402]LogModuleManager: Shutting down and abandoning module UndoHistory (636)
+[2021.01.05-01.50.14:734][402]LogModuleManager: Shutting down and abandoning module XmlParser (634)
+[2021.01.05-01.50.14:734][402]LogModuleManager: Shutting down and abandoning module Blutility (632)
+[2021.01.05-01.50.14:734][402]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (630)
+[2021.01.05-01.50.14:734][402]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (629)
+[2021.01.05-01.50.14:735][402]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (626)
+[2021.01.05-01.50.14:735][402]LogModuleManager: Shutting down and abandoning module SettingsEditor (624)
+[2021.01.05-01.50.14:735][402]LogModuleManager: Shutting down and abandoning module ProjectLauncher (622)
+[2021.01.05-01.50.14:735][402]LogModuleManager: Shutting down and abandoning module SessionFrontend (620)
+[2021.01.05-01.50.14:735][402]LogModuleManager: Shutting down and abandoning module ProfilerClient (618)
+[2021.01.05-01.50.14:735][402]LogModuleManager: Shutting down and abandoning module DeviceManager (616)
+[2021.01.05-01.50.14:735][402]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (615)
+[2021.01.05-01.50.14:768][402]LogModuleManager: Shutting down and abandoning module AutomationController (612)
+[2021.01.05-01.50.14:768][402]LogModuleManager: Shutting down and abandoning module AutomationWindow (610)
+[2021.01.05-01.50.14:768][402]LogModuleManager: Shutting down and abandoning module Layers (608)
+[2021.01.05-01.50.14:768][402]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (606)
+[2021.01.05-01.50.14:768][402]LogModuleManager: Shutting down and abandoning module DetailCustomizations (604)
+[2021.01.05-01.50.14:768][402]LogModuleManager: Shutting down and abandoning module PackagesDialog (602)
+[2021.01.05-01.50.14:768][402]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (600)
+[2021.01.05-01.50.14:768][402]LogModuleManager: Shutting down and abandoning module Persona (598)
+[2021.01.05-01.50.14:768][402]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (597)
+[2021.01.05-01.50.14:768][402]LogModuleManager: Shutting down and abandoning module AnimGraph (595)
+[2021.01.05-01.50.14:768][402]LogModuleManager: Shutting down and abandoning module Kismet (592)
+[2021.01.05-01.50.14:786][402]LogModuleManager: Shutting down and abandoning module KismetWidgets (591)
+[2021.01.05-01.50.14:786][402]LogModuleManager: Shutting down and abandoning module GraphEditor (588)
+[2021.01.05-01.50.14:787][402]LogModuleManager: Shutting down and abandoning module StructViewer (586)
+[2021.01.05-01.50.14:787][402]LogModuleManager: Shutting down and abandoning module ClassViewer (584)
+[2021.01.05-01.50.14:788][402]LogModuleManager: Shutting down and abandoning module Toolbox (582)
+[2021.01.05-01.50.14:788][402]LogModuleManager: Shutting down and abandoning module ModuleUI (580)
+[2021.01.05-01.50.14:788][402]LogModuleManager: Shutting down and abandoning module OutputLog (578)
+[2021.01.05-01.50.14:792][402]LogModuleManager: Shutting down and abandoning module GammaUI (576)
+[2021.01.05-01.50.14:792][402]LogModuleManager: Shutting down and abandoning module Documentation (574)
+[2021.01.05-01.50.14:794][402]LogModuleManager: Shutting down and abandoning module LiveCoding (572)
+[2021.01.05-01.50.14:794][402]LogModuleManager: Shutting down and abandoning module LevelSequence (570)
+[2021.01.05-01.50.14:794][402]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (568)
+[2021.01.05-01.50.14:794][402]LogModuleManager: Shutting down and abandoning module MovieScene (566)
+[2021.01.05-01.50.14:794][402]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (564)
+[2021.01.05-01.50.14:794][402]LogModuleManager: Shutting down and abandoning module LauncherPlatform (562)
+[2021.01.05-01.50.14:794][402]LogModuleManager: Shutting down and abandoning module AnalyticsET (560)
+[2021.01.05-01.50.14:794][402]LogModuleManager: Shutting down and abandoning module PortalServices (558)
+[2021.01.05-01.50.14:794][402]LogModuleManager: Shutting down and abandoning module PortalRpc (556)
+[2021.01.05-01.50.14:794][402]LogModuleManager: Shutting down and abandoning module MessagingRpc (554)
+[2021.01.05-01.50.14:795][402]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (552)
+[2021.01.05-01.50.14:795][402]LogModuleManager: Shutting down and abandoning module AudioMixerCore (551)
+[2021.01.05-01.50.14:795][402]LogModuleManager: Shutting down and abandoning module AIModule (548)
+[2021.01.05-01.50.14:795][402]LogModuleManager: Shutting down and abandoning module GameplayDebugger (547)
+[2021.01.05-01.50.14:795][402]LogModuleManager: Shutting down and abandoning module AITestSuite (545)
+[2021.01.05-01.50.14:795][402]LogModuleManager: Shutting down and abandoning module NavigationSystem (543)
+[2021.01.05-01.50.14:795][402]LogModuleManager: Shutting down and abandoning module ProfilerService (540)
+[2021.01.05-01.50.14:899][402]LogModuleManager: Shutting down and abandoning module TaskGraph (538)
+[2021.01.05-01.50.14:899][402]LogModuleManager: Shutting down and abandoning module ScreenshotTools (536)
+[2021.01.05-01.50.14:899][402]LogModuleManager: Shutting down and abandoning module SynthesisEditor (534)
+[2021.01.05-01.50.14:899][402]LogModuleManager: Shutting down and abandoning module Synthesis (532)
+[2021.01.05-01.50.14:899][402]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (530)
+[2021.01.05-01.50.14:899][402]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (528)
+[2021.01.05-01.50.14:899][402]LogModuleManager: Shutting down and abandoning module OculusEditor (526)
+[2021.01.05-01.50.14:899][402]LogModuleManager: Shutting down and abandoning module OculusInput (524)
+[2021.01.05-01.50.14:899][402]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (522)
+[2021.01.05-01.50.14:899][402]LogModuleManager: Shutting down and abandoning module GooglePAD (520)
+[2021.01.05-01.50.14:899][402]LogModuleManager: Shutting down and abandoning module EditableMesh (518)
+[2021.01.05-01.50.14:899][402]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (516)
+[2021.01.05-01.50.14:899][402]LogModuleManager: Shutting down and abandoning module CableComponent (514)
+[2021.01.05-01.50.14:899][402]LogModuleManager: Shutting down and abandoning module AudioCapture (512)
+[2021.01.05-01.50.14:899][402]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (511)
+[2021.01.05-01.50.14:899][402]LogModuleManager: Shutting down and abandoning module AssetTags (508)
+[2021.01.05-01.50.14:899][402]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (506)
+[2021.01.05-01.50.14:900][402]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (504)
+[2021.01.05-01.50.14:900][402]LogModuleManager: Shutting down and abandoning module AppleImageUtils (502)
+[2021.01.05-01.50.14:900][402]LogModuleManager: Shutting down and abandoning module AndroidPermission (500)
+[2021.01.05-01.50.14:900][402]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (498)
+[2021.01.05-01.50.14:900][402]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (496)
+[2021.01.05-01.50.14:900][402]LogModuleManager: Shutting down and abandoning module TemplateSequence (494)
+[2021.01.05-01.50.14:900][402]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineEditor (492)
+[2021.01.05-01.50.14:900][402]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineRenderPasses (490)
+[2021.01.05-01.50.14:900][402]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineSettings (488)
+[2021.01.05-01.50.14:900][402]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineCore (486)
+[2021.01.05-01.50.14:900][402]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (485)
+[2021.01.05-01.50.14:900][402]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (482)
+[2021.01.05-01.50.14:900][402]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (480)
+[2021.01.05-01.50.14:900][402]LogModuleManager: Shutting down and abandoning module MediaCompositing (478)
+[2021.01.05-01.50.14:900][402]LogModuleManager: Shutting down and abandoning module ImgMedia (476)
+[2021.01.05-01.50.14:900][402]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (474)
+[2021.01.05-01.50.14:900][402]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (472)
+[2021.01.05-01.50.14:900][402]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (470)
+[2021.01.05-01.50.14:900][402]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (468)
+[2021.01.05-01.50.14:900][402]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (466)
+[2021.01.05-01.50.14:900][402]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (464)
+[2021.01.05-01.50.14:900][402]LogModuleManager: Shutting down and abandoning module MeshSolverUtilities (462)
+[2021.01.05-01.50.14:900][402]LogModuleManager: Shutting down and abandoning module MeshConversion (460)
+[2021.01.05-01.50.14:900][402]LogModuleManager: Shutting down and abandoning module DynamicMesh (458)
+[2021.01.05-01.50.14:900][402]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (456)
+[2021.01.05-01.50.14:900][402]LogModuleManager: Shutting down and abandoning module GeometricObjects (454)
+[2021.01.05-01.50.14:900][402]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (452)
+[2021.01.05-01.50.14:900][402]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (451)
+[2021.01.05-01.50.14:900][402]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (448)
+[2021.01.05-01.50.14:901][402]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (446)
+[2021.01.05-01.50.14:901][402]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (444)
+[2021.01.05-01.50.14:901][402]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (442)
+[2021.01.05-01.50.14:901][402]LogModuleManager: Shutting down and abandoning module ChaosNiagara (440)
+[2021.01.05-01.50.14:901][402]LogModuleManager: Shutting down and abandoning module FractureEditor (438)
+[2021.01.05-01.50.14:901][402]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (436)
+[2021.01.05-01.50.14:901][402]LogModuleManager: Shutting down and abandoning module ChaosCloth (434)
+[2021.01.05-01.50.14:901][402]LogModuleManager: Shutting down and abandoning module BackChannel (432)
+[2021.01.05-01.50.14:901][402]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (430)
+[2021.01.05-01.50.14:901][402]LogModuleManager: Shutting down and abandoning module AutomationUtils (428)
+[2021.01.05-01.50.14:901][402]LogModuleManager: Shutting down and abandoning module AlembicImporter (426)
+[2021.01.05-01.50.14:901][402]LogModuleManager: Shutting down and abandoning module AlembicLibrary (425)
+[2021.01.05-01.50.14:901][402]LogModuleManager: Shutting down and abandoning module GeometryCache (424)
+[2021.01.05-01.50.14:901][402]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (423)
+[2021.01.05-01.50.14:901][402]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (418)
+[2021.01.05-01.50.14:901][402]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (416)
+[2021.01.05-01.50.14:901][402]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (414)
+[2021.01.05-01.50.14:901][402]LogModuleManager: Shutting down and abandoning module PluginBrowser (412)
+[2021.01.05-01.50.14:901][402]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (410)
+[2021.01.05-01.50.14:901][402]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (408)
+[2021.01.05-01.50.14:901][402]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (406)
+[2021.01.05-01.50.14:901][402]LogModuleManager: Shutting down and abandoning module CurveEditorTools (404)
+[2021.01.05-01.50.14:901][402]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (402)
+[2021.01.05-01.50.14:901][402]LogModuleManager: Shutting down and abandoning module CryptoKeys (400)
+[2021.01.05-01.50.14:901][402]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (398)
+[2021.01.05-01.50.14:901][402]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (396)
+[2021.01.05-01.50.14:901][402]LogModuleManager: Shutting down and abandoning module UObjectPlugin (394)
+[2021.01.05-01.50.14:901][402]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (392)
+[2021.01.05-01.50.14:901][402]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (390)
+[2021.01.05-01.50.14:902][402]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (388)
+[2021.01.05-01.50.14:902][402]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (386)
+[2021.01.05-01.50.14:902][402]LogModuleManager: Shutting down and abandoning module GitSourceControl (384)
+[2021.01.05-01.50.14:902][402]LogModuleManager: Shutting down and abandoning module SourceControl (383)
+[2021.01.05-01.50.14:902][402]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (380)
+[2021.01.05-01.50.14:902][402]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (378)
+[2021.01.05-01.50.14:902][402]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (376)
+[2021.01.05-01.50.14:902][402]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (374)
+[2021.01.05-01.50.14:902][402]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (372)
+[2021.01.05-01.50.14:902][402]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (370)
+[2021.01.05-01.50.14:902][402]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (368)
+[2021.01.05-01.50.14:902][402]LogModuleManager: Shutting down and abandoning module Paper2DEditor (366)
+[2021.01.05-01.50.14:902][402]LogModuleManager: Shutting down and abandoning module SoundFields (364)
+[2021.01.05-01.50.14:902][402]LogModuleManager: Shutting down and abandoning module SignificanceManager (362)
+[2021.01.05-01.50.14:902][402]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (360)
+[2021.01.05-01.50.14:902][402]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (358)
+[2021.01.05-01.50.14:902][402]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (354)
+[2021.01.05-01.50.14:902][402]LogModuleManager: Shutting down and abandoning module ActorSequence (352)
+[2021.01.05-01.50.14:902][402]LogModuleManager: Shutting down and abandoning module UdpMessaging (350)
+[2021.01.05-01.50.15:003][402]LogModuleManager: Shutting down and abandoning module TcpMessaging (348)
+[2021.01.05-01.50.15:104][402]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (346)
+[2021.01.05-01.50.15:104][402]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (344)
+[2021.01.05-01.50.15:104][402]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (342)
+[2021.01.05-01.50.15:104][402]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (340)
+[2021.01.05-01.50.15:104][402]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (338)
+[2021.01.05-01.50.15:104][402]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2021.01.05-01.50.15:104][402]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (336)
+[2021.01.05-01.50.15:104][402]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (334)
+[2021.01.05-01.50.15:104][402]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (332)
+[2021.01.05-01.50.15:105][402]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (330)
+[2021.01.05-01.50.15:105][402]LogModuleManager: Shutting down and abandoning module MagicLeapController (328)
+[2021.01.05-01.50.15:105][402]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.01.05-01.50.15:105][402]LogSlate: Slate User Destroyed.  User Index 1, Is Virtual User: 0
+[2021.01.05-01.50.15:106][402]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (326)
+[2021.01.05-01.50.15:106][402]LogModuleManager: Shutting down and abandoning module MagicLeapAR (324)
+[2021.01.05-01.50.15:106][402]LogModuleManager: Shutting down and abandoning module AugmentedReality (323)
+[2021.01.05-01.50.15:106][402]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (320)
+[2021.01.05-01.50.15:106][402]LogModuleManager: Shutting down and abandoning module Niagara (318)
+[2021.01.05-01.50.15:107][402]LogModuleManager: Shutting down and abandoning module SignalProcessing (317)
+[2021.01.05-01.50.15:107][402]LogModuleManager: Shutting down and abandoning module NiagaraEditor (315)
+[2021.01.05-01.50.15:108][402]LogModuleManager: Shutting down and abandoning module NiagaraCore (312)
+[2021.01.05-01.50.15:108][402]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (310)
+[2021.01.05-01.50.15:108][402]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (308)
+[2021.01.05-01.50.15:108][402]LogModuleManager: Shutting down and abandoning module FacialAnimation (306)
+[2021.01.05-01.50.15:109][402]LogModuleManager: Shutting down and abandoning module DataValidation (304)
+[2021.01.05-01.50.15:109][402]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (302)
+[2021.01.05-01.50.15:109][402]LogModuleManager: Shutting down and abandoning module LevelEditor (301)
+[2021.01.05-01.50.15:113][402]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (300)
+[2021.01.05-01.50.15:113][402]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (298)
+[2021.01.05-01.50.15:113][402]LogModuleManager: Shutting down and abandoning module MainFrame (296)
+[2021.01.05-01.50.15:113][402]LogModuleManager: Shutting down and abandoning module HotReload (295)
+[2021.01.05-01.50.15:114][402]LogModuleManager: Shutting down and abandoning module ToolMenus (291)
+[2021.01.05-01.50.15:114][402]LogModuleManager: Shutting down and abandoning module TreeMap (289)
+[2021.01.05-01.50.15:115][402]LogModuleManager: Shutting down and abandoning module AnimationSharing (286)
+[2021.01.05-01.50.15:115][402]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (284)
+[2021.01.05-01.50.15:115][402]LogModuleManager: Shutting down and abandoning module Paper2D (282)
+[2021.01.05-01.50.15:115][402]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (280)
+[2021.01.05-01.50.15:134][402]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (278)
+[2021.01.05-01.50.15:134][402]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (276)
+[2021.01.05-01.50.15:134][402]LogModuleManager: Shutting down and abandoning module PacketHandler (274)
+[2021.01.05-01.50.15:134][402]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (272)
+[2021.01.05-01.50.15:134][402]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (270)
+[2021.01.05-01.50.15:134][402]LogModuleManager: Shutting down and abandoning module MediaAssets (268)
+[2021.01.05-01.50.15:134][402]LogModuleManager: Shutting down and abandoning module Overlay (266)
+[2021.01.05-01.50.15:135][402]LogModuleManager: Shutting down and abandoning module OverlayEditor (265)
+[2021.01.05-01.50.15:135][402]LogModuleManager: Shutting down and abandoning module VREditor (262)
+[2021.01.05-01.50.15:135][402]LogModuleManager: Shutting down and abandoning module StringTableEditor (260)
+[2021.01.05-01.50.15:135][402]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (258)
+[2021.01.05-01.50.15:135][402]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (256)
+[2021.01.05-01.50.15:135][402]LogModuleManager: Shutting down and abandoning module FunctionalTesting (254)
+[2021.01.05-01.50.15:135][402]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (252)
+[2021.01.05-01.50.15:135][402]LogModuleManager: Shutting down and abandoning module UMG (250)
+[2021.01.05-01.50.15:135][402]LogModuleManager: Shutting down and abandoning module UMGEditor (249)
+[2021.01.05-01.50.15:135][402]LogModuleManager: Shutting down and abandoning module MessageLog (247)
+[2021.01.05-01.50.15:135][402]LogModuleManager: Shutting down and abandoning module MaterialEditor (245)
+[2021.01.05-01.50.15:136][402]LogModuleManager: Shutting down and abandoning module ContentBrowser (244)
+[2021.01.05-01.50.15:144][402]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (243)
+[2021.01.05-01.50.15:144][402]LogModuleManager: Shutting down and abandoning module SlateReflector (236)
+[2021.01.05-01.50.15:144][402]LogModuleManager: Shutting down and abandoning module Slate (234)
+[2021.01.05-01.50.15:145][402]LogModuleManager: Shutting down and abandoning module SlateCore (232)
+[2021.01.05-01.50.15:145][402]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (230)
+[2021.01.05-01.50.15:145][402]LogModuleManager: Shutting down and abandoning module UnrealEd (228)
+[2021.01.05-01.50.15:145][402]LogModuleManager: Shutting down and abandoning module MRMesh (226)
+[2021.01.05-01.50.15:145][402]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (224)
+[2021.01.05-01.50.15:145][402]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (222)
+[2021.01.05-01.50.15:145][402]LogModuleManager: Shutting down and abandoning module XAudio2 (220)
+[2021.01.05-01.50.15:145][402]LogModuleManager: Shutting down and abandoning module Networking (218)
+[2021.01.05-01.50.15:145][402]LogModuleManager: Shutting down and abandoning module Core (216)
+[2021.01.05-01.50.15:145][402]LogModuleManager: Shutting down and abandoning module MovieSceneTools (214)
+[2021.01.05-01.50.15:145][402]LogModuleManager: Shutting down and abandoning module CurveEditor (213)
+[2021.01.05-01.50.15:146][402]LogModuleManager: Shutting down and abandoning module Sequencer (211)
+[2021.01.05-01.50.15:146][402]LogModuleManager: Shutting down and abandoning module EditorStyle (210)
+[2021.01.05-01.50.15:152][402]LogModuleManager: Shutting down and abandoning module KismetCompiler (206)
+[2021.01.05-01.50.15:152][402]LogModuleManager: Shutting down and abandoning module MeshBuilder (204)
+[2021.01.05-01.50.15:152][402]LogModuleManager: Shutting down and abandoning module MeshUtilities (202)
+[2021.01.05-01.50.15:152][402]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (201)
+[2021.01.05-01.50.15:152][402]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (200)
+[2021.01.05-01.50.15:152][402]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (199)
+[2021.01.05-01.50.15:152][402]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (197)
+[2021.01.05-01.50.15:152][402]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (195)
+[2021.01.05-01.50.15:153][402]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (193)
+[2021.01.05-01.50.15:153][402]LogModuleManager: Shutting down and abandoning module MaterialBaking (189)
+[2021.01.05-01.50.15:153][402]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (184)
+[2021.01.05-01.50.15:153][402]LogModuleManager: Shutting down and abandoning module DerivedDataCache (182)
+[2021.01.05-01.50.15:153][402]LogModuleManager: Shutting down and abandoning module XGEController (180)
+[2021.01.05-01.50.15:153][402]LogModuleManager: Shutting down and abandoning module TargetPlatform (178)
+[2021.01.05-01.50.15:154][402]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (177)
+[2021.01.05-01.50.15:154][402]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (175)
+[2021.01.05-01.50.15:155][402]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (173)
+[2021.01.05-01.50.15:155][402]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (171)
+[2021.01.05-01.50.15:155][402]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (169)
+[2021.01.05-01.50.15:155][402]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (167)
+[2021.01.05-01.50.15:155][402]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (165)
+[2021.01.05-01.50.15:155][402]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (163)
+[2021.01.05-01.50.15:155][402]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (161)
+[2021.01.05-01.50.15:156][402]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (159)
+[2021.01.05-01.50.15:158][402]LogModuleManager: Shutting down and abandoning module ImageWrapper (158)
+[2021.01.05-01.50.15:158][402]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (155)
+[2021.01.05-01.50.15:158][402]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (153)
+[2021.01.05-01.50.15:158][402]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (151)
+[2021.01.05-01.50.15:158][402]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (149)
+[2021.01.05-01.50.15:158][402]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (147)
+[2021.01.05-01.50.15:159][402]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (145)
+[2021.01.05-01.50.15:160][402]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (143)
+[2021.01.05-01.50.15:162][402]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (141)
+[2021.01.05-01.50.15:162][402]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (139)
+[2021.01.05-01.50.15:181][402]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (137)
+[2021.01.05-01.50.15:192][402]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (135)
+[2021.01.05-01.50.15:192][402]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (133)
+[2021.01.05-01.50.15:192][402]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (131)
+[2021.01.05-01.50.15:192][402]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (129)
+[2021.01.05-01.50.15:193][402]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (127)
+[2021.01.05-01.50.15:193][402]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (125)
+[2021.01.05-01.50.15:193][402]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2021.01.05-01.50.15:193][402]LogModuleManager: Shutting down and abandoning module Messaging (121)
+[2021.01.05-01.50.15:193][402]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (119)
+[2021.01.05-01.50.15:199][402]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (117)
+[2021.01.05-01.50.15:224][402]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (115)
+[2021.01.05-01.50.15:225][402]LogModuleManager: Shutting down and abandoning module InputCore (112)
+[2021.01.05-01.50.15:225][402]LogModuleManager: Shutting down and abandoning module Settings (110)
+[2021.01.05-01.50.15:225][402]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (108)
+[2021.01.05-01.50.15:226][402]LogModuleManager: Shutting down and abandoning module PhysXCooking (106)
+[2021.01.05-01.50.15:226][402]LogModuleManager: Shutting down and abandoning module ChaosSolvers (104)
+[2021.01.05-01.50.15:226][402]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (103)
+[2021.01.05-01.50.15:226][402]LogModuleManager: Shutting down and abandoning module Chaos (100)
+[2021.01.05-01.50.15:226][402]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (98)
+[2021.01.05-01.50.15:226][402]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (97)
+[2021.01.05-01.50.15:226][402]LogModuleManager: Shutting down and abandoning module AVEncoder (96)
+[2021.01.05-01.50.15:226][402]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (92)
+[2021.01.05-01.50.15:226][402]LogModuleManager: Shutting down and abandoning module SteamVRInput (90)
+[2021.01.05-01.50.15:226][402]LogModuleManager: Shutting down and abandoning module SteamVR (88)
+[2021.01.05-01.50.15:226][402]LogHMD: Freeing OpenVRDLLHandle.
+[2021.01.05-01.50.15:226][402]LogModuleManager: Shutting down and abandoning module OculusHMD (86)
+[2021.01.05-01.50.15:226][402]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (84)
+[2021.01.05-01.50.15:226][402]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (82)
+[2021.01.05-01.50.15:226][402]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (80)
+[2021.01.05-01.50.15:226][402]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (76)
+[2021.01.05-01.50.15:228][402]LogModuleManager: Shutting down and abandoning module XMPP (71)
+[2021.01.05-01.50.15:228][402]LogModuleManager: Shutting down and abandoning module WebSockets (70)
+[2021.01.05-01.50.15:259][402]LogModuleManager: Shutting down and abandoning module HTTP (67)
+[2021.01.05-01.50.15:259][402]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2021.01.05-01.50.15:259][402]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0E7CCB80-4381-5E9D-4482-C381693C1830%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=6778678c46a0778e554e9f8347227ae0%7C16064c6691a14936a5c1bb699cc98599%7C82107508-37e1-4383-a96c-b8fcce6e92db&AppEnvironment=datacollector-source&UploadType=eteventstream] refs=[1] status=Processing
+[2021.01.05-01.50.15:259][402]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0E7CCB80-4381-5E9D-4482-C381693C1830%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=6778678c46a0778e554e9f8347227ae0%7C16064c6691a14936a5c1bb699cc98599%7C82107508-37e1-4383-a96c-b8fcce6e92db&AppEnvironment=datacollector-source&UploadType=eteventstream] refs=[1] status=Processing
+[2021.01.05-01.50.15:265][402]LogModuleManager: Shutting down and abandoning module SSL (66)
+[2021.01.05-01.50.15:268][402]LogModuleManager: Shutting down and abandoning module WmfMedia (62)
+[2021.01.05-01.50.15:271][402]LogModuleManager: Shutting down and abandoning module Media (61)
+[2021.01.05-01.50.15:272][402]LogModuleManager: Shutting down and abandoning module MagicLeap (58)
+[2021.01.05-01.50.15:272][402]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (56)
+[2021.01.05-01.50.15:272][402]LogModuleManager: Shutting down and abandoning module NiagaraShader (54)
+[2021.01.05-01.50.15:272][402]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2021.01.05-01.50.15:272][402]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2021.01.05-01.50.15:273][402]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2021.01.05-01.50.15:273][402]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2021.01.05-01.50.15:273][402]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2021.01.05-01.50.15:273][402]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2021.01.05-01.50.15:273][402]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2021.01.05-01.50.15:273][402]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2021.01.05-01.50.15:273][402]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2021.01.05-01.50.15:274][402]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2021.01.05-01.50.15:275][402]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2021.01.05-01.50.15:275][402]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2021.01.05-01.50.15:275][402]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2021.01.05-01.50.15:275][402]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2021.01.05-01.50.15:277][402]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2021.01.05-01.50.15:277][402]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2021.01.05-01.50.15:277][402]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.01.05-01.50.15:277][402]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.01.05-01.50.15:277][402]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.01.05-01.50.15:277][402]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.01.05-01.50.15:277][402]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.01.05-01.50.15:277][402]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.01.05-01.50.15:278][402]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.01.05-01.50.15:278][402]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.01.05-01.50.15:278][402]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.01.05-01.50.15:278][402]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.01.05-01.50.15:278][402]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.01.05-01.50.15:283][402]LogD3D11RHI: Shutdown
+[2021.01.05-01.50.15:283][402]LogD3D11RHI: CleanupD3DDevice
+[2021.01.05-01.50.15:301][402]LogExit: Exiting.
+[2021.01.05-01.50.15:332][402]Log file closed, 01/05/21 02:50:15
