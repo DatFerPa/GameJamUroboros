@@ -1151,3 +1151,114 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.08-17.44.17:508][635]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001862FA59200), frame # 48635
 [2021.01.08-17.44.17:510][635]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
 [2021.01.08-17.44.17:531][636]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.01.08-17.44.42:546][ 91]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.01.08-17.44.42:561][ 91]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.08-17.44.42:561][ 91]PIE: New page: PIE session: Test_Room (8 ene. 2021 19:44:42)
+[2021.01.08-17.44.42:561][ 91]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.08-17.44.42:563][ 91]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001685s)
+[2021.01.08-17.44.42:563][ 91]LogAIModule: Creating AISystem for world Test_Room
+[2021.01.08-17.44.42:563][ 91]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000185866A9C00), frame # 49091
+[2021.01.08-17.44.42:563][ 91]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001862F1160C0), frame # 49091
+[2021.01.08-17.44.42:563][ 91]LogPlayLevel: PIE: World Init took: (0.000777s)
+[2021.01.08-17.44.42:563][ 91]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test_Room.Test_Room to /Game/Levels/UEDPIE_0_Test_Room.Test_Room (0.002545s)
+[2021.01.08-17.44.42:580][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2021.01.08-17.44.42:580][ 91]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.08-17.44.42:580][ 91]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.08-17.44.42:580][ 91]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.08-17.44.42:581][ 91]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.08-17.44.42:581][ 91]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.08-17.44.42:581][ 91]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.08-17.44.42:581][ 91]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.08-17.44.42:581][ 91]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.08-17.44.42:581][ 91]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.08-17.44.42:581][ 91]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.08-17.44.42:583][ 91]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.08-17.44.42:583][ 91]LogAudioMixer: Display: 1: FrontRight
+[2021.01.08-17.44.42:593][ 91]LogAudioMixer: Display: Using Audio Device Altavoces (USB Audio Device)
+[2021.01.08-17.44.42:593][ 91]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.08-17.44.42:593][ 91]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.08-17.44.42:593][ 91]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.08-17.44.42:593][ 91]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.08-17.44.42:605][ 91]LogInit: FAudioDevice initialized.
+[2021.01.08-17.44.42:628][ 91]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.08-17.44.42:628][ 91]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.08-17.44.42:629][ 91]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test_Room.Test_Room up for play (max tick rate 60) at 2021.01.08-18.44.42
+[2021.01.08-17.44.42:629][ 91]LogWorld: Bringing up level for play took: 0.000711
+[2021.01.08-17.44.42:629][ 91]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.01.08-17.44.42:634][ 91]PIE: Server logged in
+[2021.01.08-17.44.42:636][ 91]PIE: Play in editor total start time 0,076 seconds.
+[2021.01.08-17.44.44:591][208]LogBlueprintUserMessages: [BP_Player_C_0] Pocion de explotar
+[2021.01.08-17.44.50:490][562]LogBlueprintUserMessages: [BP_Player_C_0] Pocion de explotar
+[2021.01.08-17.44.54:758][818]LogBlueprintUserMessages: [BP_Player_C_0] Pocion de convertir en piedra
+[2021.01.08-17.45.11:716][834]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.08-17.45.11:716][834]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.08-17.45.11:716][834]LogSlate: Window 'GameJamUroboros Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.01.08-17.45.11:719][834]LogWorld: UWorld::CleanupWorld for Test_Room, bSessionEnded=true, bCleanupResources=true
+[2021.01.08-17.45.11:720][834]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.08-17.45.11:725][834]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.08-17.45.11:729][834]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.08-17.45.11:761][834]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001862F1160C0), frame # 50834
+[2021.01.08-17.45.11:761][834]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000185866A9C00), frame # 50834
+[2021.01.08-17.45.11:763][834]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2021.01.08-17.45.11:801][836]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.01.08-18.01.48:441][814]BlueprintLog: New page: Compile BP_Player
+[2021.01.08-18.01.48:489][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2021.01.08-18.01.48:915][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2021.01.08-18.01.48:967][835]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/BP_Player614FC042472D3B2A14D08084762A484E.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Blueprints/BP_Player.uasset'
+[2021.01.08-18.01.48:978][835]AssetCheck: New page: Asset Save: BP_Player
+[2021.01.08-18.01.48:978][835]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2021.01.08-18.02.02:091][298]LogStaticMesh: Building static mesh PotionB...
+[2021.01.08-18.02.02:120][298]LogStaticMesh: Built static mesh [0.03s] /Game/Potions/Meshes/PotionB.PotionB
+[2021.01.08-18.02.02:138][298]LogMaterial: Display: Missing cached shader map for material Mat_ExplosionPLiquid, compiling. 
+[2021.01.08-18.02.02:161][298]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2021.01.08-18.02.02:161][298]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.01.08-18.02.02:161][298]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.01.08-18.02.02:161][298]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.01.08-18.02.02:161][298]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.01.08-18.02.02:161][298]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.01.08-18.02.02:161][298]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.08-18.02.02:161][298]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.01.08-18.02.02:169][298]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_ExplosionPotion.BP_ExplosionPotion
+[2021.01.08-18.02.17:432][172]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Potions/Materials/Mat_Glass.Mat_Glass
+[2021.01.08-18.02.17:435][172]LogMaterial: Display: Missing cached shader map for material Mat_Glass, compiling. 
+[2021.01.08-18.02.17:719][172]LogMaterial: Display: Missing cached shader map for material Mat_Glass, compiling. 
+[2021.01.08-18.02.17:733][172]LogMaterial: Display: Missing cached shader map for material Mat_Glass, compiling. 
+[2021.01.08-18.02.17:748][172]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.01.08-18.02.17:752][172]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 22
+[2021.01.08-18.02.17:752][172]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 21
+[2021.01.08-18.02.17:752][172]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 20
+[2021.01.08-18.02.17:752][172]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2021.01.08-18.02.17:752][172]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 18
+[2021.01.08-18.02.17:752][172]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2021.01.08-18.02.17:752][172]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 16
+[2021.01.08-18.02.17:752][172]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2021.01.08-18.02.18:065][183]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 18
+[2021.01.08-18.02.18:199][190]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 17
+[2021.01.08-18.02.18:506][206]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 16
+[2021.01.08-18.02.18:562][209]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 15
+[2021.01.08-18.02.18:624][210]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2021.01.08-18.02.18:624][210]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2021.01.08-18.02.18:657][211]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2021.01.08-18.02.18:696][214]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2021.01.08-18.02.18:767][218]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 10
+[2021.01.08-18.02.18:869][223]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2021.01.08-18.02.19:093][232]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.08-18.02.19:339][245]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.01.08-18.02.19:395][248]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.08-18.02.19:570][256]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.01.08-18.02.19:617][259]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.08-18.02.19:669][262]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2021.01.08-18.02.19:979][278]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.01.08-18.02.20:074][283]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2021.01.08-18.02.20:505][306]MaterialEditorStats: Base pass shader: 78 instructions
+[2021.01.08-18.02.20:505][306]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2021.01.08-18.02.20:505][306]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2021.01.08-18.02.20:505][306]MaterialEditorStats: Texture samplers: 4/16
+[2021.01.08-18.02.44:680][733]BlueprintLog: New page: Compile BP_ExplosionPotion
+[2021.01.08-18.02.44:752][733]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.01.08-18.02.45:251][759]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/BP_ExplosionPotionF844B6544416F008D25543B3569EC9BE.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Blueprints/BP_ExplosionPotion.uasset'
+[2021.01.08-18.02.45:264][759]AssetCheck: New page: Asset Save: BP_ExplosionPotion
+[2021.01.08-18.02.45:264][759]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_ExplosionPotion.BP_ExplosionPotion
+[2021.01.08-18.02.55:672][382]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/BP_ExplosionPotion4C393FB44EEB92783ED3E59783CCD597.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Blueprints/BP_ExplosionPotion.uasset'
+[2021.01.08-18.02.55:682][382]AssetCheck: New page: Asset Save: BP_ExplosionPotion
+[2021.01.08-18.02.55:682][382]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_ExplosionPotion.BP_ExplosionPotion
