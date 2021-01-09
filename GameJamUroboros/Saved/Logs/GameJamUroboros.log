@@ -9929,3 +9929,1380 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.09-17.59.49:466][367]AssetCheck: New page: Asset Save: multiple assets
 [2021.01.09-17.59.49:466][367]LogContentValidation: Display: Validating World /Game/Levels/Test_Room.Test_Room
 [2021.01.09-17.59.49:466][367]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Test_Room_BuiltData.Test_Room_BuiltData
+[2021.01.09-18.00.31:979][ 16]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Floor_C (BP_Floor)
+[2021.01.09-18.00.39:196][448]LogEditorViewport: Clicking Background
+[2021.01.09-18.00.41:896][607]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.01.09-18.00.41:920][607]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Test_RoomE45E22E341F5FF1E687F0D86E7F17101.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room.umap'
+[2021.01.09-18.00.41:949][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Test_Room_BuiltData" FILE="../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room_BuiltData.uasset" SILENT=true
+[2021.01.09-18.00.41:968][607]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Test_Room_BuiltDataCB5D207E4BD6A4587A413D996D857AC9.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room_BuiltData.uasset'
+[2021.01.09-18.00.41:982][607]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.09-18.00.41:982][607]LogContentValidation: Display: Validating World /Game/Levels/Test_Room.Test_Room
+[2021.01.09-18.00.41:982][607]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Test_Room_BuiltData.Test_Room_BuiltData
+[2021.01.09-19.12.54:938][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2021.01.09-19.12.54:976][ 86]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Test_RoomDA78BCE649B61D04FDC37E9ED7F47266.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room.umap'
+[2021.01.09-19.12.55:007][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Test_Room_BuiltData" FILE="../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room_BuiltData.uasset" SILENT=true
+[2021.01.09-19.12.55:030][ 86]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Test_Room_BuiltData0F89350C485E44EA16EBDFBE30DC9F74.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room_BuiltData.uasset'
+[2021.01.09-19.12.55:046][ 86]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.09-19.12.55:046][ 86]LogContentValidation: Display: Validating World /Game/Levels/Test_Room.Test_Room
+[2021.01.09-19.12.55:046][ 86]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Test_Room_BuiltData.Test_Room_BuiltData
+[2021.01.09-19.12.55:356][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.09-19.12.55:379][103]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Test_RoomF162617C430465D2FF9AB78499656100.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room.umap'
+[2021.01.09-19.12.55:407][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Test_Room_BuiltData" FILE="../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room_BuiltData.uasset" SILENT=true
+[2021.01.09-19.12.55:425][103]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Test_Room_BuiltDataE149E39C44B1C437CF6DF6876149C998.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room_BuiltData.uasset'
+[2021.01.09-19.12.55:439][103]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.09-19.12.55:440][103]LogContentValidation: Display: Validating World /Game/Levels/Test_Room.Test_Room
+[2021.01.09-19.12.55:440][103]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Test_Room_BuiltData.Test_Room_BuiltData
+[2021.01.09-19.27.10:385][248]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.01.09-19.27.10:421][248]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Test_Room90DB73C948283D1D038DB29666C03593.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room.umap'
+[2021.01.09-19.27.10:451][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Test_Room_BuiltData" FILE="../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room_BuiltData.uasset" SILENT=true
+[2021.01.09-19.27.10:474][248]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Test_Room_BuiltDataB3BB63E9455DA15CEEEE8BAC0BD2AC84.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room_BuiltData.uasset'
+[2021.01.09-19.27.10:488][248]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.09-19.27.10:488][248]LogContentValidation: Display: Validating World /Game/Levels/Test_Room.Test_Room
+[2021.01.09-19.27.10:488][248]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Test_Room_BuiltData.Test_Room_BuiltData
+[2021.01.09-20.09.41:922][625]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.01.09-20.09.42:352][625]LogStaticMesh: Building static mesh SM_Bush_1_Green_1...
+[2021.01.09-20.09.42:368][625]LogStaticMesh: Built static mesh [0.02s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Bushes/SM_Bush_1_Green_1.SM_Bush_1_Green_1
+[2021.01.09-20.09.42:378][625]LogStaticMesh: Building static mesh SM_Bush_1_Green_2...
+[2021.01.09-20.09.42:385][625]LogStaticMesh: Built static mesh [0.01s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Bushes/SM_Bush_1_Green_2.SM_Bush_1_Green_2
+[2021.01.09-20.09.42:389][625]LogStaticMesh: Building static mesh SM_Bush_1_Green_3...
+[2021.01.09-20.09.42:396][625]LogStaticMesh: Built static mesh [0.01s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Bushes/SM_Bush_1_Green_3.SM_Bush_1_Green_3
+[2021.01.09-20.09.42:400][625]LogStaticMesh: Building static mesh SM_Bush_1_Orange_1...
+[2021.01.09-20.09.42:407][625]LogStaticMesh: Built static mesh [0.01s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Bushes/SM_Bush_1_Orange_1.SM_Bush_1_Orange_1
+[2021.01.09-20.09.42:411][625]LogStaticMesh: Building static mesh SM_Bush_1_Orange_2...
+[2021.01.09-20.09.42:418][625]LogStaticMesh: Built static mesh [0.01s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Bushes/SM_Bush_1_Orange_2.SM_Bush_1_Orange_2
+[2021.01.09-20.09.42:423][625]LogStaticMesh: Building static mesh SM_Bush_1_Orange_3...
+[2021.01.09-20.09.42:430][625]LogStaticMesh: Built static mesh [0.01s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Bushes/SM_Bush_1_Orange_3.SM_Bush_1_Orange_3
+[2021.01.09-20.09.42:435][625]LogStaticMesh: Building static mesh SM_Bush_2_Green_1...
+[2021.01.09-20.09.42:441][625]LogStaticMesh: Built static mesh [0.01s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Bushes/SM_Bush_2_Green_1.SM_Bush_2_Green_1
+[2021.01.09-20.09.42:444][625]LogStaticMesh: Building static mesh SM_Bush_2_Green_2...
+[2021.01.09-20.09.42:451][625]LogStaticMesh: Built static mesh [0.01s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Bushes/SM_Bush_2_Green_2.SM_Bush_2_Green_2
+[2021.01.09-20.09.42:454][625]LogStaticMesh: Building static mesh SM_Bush_2_Green_3...
+[2021.01.09-20.09.42:460][625]LogStaticMesh: Built static mesh [0.01s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Bushes/SM_Bush_2_Green_3.SM_Bush_2_Green_3
+[2021.01.09-20.09.42:465][625]LogStaticMesh: Building static mesh SM_Bush_2_Orange_1...
+[2021.01.09-20.09.42:471][625]LogStaticMesh: Built static mesh [0.01s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Bushes/SM_Bush_2_Orange_1.SM_Bush_2_Orange_1
+[2021.01.09-20.09.42:474][625]LogStaticMesh: Building static mesh SM_Bush_2_Orange_2...
+[2021.01.09-20.09.42:481][625]LogStaticMesh: Built static mesh [0.01s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Bushes/SM_Bush_2_Orange_2.SM_Bush_2_Orange_2
+[2021.01.09-20.09.42:484][625]LogStaticMesh: Building static mesh SM_Bush_2_Orange_3...
+[2021.01.09-20.09.42:490][625]LogStaticMesh: Built static mesh [0.01s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Bushes/SM_Bush_2_Orange_3.SM_Bush_2_Orange_3
+[2021.01.09-20.09.42:494][625]LogStaticMesh: Building static mesh SM_Bush_3_Green_1...
+[2021.01.09-20.09.42:499][625]LogStaticMesh: Built static mesh [0.01s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Bushes/SM_Bush_3_Green_1.SM_Bush_3_Green_1
+[2021.01.09-20.09.42:502][625]LogStaticMesh: Building static mesh SM_Bush_3_Green_2...
+[2021.01.09-20.09.42:507][625]LogStaticMesh: Built static mesh [0.01s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Bushes/SM_Bush_3_Green_2.SM_Bush_3_Green_2
+[2021.01.09-20.09.42:510][625]LogStaticMesh: Building static mesh SM_Bush_3_Green_3...
+[2021.01.09-20.09.42:515][625]LogStaticMesh: Built static mesh [0.01s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Bushes/SM_Bush_3_Green_3.SM_Bush_3_Green_3
+[2021.01.09-20.09.42:517][625]LogStaticMesh: Building static mesh SM_Bush_3_Orange_1...
+[2021.01.09-20.09.42:523][625]LogStaticMesh: Built static mesh [0.01s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Bushes/SM_Bush_3_Orange_1.SM_Bush_3_Orange_1
+[2021.01.09-20.09.42:525][625]LogStaticMesh: Building static mesh SM_Bush_3_Orange_2...
+[2021.01.09-20.09.42:531][625]LogStaticMesh: Built static mesh [0.01s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Bushes/SM_Bush_3_Orange_2.SM_Bush_3_Orange_2
+[2021.01.09-20.09.42:533][625]LogStaticMesh: Building static mesh SM_Bush_3_Orange_3...
+[2021.01.09-20.09.42:539][625]LogStaticMesh: Built static mesh [0.01s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Bushes/SM_Bush_3_Orange_3.SM_Bush_3_Orange_3
+[2021.01.09-20.09.42:549][625]LogStaticMesh: Building static mesh SM_Fern_1_Orange...
+[2021.01.09-20.09.42:555][625]LogStaticMesh: Built static mesh [0.01s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Ferns/SM_Fern_1_Orange.SM_Fern_1_Orange
+[2021.01.09-20.09.42:557][625]LogStaticMesh: Building static mesh SM_Fern_2_Orange...
+[2021.01.09-20.09.42:562][625]LogStaticMesh: Built static mesh [0.01s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Ferns/SM_Fern_2_Orange.SM_Fern_2_Orange
+[2021.01.09-20.09.42:565][625]LogStaticMesh: Building static mesh SM_Fern_3_Orange...
+[2021.01.09-20.09.42:570][625]LogStaticMesh: Built static mesh [0.00s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Ferns/SM_Fern_3_Orange.SM_Fern_3_Orange
+[2021.01.09-20.09.42:595][625]LogStaticMesh: Building static mesh SM_Grass_1_Orange...
+[2021.01.09-20.09.42:604][625]LogStaticMesh: Built static mesh [0.01s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Grass/SM_Grass_1_Orange.SM_Grass_1_Orange
+[2021.01.09-20.09.42:607][625]LogStaticMesh: Building static mesh SM_Grass_1_Yellow...
+[2021.01.09-20.09.42:616][625]LogStaticMesh: Built static mesh [0.01s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Grass/SM_Grass_1_Yellow.SM_Grass_1_Yellow
+[2021.01.09-20.09.42:619][625]LogStaticMesh: Building static mesh SM_Grass_2_Orange...
+[2021.01.09-20.09.42:627][625]LogStaticMesh: Built static mesh [0.01s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Grass/SM_Grass_2_Orange.SM_Grass_2_Orange
+[2021.01.09-20.09.42:630][625]LogStaticMesh: Building static mesh SM_Grass_2_Yellow...
+[2021.01.09-20.09.42:642][625]LogStaticMesh: Built static mesh [0.01s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Grass/SM_Grass_2_Yellow.SM_Grass_2_Yellow
+[2021.01.09-20.09.42:645][625]LogStaticMesh: Building static mesh SM_Grass_3_Orange...
+[2021.01.09-20.09.42:657][625]LogStaticMesh: Built static mesh [0.01s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Grass/SM_Grass_3_Orange.SM_Grass_3_Orange
+[2021.01.09-20.09.42:661][625]LogStaticMesh: Building static mesh SM_Grass_3_Yellow...
+[2021.01.09-20.09.42:674][625]LogStaticMesh: Built static mesh [0.01s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Grass/SM_Grass_3_Yellow.SM_Grass_3_Yellow
+[2021.01.09-20.09.42:677][625]LogStaticMesh: Building static mesh SM_Grass_4_Orange...
+[2021.01.09-20.09.42:685][625]LogStaticMesh: Built static mesh [0.01s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Grass/SM_Grass_4_Orange.SM_Grass_4_Orange
+[2021.01.09-20.09.42:688][625]LogStaticMesh: Building static mesh SM_Grass_4_Yellow...
+[2021.01.09-20.09.42:695][625]LogStaticMesh: Built static mesh [0.01s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Grass/SM_Grass_4_Yellow.SM_Grass_4_Yellow
+[2021.01.09-20.09.42:698][625]LogStaticMesh: Building static mesh SM_Grass_5_Orange...
+[2021.01.09-20.09.42:752][625]LogStaticMesh: Built static mesh [0.05s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Grass/SM_Grass_5_Orange.SM_Grass_5_Orange
+[2021.01.09-20.09.42:759][625]LogStaticMesh: Building static mesh SM_Grass_5_Yellow...
+[2021.01.09-20.09.42:813][625]LogStaticMesh: Built static mesh [0.05s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Grass/SM_Grass_5_Yellow.SM_Grass_5_Yellow
+[2021.01.09-20.09.42:820][625]LogStaticMesh: Building static mesh SM_Grass_6_Orange...
+[2021.01.09-20.09.42:834][625]LogStaticMesh: Built static mesh [0.01s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Grass/SM_Grass_6_Orange.SM_Grass_6_Orange
+[2021.01.09-20.09.42:837][625]LogStaticMesh: Building static mesh SM_Grass_6_Yellow...
+[2021.01.09-20.09.42:850][625]LogStaticMesh: Built static mesh [0.01s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Grass/SM_Grass_6_Yellow.SM_Grass_6_Yellow
+[2021.01.09-20.09.42:853][625]LogStaticMesh: Building static mesh SM_Grass_7_Orange...
+[2021.01.09-20.09.42:861][625]LogStaticMesh: Built static mesh [0.01s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Grass/SM_Grass_7_Orange.SM_Grass_7_Orange
+[2021.01.09-20.09.42:864][625]LogStaticMesh: Building static mesh SM_Grass_7_Yellow...
+[2021.01.09-20.09.42:869][625]LogStaticMesh: Built static mesh [0.01s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Grass/SM_Grass_7_Yellow.SM_Grass_7_Yellow
+[2021.01.09-20.09.42:872][625]LogStaticMesh: Building static mesh SM_Grass_plane_001...
+[2021.01.09-20.09.42:875][625]LogStaticMesh: Built static mesh [0.00s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Grass/SM_Grass_plane_001.SM_Grass_plane_001
+[2021.01.09-20.09.42:877][625]LogStaticMesh: Building static mesh SM_Grass_plane_01_Yellow...
+[2021.01.09-20.09.42:880][625]LogStaticMesh: Built static mesh [0.00s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Grass/SM_Grass_plane_01_Yellow.SM_Grass_plane_01_Yellow
+[2021.01.09-20.09.42:883][625]LogStaticMesh: Building static mesh SM_Grass_plane_02_Orange...
+[2021.01.09-20.09.42:884][625]LogStaticMesh: Built static mesh [0.00s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Grass/SM_Grass_plane_02_Orange.SM_Grass_plane_02_Orange
+[2021.01.09-20.09.42:886][625]LogStaticMesh: Building static mesh SM_Grass_plane_02_Yellow...
+[2021.01.09-20.09.42:887][625]LogStaticMesh: Built static mesh [0.00s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Grass/SM_Grass_plane_02_Yellow.SM_Grass_plane_02_Yellow
+[2021.01.09-20.09.42:901][625]LogStaticMesh: Building static mesh SM_Ivy_1_Dark...
+[2021.01.09-20.09.42:902][625]LogStaticMesh: Built static mesh [0.00s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Ivys/SM_Ivy_1_Dark.SM_Ivy_1_Dark
+[2021.01.09-20.09.42:905][625]LogStaticMesh: Building static mesh SM_Ivy_2_Dark...
+[2021.01.09-20.09.42:906][625]LogStaticMesh: Built static mesh [0.00s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Ivys/SM_Ivy_2_Dark.SM_Ivy_2_Dark
+[2021.01.09-20.09.42:908][625]LogStaticMesh: Building static mesh SM_Ivy_3_Dark...
+[2021.01.09-20.09.42:911][625]LogStaticMesh: Built static mesh [0.00s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Ivys/SM_Ivy_3_Dark.SM_Ivy_3_Dark
+[2021.01.09-20.09.42:913][625]LogStaticMesh: Building static mesh SM_Ivy_4_Dark...
+[2021.01.09-20.09.42:914][625]LogStaticMesh: Built static mesh [0.00s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Ivys/SM_Ivy_4_Dark.SM_Ivy_4_Dark
+[2021.01.09-20.09.42:917][625]LogStaticMesh: Building static mesh SM_Ivy_5_Dark...
+[2021.01.09-20.09.42:919][625]LogStaticMesh: Built static mesh [0.00s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Ivys/SM_Ivy_5_Dark.SM_Ivy_5_Dark
+[2021.01.09-20.09.42:935][625]LogStaticMesh: Building static mesh SM_Leafs_Tree_1...
+[2021.01.09-20.09.43:401][625]LogStaticMesh: Built static mesh [0.47s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Trees/Leafs_Tree/SM_Leafs_Tree_1.SM_Leafs_Tree_1
+[2021.01.09-20.09.43:421][625]LogStaticMesh: Building static mesh SM_Leafs_Tree_1_Orange...
+[2021.01.09-20.09.43:881][625]LogStaticMesh: Built static mesh [0.46s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Trees/Leafs_Tree/SM_Leafs_Tree_1_Orange.SM_Leafs_Tree_1_Orange
+[2021.01.09-20.09.43:900][625]LogStaticMesh: Building static mesh SM_Leafs_Tree_3...
+[2021.01.09-20.09.44:358][625]LogStaticMesh: Built static mesh [0.46s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Trees/Leafs_Tree/SM_Leafs_Tree_3.SM_Leafs_Tree_3
+[2021.01.09-20.09.44:378][625]LogStaticMesh: Building static mesh SM_Leafs_Tree_3_Orange...
+[2021.01.09-20.09.44:839][625]LogStaticMesh: Built static mesh [0.46s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Trees/Leafs_Tree/SM_Leafs_Tree_3_Orange.SM_Leafs_Tree_3_Orange
+[2021.01.09-20.09.44:858][625]LogStaticMesh: Building static mesh SM_Leafs_Tree_4...
+[2021.01.09-20.09.45:314][625]LogStaticMesh: Built static mesh [0.46s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Trees/Leafs_Tree/SM_Leafs_Tree_4.SM_Leafs_Tree_4
+[2021.01.09-20.09.45:340][625]LogStaticMesh: Building static mesh SM_Medium_Tree_1...
+[2021.01.09-20.09.45:593][625]LogStaticMesh: Built static mesh [0.25s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Trees/Medium_Tree/SM_Medium_Tree_1.SM_Medium_Tree_1
+[2021.01.09-20.09.45:605][625]LogStaticMesh: Building static mesh SM_Medium_Tree_1_Orange...
+[2021.01.09-20.09.45:856][625]LogStaticMesh: Built static mesh [0.25s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Trees/Medium_Tree/SM_Medium_Tree_1_Orange.SM_Medium_Tree_1_Orange
+[2021.01.09-20.09.45:866][625]LogStaticMesh: Building static mesh SM_Medium_Tree_2...
+[2021.01.09-20.09.46:113][625]LogStaticMesh: Built static mesh [0.25s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Trees/Medium_Tree/SM_Medium_Tree_2.SM_Medium_Tree_2
+[2021.01.09-20.09.46:126][625]LogStaticMesh: Building static mesh SM_Medium_Tree_2_Orange...
+[2021.01.09-20.09.46:375][625]LogStaticMesh: Built static mesh [0.25s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Trees/Medium_Tree/SM_Medium_Tree_2_Orange.SM_Medium_Tree_2_Orange
+[2021.01.09-20.09.46:388][625]LogStaticMesh: Building static mesh SM_Medium_Tree_3...
+[2021.01.09-20.09.46:636][625]LogStaticMesh: Built static mesh [0.25s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Trees/Medium_Tree/SM_Medium_Tree_3.SM_Medium_Tree_3
+[2021.01.09-20.09.46:649][625]LogStaticMesh: Building static mesh SM_Medium_Tree_3_Orange...
+[2021.01.09-20.09.46:899][625]LogStaticMesh: Built static mesh [0.25s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Trees/Medium_Tree/SM_Medium_Tree_3_Orange.SM_Medium_Tree_3_Orange
+[2021.01.09-20.09.46:940][625]LogStaticMesh: Building static mesh SM_Small_Tree_1_Orange...
+[2021.01.09-20.09.47:136][625]LogStaticMesh: Built static mesh [0.20s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Trees/Small_Tree/SM_Small_Tree_1_Orange.SM_Small_Tree_1_Orange
+[2021.01.09-20.09.47:144][625]LogStaticMesh: Building static mesh SM_Small_Tree_2...
+[2021.01.09-20.09.47:344][625]LogStaticMesh: Built static mesh [0.20s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Trees/Small_Tree/SM_Small_Tree_2.SM_Small_Tree_2
+[2021.01.09-20.09.47:352][625]LogStaticMesh: Building static mesh SM_Small_Tree_2_Orange...
+[2021.01.09-20.09.47:563][625]LogStaticMesh: Built static mesh [0.21s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Trees/Small_Tree/SM_Small_Tree_2_Orange.SM_Small_Tree_2_Orange
+[2021.01.09-20.09.47:571][625]LogStaticMesh: Building static mesh SM_Small_Tree_3...
+[2021.01.09-20.09.47:778][625]LogStaticMesh: Built static mesh [0.21s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Trees/Small_Tree/SM_Small_Tree_3.SM_Small_Tree_3
+[2021.01.09-20.09.47:788][625]LogStaticMesh: Building static mesh SM_Small_Tree_4...
+[2021.01.09-20.09.48:009][625]LogStaticMesh: Built static mesh [0.22s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Trees/Small_Tree/SM_Small_Tree_4.SM_Small_Tree_4
+[2021.01.09-20.09.48:017][625]LogStaticMesh: Building static mesh SM_Small_Tree_4_Orange...
+[2021.01.09-20.09.48:219][625]LogStaticMesh: Built static mesh [0.20s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Trees/Small_Tree/SM_Small_Tree_4_Orange.SM_Small_Tree_4_Orange
+[2021.01.09-20.09.48:232][625]LogStaticMesh: Building static mesh SM_Very_Long_Tree_1...
+[2021.01.09-20.09.48:762][625]LogStaticMesh: Built static mesh [0.53s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Trees/Very_Long_Tree/SM_Very_Long_Tree_1.SM_Very_Long_Tree_1
+[2021.01.09-20.09.48:780][625]LogStaticMesh: Building static mesh SM_Very_Long_Tree_1_Orange...
+[2021.01.09-20.09.49:298][625]LogStaticMesh: Built static mesh [0.52s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Trees/Very_Long_Tree/SM_Very_Long_Tree_1_Orange.SM_Very_Long_Tree_1_Orange
+[2021.01.09-20.09.49:316][625]LogStaticMesh: Building static mesh SM_Very_Long_Tree_2_Orange...
+[2021.01.09-20.09.49:821][625]LogStaticMesh: Built static mesh [0.51s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Trees/Very_Long_Tree/SM_Very_Long_Tree_2_Orange.SM_Very_Long_Tree_2_Orange
+[2021.01.09-20.09.49:838][625]LogStaticMesh: Building static mesh SM_Very_Long_Tree_3...
+[2021.01.09-20.09.50:314][625]LogStaticMesh: Built static mesh [0.48s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Trees/Very_Long_Tree/SM_Very_Long_Tree_3.SM_Very_Long_Tree_3
+[2021.01.09-20.09.50:331][625]LogStaticMesh: Building static mesh SM_Very_Long_Tree_3_Orange...
+[2021.01.09-20.09.50:832][625]LogStaticMesh: Built static mesh [0.50s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Trees/Very_Long_Tree/SM_Very_Long_Tree_3_Orange.SM_Very_Long_Tree_3_Orange
+[2021.01.09-20.09.50:850][625]LogStaticMesh: Building static mesh SM_Very_Long_Tree_4...
+[2021.01.09-20.09.51:340][625]LogStaticMesh: Built static mesh [0.49s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Trees/Very_Long_Tree/SM_Very_Long_Tree_4.SM_Very_Long_Tree_4
+[2021.01.09-20.09.51:359][625]LogStaticMesh: Building static mesh SM_Long_Tree...
+[2021.01.09-20.09.51:531][625]LogStaticMesh: Built static mesh [0.17s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Trees/Long_Tree/SM_Long_Tree.SM_Long_Tree
+[2021.01.09-20.09.51:542][625]LogStaticMesh: Building static mesh SM_Long_Tree_1_Orange...
+[2021.01.09-20.09.51:717][625]LogStaticMesh: Built static mesh [0.18s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Trees/Long_Tree/SM_Long_Tree_1_Orange.SM_Long_Tree_1_Orange
+[2021.01.09-20.09.51:727][625]LogStaticMesh: Building static mesh SM_Long_Tree_2...
+[2021.01.09-20.09.51:901][625]LogStaticMesh: Built static mesh [0.17s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Trees/Long_Tree/SM_Long_Tree_2.SM_Long_Tree_2
+[2021.01.09-20.09.51:911][625]LogStaticMesh: Building static mesh SM_Long_Tree_2_Orange...
+[2021.01.09-20.09.52:083][625]LogStaticMesh: Built static mesh [0.17s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Trees/Long_Tree/SM_Long_Tree_2_Orange.SM_Long_Tree_2_Orange
+[2021.01.09-20.09.52:096][625]LogStaticMesh: Building static mesh SM_Long_Tree_3...
+[2021.01.09-20.09.52:267][625]LogStaticMesh: Built static mesh [0.17s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Trees/Long_Tree/SM_Long_Tree_3.SM_Long_Tree_3
+[2021.01.09-20.09.52:277][625]LogStaticMesh: Building static mesh SM_Long_Tree_3_Orange...
+[2021.01.09-20.09.52:455][625]LogStaticMesh: Built static mesh [0.18s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Trees/Long_Tree/SM_Long_Tree_3_Orange.SM_Long_Tree_3_Orange
+[2021.01.09-20.09.52:467][625]LogStaticMesh: Building static mesh SM_Long_Tree_4...
+[2021.01.09-20.09.52:646][625]LogStaticMesh: Built static mesh [0.18s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Trees/Long_Tree/SM_Long_Tree_4.SM_Long_Tree_4
+[2021.01.09-20.09.52:656][625]LogStaticMesh: Building static mesh SM_Long_Tree_4_Deep_Green...
+[2021.01.09-20.09.52:828][625]LogStaticMesh: Built static mesh [0.17s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Trees/Long_Tree/SM_Long_Tree_4_Deep_Green.SM_Long_Tree_4_Deep_Green
+[2021.01.09-20.09.52:841][625]LogStaticMesh: Building static mesh SM_Long_Tree_4_Orange...
+[2021.01.09-20.09.53:013][625]LogStaticMesh: Built static mesh [0.17s] /Game/beffio/Medieval_Kingdom/Content/Models/Vegetation/Trees/Long_Tree/SM_Long_Tree_4_Orange.SM_Long_Tree_4_Orange
+[2021.01.09-20.09.53:223][625]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2021.01.09-20.10.21:184][625]LogSlate: Window 'Delete Assets' being destroyed
+[2021.01.09-20.10.23:153][625]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.01.09-20.10.23:186][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.09-20.10.23:213][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.01.09-20.10.23:238][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.23:262][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.09-20.10.23:285][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.23:310][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.23:348][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.01.09-20.10.23:372][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.01.09-20.10.23:398][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.01.09-20.10.23:422][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.09-20.10.23:445][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.23:469][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.09-20.10.23:492][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.01.09-20.10.23:515][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.09-20.10.23:547][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2021.01.09-20.10.23:573][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.01.09-20.10.23:596][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.09-20.10.23:620][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.09-20.10.23:646][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.01.09-20.10.23:669][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.23:693][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.01.09-20.10.23:716][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.01.09-20.10.23:751][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2021.01.09-20.10.23:777][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.01.09-20.10.23:803][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.01.09-20.10.23:828][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.01.09-20.10.23:853][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.23:875][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.09-20.10.23:899][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.01.09-20.10.23:924][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.23:953][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.01.09-20.10.23:976][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.01.09-20.10.24:000][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.09-20.10.24:024][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.01.09-20.10.24:048][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.01.09-20.10.24:071][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.01.09-20.10.24:095][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.24:119][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.24:142][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.24:174][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.24:198][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.24:223][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.24:245][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.24:268][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.01.09-20.10.24:292][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.01.09-20.10.24:315][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.01.09-20.10.24:339][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.01.09-20.10.24:363][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.01.09-20.10.24:395][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.24:418][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.09-20.10.24:442][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.01.09-20.10.24:465][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.24:489][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.09-20.10.24:514][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.01.09-20.10.24:539][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.01.09-20.10.24:564][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.09-20.10.24:598][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.09-20.10.24:621][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.01.09-20.10.24:644][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.24:667][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.24:691][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.01.09-20.10.24:716][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.24:739][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.24:764][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.24:793][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.01.09-20.10.24:816][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.01.09-20.10.24:840][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.01.09-20.10.24:864][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.01.09-20.10.24:887][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.01.09-20.10.24:909][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.01.09-20.10.24:933][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.01.09-20.10.24:956][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.24:979][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.09-20.10.25:008][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.01.09-20.10.25:032][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.01.09-20.10.25:057][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.09-20.10.25:081][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.01.09-20.10.25:103][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.25:127][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.25:150][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.01.09-20.10.25:174][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.01.09-20.10.25:196][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.09-20.10.25:228][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.25:251][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.01.09-20.10.25:275][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.01.09-20.10.25:298][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.09-20.10.25:322][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.25:345][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.01.09-20.10.25:369][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.01.09-20.10.25:394][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.01.09-20.10.25:416][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.25:448][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.09-20.10.25:472][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.01.09-20.10.25:496][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.01.09-20.10.25:520][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.09-20.10.25:544][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.25:566][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.25:590][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.01.09-20.10.25:613][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.01.09-20.10.25:635][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.01.09-20.10.25:668][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.09-20.10.25:691][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.25:715][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.01.09-20.10.25:738][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.25:762][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.01.09-20.10.25:787][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.09-20.10.25:811][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.01.09-20.10.25:834][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.09-20.10.25:858][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.25:890][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.25:914][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.01.09-20.10.25:938][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.01.09-20.10.25:962][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.25:987][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.26:010][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.01.09-20.10.26:034][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.01.09-20.10.26:059][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.01.09-20.10.26:093][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.09-20.10.26:119][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.01.09-20.10.26:146][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.01.09-20.10.26:171][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.01.09-20.10.26:198][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.26:222][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.09-20.10.26:247][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.01.09-20.10.26:272][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.01.09-20.10.26:299][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.01.09-20.10.26:323][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.01.09-20.10.26:346][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.01.09-20.10.26:369][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.26:392][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.01.09-20.10.26:416][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.01.09-20.10.26:439][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.09-20.10.26:463][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.01.09-20.10.26:488][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.01.09-20.10.26:520][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.09-20.10.26:544][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.01.09-20.10.26:567][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.01.09-20.10.26:591][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.26:614][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.09-20.10.26:638][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.01.09-20.10.26:663][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.01.09-20.10.26:687][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.26:712][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.01.09-20.10.26:744][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.26:767][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.01.09-20.10.26:791][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.26:814][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.01.09-20.10.26:838][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.01.09-20.10.26:862][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.01.09-20.10.26:886][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.01.09-20.10.26:910][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.26:935][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.01.09-20.10.26:966][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.01.09-20.10.26:989][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.01.09-20.10.27:013][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.27:037][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.27:061][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.01.09-20.10.27:085][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.01.09-20.10.27:108][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.01.09-20.10.27:131][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.01.09-20.10.27:156][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.01.09-20.10.27:182][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.01.09-20.10.27:207][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2021.01.09-20.10.27:230][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.01.09-20.10.27:254][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.01.09-20.10.27:278][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.09-20.10.27:302][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.27:326][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.01.09-20.10.27:350][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.09-20.10.27:374][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2021.01.09-20.10.27:405][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.27:430][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.01.09-20.10.27:454][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.27:478][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.01.09-20.10.27:501][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.01.09-20.10.27:525][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.27:548][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.27:572][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.01.09-20.10.27:597][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.01.09-20.10.27:623][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.01.09-20.10.27:647][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.01.09-20.10.27:673][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2021.01.09-20.10.27:697][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.27:721][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.01.09-20.10.27:745][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.01.09-20.10.27:769][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.01.09-20.10.27:792][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.01.09-20.10.27:816][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.01.09-20.10.27:848][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.09-20.10.27:870][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.09-20.10.27:894][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.01.09-20.10.27:919][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.01.09-20.10.27:942][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.01.09-20.10.27:965][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.01.09-20.10.27:988][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.01.09-20.10.28:013][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.01.09-20.10.28:036][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.01.09-20.10.28:063][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.01.09-20.10.28:087][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.01.09-20.10.28:113][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.01.09-20.10.28:137][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.01.09-20.10.28:160][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.28:184][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.01.09-20.10.28:209][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.01.09-20.10.28:234][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.01.09-20.10.28:259][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.28:287][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.09-20.10.28:311][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.01.09-20.10.28:336][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.01.09-20.10.28:359][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.01.09-20.10.28:383][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.01.09-20.10.28:406][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.28:429][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.28:453][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.09-20.10.28:479][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.09-20.10.28:509][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.01.09-20.10.28:532][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.01.09-20.10.28:562][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.01.09-20.10.28:590][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.01.09-20.10.28:618][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.01.09-20.10.28:646][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2021.01.09-20.10.28:673][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2021.01.09-20.10.28:701][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.01.09-20.10.28:738][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.01.09-20.10.28:767][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.01.09-20.10.28:790][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.28:814][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.28:837][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.01.09-20.10.28:861][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.28:883][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.01.09-20.10.28:907][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.01.09-20.10.28:938][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.09-20.10.28:960][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.09-20.10.28:985][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.29:009][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.09-20.10.29:033][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.01.09-20.10.29:057][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.29:081][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.01.09-20.10.29:104][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.01.09-20.10.29:128][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.29:154][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.09-20.10.29:179][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.09-20.10.29:203][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.01.09-20.10.29:227][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.01.09-20.10.29:251][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.01.09-20.10.29:276][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.29:300][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.01.09-20.10.29:324][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.29:348][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.01.09-20.10.29:375][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.01.09-20.10.29:398][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.09-20.10.29:423][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.01.09-20.10.29:447][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.01.09-20.10.29:470][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.01.09-20.10.29:494][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.09-20.10.29:518][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.01.09-20.10.29:542][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.01.09-20.10.29:566][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.01.09-20.10.29:597][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.09-20.10.29:621][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.01.09-20.10.29:645][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.29:669][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.09-20.10.29:693][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.01.09-20.10.29:717][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.09-20.10.29:740][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.01.09-20.10.29:764][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.01.09-20.10.29:788][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.29:814][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.09-20.10.29:836][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.01.09-20.10.29:860][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.29:883][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.01.09-20.10.29:906][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.01.09-20.10.29:929][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.01.09-20.10.29:953][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.01.09-20.10.29:977][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.30:001][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.09-20.10.30:028][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.01.09-20.10.30:052][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.01.09-20.10.30:076][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.01.09-20.10.30:100][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.01.09-20.10.30:124][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.01.09-20.10.30:148][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.09-20.10.30:172][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.01.09-20.10.30:196][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.09-20.10.30:219][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.01.09-20.10.30:245][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.09-20.10.30:268][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.30:291][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.01.09-20.10.30:315][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.30:338][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.01.09-20.10.30:361][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.01.09-20.10.30:384][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.30:407][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.01.09-20.10.30:431][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.01.09-20.10.30:459][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.01.09-20.10.30:483][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.01.09-20.10.30:506][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.01.09-20.10.30:530][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.30:556][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.09-20.10.30:579][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.30:603][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.01.09-20.10.30:626][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.01.09-20.10.30:650][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.01.09-20.10.30:682][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.01.09-20.10.30:706][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.01.09-20.10.30:731][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.01.09-20.10.30:755][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.01.09-20.10.30:779][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.30:804][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.01.09-20.10.30:827][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.01.09-20.10.30:851][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.01.09-20.10.30:883][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.01.09-20.10.30:907][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.01.09-20.10.30:931][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.09-20.10.30:955][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.01.09-20.10.30:979][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.01.09-20.10.31:004][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.01.09-20.10.31:030][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.01.09-20.10.31:054][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.01.09-20.10.31:085][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.01.09-20.10.31:110][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.01.09-20.10.31:134][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.31:160][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.01.09-20.10.31:183][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.09-20.10.31:207][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.01.09-20.10.31:231][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.31:255][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.31:281][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.31:305][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.31:328][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.09-20.10.31:352][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.01.09-20.10.31:377][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.01.09-20.10.31:400][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.01.09-20.10.31:425][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.31:448][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.09-20.10.31:471][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.01.09-20.10.31:501][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2021.01.09-20.10.31:526][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.01.09-20.10.31:603][625]LogDirectoryWatcher: A directory notification failed for '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2021.01.09-20.10.31:603][625]LogDirectoryWatcher: A directory notification failed for '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2021.01.09-20.10.31:603][625]LogDirectoryWatcher: A directory notification failed for 'C:/Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2021.01.09-20.10.32:014][629]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.01.09-20.10.32:015][629]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.09-20.10.32:724][652]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.01.09-20.10.32:724][652]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.01.09-20.10.32:724][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.09-20.10.39:460][695]LogSlate: Window 'Message' being destroyed
+[2021.01.09-20.10.39:463][695]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/StarterContent/Materials/M_Concrete_Tiles.M_Concrete_Tiles
+(Selecting 'No' will cause all changes to be lost!)
+[2021.01.09-20.10.40:095][695]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2021.01.09-20.10.40:131][695]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.01.09-20.10.40:131][695]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.01.09-20.10.40:131][695]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.01.09-20.10.40:131][695]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.01.09-20.10.40:131][695]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.01.09-20.10.40:131][695]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.01.09-20.10.40:131][695]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.01.09-20.10.40:131][695]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.01.09-20.10.40:143][695]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2021.01.09-20.10.40:345][695]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2021.01.09-20.10.40:358][695]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.09-20.10.40:923][695]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 29
+[2021.01.09-20.10.40:923][695]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 28
+[2021.01.09-20.10.41:439][695]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 27
+[2021.01.09-20.10.41:439][695]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 26
+[2021.01.09-20.10.41:439][695]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 25
+[2021.01.09-20.10.41:439][695]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 24
+[2021.01.09-20.10.41:439][695]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2021.01.09-20.10.41:439][695]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 16
+[2021.01.09-20.10.41:439][695]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2021.01.09-20.10.41:439][695]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2021.01.09-20.10.41:439][695]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.01.09-20.10.41:439][695]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2021.01.09-20.10.41:439][695]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.01.09-20.10.41:445][695]TextureStreamingBuild: Display: Compiling optional shaders took 1.092 seconds.
+[2021.01.09-20.10.41:563][695]LogUObjectHash: Compacting FUObjectHashTables data took   8.24ms
+[2021.01.09-20.10.41:691][695]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.01.09-20.10.41:691][695]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.09-20.10.41:983][706]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2021.01.09-20.10.42:252][721]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2021.01.09-20.10.42:304][724]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2021.01.09-20.10.42:746][746]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.01.09-20.10.42:979][759]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.01.09-20.10.49:235][941]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\lolpa\Desktop\Jam\A subir\LlittlOrcLP.obj)
+[2021.01.09-20.10.49:264][941]LogFbx: Loading FBX Scene from C:\Users\lolpa\Desktop\Jam\A subir\LlittlOrcLP.obj
+[2021.01.09-20.10.49:298][941]LogFbx: FBX Scene Loaded Succesfully
+[2021.01.09-20.10.52:546][941]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.01.09-20.10.52:974][941]LogMaterial: Display: Missing cached shader map for material Group32694Mat, compiling. 
+[2021.01.09-20.10.52:990][941]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2021.01.09-20.10.52:990][941]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.01.09-20.10.52:990][941]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.01.09-20.10.52:990][941]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.01.09-20.10.52:990][941]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.01.09-20.10.52:990][941]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.01.09-20.10.52:990][941]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.09-20.10.52:990][941]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.01.09-20.10.52:991][941]LogStaticMesh: Building static mesh LlittlOrcLP_Group32694...
+[2021.01.09-20.10.52:996][941]LogStaticMesh: Built static mesh [0.01s] /Game/LlittlOrcLP_Group32694.LlittlOrcLP_Group32694
+[2021.01.09-20.10.53:014][941]LogMaterial: Display: Missing cached shader map for material Group5559Mat, compiling. 
+[2021.01.09-20.10.53:030][941]LogStaticMesh: Building static mesh LlittlOrcLP_Group5559...
+[2021.01.09-20.10.53:060][941]LogStaticMesh: Built static mesh [0.03s] /Game/LlittlOrcLP_Group5559.LlittlOrcLP_Group5559
+[2021.01.09-20.10.53:083][941]LogMaterial: Display: Missing cached shader map for material Group64229Mat, compiling. 
+[2021.01.09-20.10.53:102][941]LogStaticMesh: Building static mesh LlittlOrcLP_Group64229...
+[2021.01.09-20.10.53:106][941]LogStaticMesh: Built static mesh [0.00s] /Game/LlittlOrcLP_Group64229.LlittlOrcLP_Group64229
+[2021.01.09-20.10.53:130][941]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.01.09-20.10.53:187][941]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\lolpa\Desktop\Jam\A subir\MainCharacter.fbx)
+[2021.01.09-20.10.53:218][941]LogFbx: Loading FBX Scene from C:\Users\lolpa\Desktop\Jam\A subir\MainCharacter.fbx
+[2021.01.09-20.10.53:262][941]LogFbx: FBX Scene Loaded Succesfully
+[2021.01.09-20.10.53:311][941]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 30
+[2021.01.09-20.10.53:785][941]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 26
+[2021.01.09-20.10.54:227][941]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 22
+[2021.01.09-20.10.54:231][941]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 19
+[2021.01.09-20.10.54:332][941]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 16
+[2021.01.09-20.10.54:332][941]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2021.01.09-20.10.54:561][941]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.01.09-20.10.54:580][941]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2021.01.09-20.10.55:190][941]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2021.01.09-20.10.55:340][941]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.09-20.10.55:426][941]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2021.01.09-20.10.55:488][941]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.09-20.10.55:684][941]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2021.01.09-20.10.55:871][941]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.01.09-20.10.55:892][941]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2021.01.09-20.10.56:987][941]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.01.09-20.10.57:028][941]LogFbx: Valid bind pose for Pose (Cube.000) - monk
+[2021.01.09-20.10.57:032][941]LogMaterial: Display: Material /Game/monk_material.monk_material needed to have new flag set bUsedWithSkeletalMesh !
+[2021.01.09-20.10.57:035][941]LogMaterial: Display: Missing cached shader map for material monk_material, compiling. 
+[2021.01.09-20.10.57:073][941]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 39
+[2021.01.09-20.10.57:074][941]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 34
+[2021.01.09-20.10.57:074][941]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 29
+[2021.01.09-20.10.57:074][941]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2021.01.09-20.10.57:074][941]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 19
+[2021.01.09-20.10.57:074][941]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2021.01.09-20.10.57:074][941]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2021.01.09-20.10.57:074][941]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.01.09-20.10.57:074][941]LogTexture: Display: Building textures: monk_albedo (AutoDXT, 512X512)
+[2021.01.09-20.10.57:094][941]LogMaterial: Display: Missing cached shader map for material monk_material, compiling. 
+[2021.01.09-20.10.57:124][941]LogFbx: Warning: Bones digested - 33  Depth of hierarchy - 10
+[2021.01.09-20.10.57:155][941]LogSkeletalMesh: Section 0: 1521 vertices, 24 active bones
+[2021.01.09-20.10.57:156][941]LogSkeletalMesh: Section 0: Material=0, 964 triangles
+[2021.01.09-20.10.57:160][941]LogSkeletalMesh: Building Skeletal Mesh MainCharacter...
+[2021.01.09-20.10.57:178][941]LogSkeletalMesh: Section 0: 1521 vertices, 24 active bones
+[2021.01.09-20.10.57:179][941]LogSkeletalMesh: Section 0: Material=0, 964 triangles
+[2021.01.09-20.10.57:185][941]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/MainCharacter.MainCharacter
+[2021.01.09-20.10.57:265][941]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2021.01.09-20.10.57:265][941]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.01.09-20.10.57:266][941]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.09-20.10.57:287][941]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.01.09-20.10.57:287][941]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.09-20.10.57:307][941]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.01.09-20.10.57:307][941]FBXImport: Warning: The following bones are missing from the bind pose:
+Head_end  
+Fingers.l_end  
+Thumb.l_end  
+Fingers.r_end  
+Thumb.r_end  
+Toes.l_end  
+Toes.r_end  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2021.01.09-20.10.58:505][993]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 39
+[2021.01.09-20.10.59:445][ 49]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 34
+[2021.01.09-20.10.59:906][ 76]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 29
+[2021.01.09-20.11.00:005][ 82]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 25
+[2021.01.09-20.11.00:073][ 86]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 21
+[2021.01.09-20.11.00:109][ 88]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 18
+[2021.01.09-20.11.00:612][118]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 15
+[2021.01.09-20.11.01:223][154]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 13
+[2021.01.09-20.11.01:629][178]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2021.01.09-20.11.01:866][192]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2021.01.09-20.11.02:137][208]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2021.01.09-20.11.02:167][210]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2021.01.09-20.11.02:217][213]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2021.01.09-20.11.02:234][214]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.01.09-20.11.02:699][241]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2021.01.09-20.11.02:733][243]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2021.01.09-20.11.02:936][255]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2021.01.09-20.11.03:408][283]LogSlate: Window 'Message Log' being destroyed
+[2021.01.09-20.11.03:411][283]LogSlate: Window 'Message Log' being destroyed
+[2021.01.09-20.11.23:996][173]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/MainCharacter.MainCharacter
+[2021.01.09-20.11.24:062][173]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0017 seconds. Added 1 classes and 2 folders.
+[2021.01.09-20.11.24:083][173]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.01.09-20.11.24:098][173]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0005 seconds. Added 1 classes and 0 folders.
+[2021.01.09-20.11.24:178][173]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2021.01.09-20.20.32:003][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2021.01.09-20.20.32:007][ 95]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Test_Room' took 0.146
+[2021.01.09-20.20.32:007][ 95]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Materials/M_Concrete_Tiles] ([1] browsable assets)...
+[2021.01.09-20.20.32:026][ 95]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Materials/M_Concrete_Tiles.M_Concrete_Tiles]
+[2021.01.09-20.20.32:026][ 95]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/M_Concrete_Tiles]
+[2021.01.09-20.20.32:058][ 95]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/M_Concrete_Tiles_Auto496CF3D8E406D6F7C242704A8416B89A5.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Autosaves/Game/StarterContent/Materials/M_Concrete_Tiles_Auto4.uasset'
+[2021.01.09-20.20.32:058][ 95]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LlittlOrcLP_Group32694] ([1] browsable assets)...
+[2021.01.09-20.20.32:076][ 95]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/LlittlOrcLP_Group32694.LlittlOrcLP_Group32694]
+[2021.01.09-20.20.32:076][ 95]OBJ SavePackage: Finished generating thumbnails for package [/Game/LlittlOrcLP_Group32694]
+[2021.01.09-20.20.32:089][ 95]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/LlittlOrcLP_Group32694_Auto4029851B34896B51D16692ABC84607E1F.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Autosaves/Game/LlittlOrcLP_Group32694_Auto4.uasset'
+[2021.01.09-20.20.32:090][ 95]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Group32694Mat] ([1] browsable assets)...
+[2021.01.09-20.20.32:108][ 95]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Group32694Mat.Group32694Mat]
+[2021.01.09-20.20.32:108][ 95]OBJ SavePackage: Finished generating thumbnails for package [/Game/Group32694Mat]
+[2021.01.09-20.20.32:118][ 95]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Group32694Mat_Auto4CF70119246AC67327CDF979FA4B73711.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Autosaves/Game/Group32694Mat_Auto4.uasset'
+[2021.01.09-20.20.32:118][ 95]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LlittlOrcLP_Group5559] ([1] browsable assets)...
+[2021.01.09-20.20.32:136][ 95]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/LlittlOrcLP_Group5559.LlittlOrcLP_Group5559]
+[2021.01.09-20.20.32:136][ 95]OBJ SavePackage: Finished generating thumbnails for package [/Game/LlittlOrcLP_Group5559]
+[2021.01.09-20.20.32:155][ 95]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/LlittlOrcLP_Group5559_Auto4B3F10034424FABFB06365EB63C29E3CC.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Autosaves/Game/LlittlOrcLP_Group5559_Auto4.uasset'
+[2021.01.09-20.20.32:156][ 95]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Group5559Mat] ([1] browsable assets)...
+[2021.01.09-20.20.32:173][ 95]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Group5559Mat.Group5559Mat]
+[2021.01.09-20.20.32:173][ 95]OBJ SavePackage: Finished generating thumbnails for package [/Game/Group5559Mat]
+[2021.01.09-20.20.32:183][ 95]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Group5559Mat_Auto4A38B58874843E4F5E77550AC29A9904A.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Autosaves/Game/Group5559Mat_Auto4.uasset'
+[2021.01.09-20.20.32:184][ 95]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LlittlOrcLP_Group64229] ([1] browsable assets)...
+[2021.01.09-20.20.32:203][ 95]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/LlittlOrcLP_Group64229.LlittlOrcLP_Group64229]
+[2021.01.09-20.20.32:203][ 95]OBJ SavePackage: Finished generating thumbnails for package [/Game/LlittlOrcLP_Group64229]
+[2021.01.09-20.20.32:215][ 95]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/LlittlOrcLP_Group64229_Auto483A82D0041BF7907A6D22AB5C787E229.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Autosaves/Game/LlittlOrcLP_Group64229_Auto4.uasset'
+[2021.01.09-20.20.32:216][ 95]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Group64229Mat] ([1] browsable assets)...
+[2021.01.09-20.20.32:232][ 95]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Group64229Mat.Group64229Mat]
+[2021.01.09-20.20.32:232][ 95]OBJ SavePackage: Finished generating thumbnails for package [/Game/Group64229Mat]
+[2021.01.09-20.20.32:243][ 95]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Group64229Mat_Auto4A7CB1F594CC3EB4A074A1B84D2B49499.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Autosaves/Game/Group64229Mat_Auto4.uasset'
+[2021.01.09-20.20.32:244][ 95]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MainCharacter] ([1] browsable assets)...
+[2021.01.09-20.20.32:259][ 95]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/MainCharacter.MainCharacter]
+[2021.01.09-20.20.32:259][ 95]OBJ SavePackage: Finished generating thumbnails for package [/Game/MainCharacter]
+[2021.01.09-20.20.32:286][ 95]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/MainCharacter_Auto4E5BC65F845AA511FC81AC48A3545ED90.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Autosaves/Game/MainCharacter_Auto4.uasset'
+[2021.01.09-20.20.32:287][ 95]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/monk_material] ([1] browsable assets)...
+[2021.01.09-20.20.32:305][ 95]OBJ SavePackage:     Rendered thumbnail for [Material /Game/monk_material.monk_material]
+[2021.01.09-20.20.32:305][ 95]OBJ SavePackage: Finished generating thumbnails for package [/Game/monk_material]
+[2021.01.09-20.20.32:317][ 95]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/monk_material_Auto48B7EE6814EF8B9AB971D34BA8BB3A83C.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Autosaves/Game/monk_material_Auto4.uasset'
+[2021.01.09-20.20.32:318][ 95]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/monk_albedo] ([1] browsable assets)...
+[2021.01.09-20.20.32:324][ 95]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/monk_albedo.monk_albedo]
+[2021.01.09-20.20.32:324][ 95]OBJ SavePackage: Finished generating thumbnails for package [/Game/monk_albedo]
+[2021.01.09-20.20.32:332][ 95]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/monk_albedo_Auto4B4FCE3CD4C7BDAF6D82C62B7493214C4.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Autosaves/Game/monk_albedo_Auto4.uasset'
+[2021.01.09-20.20.32:333][ 95]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MainCharacter_Skeleton] ([1] browsable assets)...
+[2021.01.09-20.20.32:333][ 95]OBJ SavePackage: Finished generating thumbnails for package [/Game/MainCharacter_Skeleton]
+[2021.01.09-20.20.32:339][ 95]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/MainCharacter_Skeleton_Auto460BA3A0B48156F750DC17A923E2E176D.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Autosaves/Game/MainCharacter_Skeleton_Auto4.uasset'
+[2021.01.09-20.20.32:340][ 95]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MainCharacter_PhysicsAsset] ([1] browsable assets)...
+[2021.01.09-20.20.32:357][ 95]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/MainCharacter_PhysicsAsset.MainCharacter_PhysicsAsset]
+[2021.01.09-20.20.32:357][ 95]OBJ SavePackage: Finished generating thumbnails for package [/Game/MainCharacter_PhysicsAsset]
+[2021.01.09-20.20.32:369][ 95]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/MainCharacter_PhysicsAsset_Auto4661D7BB5449C340D727481B64BE5FD06.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Autosaves/Game/MainCharacter_PhysicsAsset_Auto4.uasset'
+[2021.01.09-20.20.32:370][ 95]LogFileHelpers: Auto-saving content packages took 0.363
+[2021.01.09-20.41.13:000][409]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/MainCharacter_PhysicsAsset.MainCharacter_PhysicsAsset
+[2021.01.09-20.41.13:046][409]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0003 seconds. Added 8 classes and 3 folders.
+[2021.01.09-20.41.13:055][409]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2021.01.09-20.41.15:792][543]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/MainCharacter_Skeleton.MainCharacter_Skeleton
+[2021.01.09-20.41.15:795][543]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.01.09-20.41.15:819][543]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2021.01.09-20.41.21:581][876]LogSlate: Window 'MainCharacter_Skeleton' being destroyed
+[2021.01.09-20.41.21:585][876]LogSlate: Window 'MainCharacter_Skeleton' being destroyed
+[2021.01.09-20.41.21:586][876]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.01.09-20.41.21:587][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.09-20.41.21:795][876]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.01.09-20.41.21:795][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.09-20.41.21:956][876]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.01.09-20.41.21:956][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.09-20.41.31:844][458]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/LlittlOrcLP_Group64229.LlittlOrcLP_Group64229
+[2021.01.09-20.41.32:054][458]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.01.09-20.41.32:054][458]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.09-20.41.38:012][787]LogSlate: Window 'LlittlOrcLP_Group64229' being destroyed
+[2021.01.09-20.41.38:031][787]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.01.09-20.41.38:031][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.09-20.41.45:377][214]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Group64229Mat.Group64229Mat
+[2021.01.09-20.41.45:380][214]LogMaterial: Display: Missing cached shader map for material Group64229Mat, compiling. 
+[2021.01.09-20.41.45:490][214]LogMaterial: Display: Missing cached shader map for material Group64229Mat, compiling. 
+[2021.01.09-20.41.45:497][214]LogMaterial: Display: Missing cached shader map for material Group64229Mat, compiling. 
+[2021.01.09-20.41.45:505][214]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.09-20.41.45:505][214]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.09-20.41.45:506][214]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.01.09-20.41.45:506][214]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.09-20.41.45:506][214]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.01.09-20.41.45:506][214]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.09-20.41.45:506][214]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.09-20.41.45:506][214]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.09-20.41.45:508][214]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.01.09-20.41.46:456][247]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.01.09-20.41.46:457][247]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.09-20.41.46:681][255]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.01.09-20.41.46:729][257]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.09-20.41.46:825][261]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2021.01.09-20.41.47:005][269]MaterialEditorStats: Base pass shader: 119 instructions
+[2021.01.09-20.41.47:005][269]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2021.01.09-20.41.47:005][269]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2021.01.09-20.41.47:005][269]MaterialEditorStats: Texture samplers: 2/16
+[2021.01.09-20.41.48:810][376]LogSlate: Window 'Group64229Mat' being destroyed
+[2021.01.09-20.41.48:813][376]LogSlate: Window 'Group64229Mat' being destroyed
+[2021.01.09-20.41.48:852][376]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.01.09-20.41.48:852][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.09-20.41.54:494][703]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2021.01.09-20.41.57:508][703]LogSlate: Window 'Delete Assets' being destroyed
+[2021.01.09-20.41.57:644][703]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2021.01.09-20.42.07:497][291]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2021.01.09-20.46.00:825][829]BlueprintLog: New page: Compile BP_Player
+[2021.01.09-20.46.00:849][829]LogBlueprint: Error: [Compiler BP_Player] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2021.01.09-20.46.00:849][829]LogBlueprint: Error: [Compiler BP_Player] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2021.01.09-20.46.00:849][829]LogBlueprint: Error: [Compiler BP_Player] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2021.01.09-20.46.00:849][829]LogBlueprint: Error: [Compiler BP_Player] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2021.01.09-20.46.00:849][829]LogBlueprint: Error: [Compiler BP_Player] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2021.01.09-20.46.00:886][829]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2021.01.09-20.46.01:533][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2021.01.09-20.46.01:593][861]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/BP_PlayerA893324A4218F719AB6CFBB5B8117274.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Blueprints/BP_Player.uasset'
+[2021.01.09-20.46.01:605][861]AssetCheck: New page: Asset Save: BP_Player
+[2021.01.09-20.46.01:605][861]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2021.01.09-20.46.15:954][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2021.01.09-20.46.16:003][716]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/BP_Player707F9390480D18B04101378D9CAA2F04.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Blueprints/BP_Player.uasset'
+[2021.01.09-20.46.16:013][716]AssetCheck: New page: Asset Save: BP_Player
+[2021.01.09-20.46.16:013][716]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2021.01.09-20.46.54:961][ 30]BlueprintLog: New page: Compile BP_Player
+[2021.01.09-20.46.54:973][ 30]LogBlueprint: Error: [Compiler BP_Player] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2021.01.09-20.46.55:006][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2021.01.09-20.47.03:158][505]BlueprintLog: New page: Compile BP_Player
+[2021.01.09-20.47.03:206][505]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2021.01.09-20.47.03:647][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2021.01.09-20.47.03:700][525]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/BP_Player8041926C4C2E4111A59C2F84E01DA5C2.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Blueprints/BP_Player.uasset'
+[2021.01.09-20.47.03:715][525]AssetCheck: New page: Asset Save: BP_Player
+[2021.01.09-20.47.03:715][525]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2021.01.09-20.47.23:356][698]BlueprintLog: New page: Compile BP_Player
+[2021.01.09-20.47.23:405][698]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2021.01.09-20.47.23:753][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2021.01.09-20.47.23:805][714]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/BP_PlayerE49B6747481A81D027F1448FCFDCE6D6.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Blueprints/BP_Player.uasset'
+[2021.01.09-20.47.23:818][714]AssetCheck: New page: Asset Save: BP_Player
+[2021.01.09-20.47.23:818][714]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2021.01.09-20.47.28:529][997]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.09-20.47.28:549][997]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.09-20.47.28:554][997]PIE: New page: PIE session: Test_Room (9 ene. 2021 22:47:28)
+[2021.01.09-20.47.28:555][997]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.09-20.47.28:560][997]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004373s)
+[2021.01.09-20.47.28:561][997]LogAIModule: Creating AISystem for world Test_Room
+[2021.01.09-20.47.28:562][997]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001CA150A0600), frame # 579997
+[2021.01.09-20.47.28:563][997]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C92AB13100), frame # 579997
+[2021.01.09-20.47.28:564][997]LogPlayLevel: PIE: World Init took: (0.003510s)
+[2021.01.09-20.47.28:564][997]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test_Room.Test_Room to /Game/Levels/UEDPIE_0_Test_Room.Test_Room (0.008204s)
+[2021.01.09-20.47.28:581][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.01.09-20.47.28:585][997]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.09-20.47.28:585][997]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.09-20.47.28:586][997]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.09-20.47.28:586][997]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.09-20.47.28:586][997]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.09-20.47.28:586][997]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.09-20.47.28:586][997]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.09-20.47.28:586][997]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.09-20.47.28:588][997]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.09-20.47.28:588][997]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.09-20.47.28:592][997]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.09-20.47.28:592][997]LogAudioMixer: Display: 1: FrontRight
+[2021.01.09-20.47.28:627][997]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2021.01.09-20.47.28:628][997]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.09-20.47.28:628][997]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.09-20.47.28:628][997]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.09-20.47.28:630][997]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.09-20.47.28:641][997]LogInit: FAudioDevice initialized.
+[2021.01.09-20.47.28:667][997]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.09-20.47.28:668][997]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.09-20.47.28:669][997]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test_Room.Test_Room up for play (max tick rate 60) at 2021.01.09-21.47.28
+[2021.01.09-20.47.28:670][997]LogWorld: Bringing up level for play took: 0.001921
+[2021.01.09-20.47.28:672][997]LogOnline: OSS: Creating online subsystem instance for: :Context_84
+[2021.01.09-20.47.28:690][997]PIE: Server logged in
+[2021.01.09-20.47.28:691][997]PIE: Play in editor total start time 0,145 seconds.
+[2021.01.09-20.47.29:722][ 58]LogBlueprintUserMessages: [BP_Player_C_0] Pocion de convertir en piedra
+[2021.01.09-20.47.38:027][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.09-20.47.38:027][554]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.09-20.47.38:028][554]LogSlate: Window 'GameJamUroboros Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.01.09-20.47.38:034][554]LogWorld: UWorld::CleanupWorld for Test_Room, bSessionEnded=true, bCleanupResources=true
+[2021.01.09-20.47.38:034][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.09-20.47.38:041][554]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.09-20.47.38:045][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.09-20.47.38:104][554]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C92AB13100), frame # 580554
+[2021.01.09-20.47.38:104][554]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001CA150A0600), frame # 580554
+[2021.01.09-20.47.38:107][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.01.09-20.47.38:136][555]LogPlayLevel: Display: Destroying online subsystem :Context_84
+[2021.01.09-20.49.02:727][621]BlueprintLog: New page: Compile BP_Player
+[2021.01.09-20.49.02:786][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.01.09-20.49.03:268][646]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2021.01.09-20.49.03:321][646]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/BP_Player42A7D0FB475828AFA7A06E9C15B6DB1E.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Blueprints/BP_Player.uasset'
+[2021.01.09-20.49.03:334][646]AssetCheck: New page: Asset Save: BP_Player
+[2021.01.09-20.49.03:334][646]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2021.01.09-20.49.04:153][694]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.09-20.49.04:167][694]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.09-20.49.04:168][694]PIE: New page: PIE session: Test_Room (9 ene. 2021 22:49:04)
+[2021.01.09-20.49.04:168][694]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.09-20.49.04:170][694]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001972s)
+[2021.01.09-20.49.04:171][694]LogAIModule: Creating AISystem for world Test_Room
+[2021.01.09-20.49.04:171][694]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C877BDFA00), frame # 585694
+[2021.01.09-20.49.04:171][694]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C87AAC5580), frame # 585694
+[2021.01.09-20.49.04:171][694]LogPlayLevel: PIE: World Init took: (0.001039s)
+[2021.01.09-20.49.04:171][694]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test_Room.Test_Room to /Game/Levels/UEDPIE_0_Test_Room.Test_Room (0.003144s)
+[2021.01.09-20.49.04:190][694]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.01.09-20.49.04:191][694]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.09-20.49.04:191][694]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.09-20.49.04:191][694]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.09-20.49.04:191][694]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.09-20.49.04:191][694]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.09-20.49.04:191][694]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.09-20.49.04:191][694]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.09-20.49.04:191][694]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.09-20.49.04:192][694]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.09-20.49.04:192][694]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.09-20.49.04:194][694]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.09-20.49.04:194][694]LogAudioMixer: Display: 1: FrontRight
+[2021.01.09-20.49.04:222][694]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2021.01.09-20.49.04:222][694]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.09-20.49.04:222][694]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.09-20.49.04:222][694]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.09-20.49.04:223][694]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.09-20.49.04:235][694]LogInit: FAudioDevice initialized.
+[2021.01.09-20.49.04:257][694]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.09-20.49.04:257][694]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.09-20.49.04:258][694]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test_Room.Test_Room up for play (max tick rate 60) at 2021.01.09-21.49.04
+[2021.01.09-20.49.04:258][694]LogWorld: Bringing up level for play took: 0.000909
+[2021.01.09-20.49.04:259][694]LogOnline: OSS: Creating online subsystem instance for: :Context_85
+[2021.01.09-20.49.04:263][694]PIE: Server logged in
+[2021.01.09-20.49.04:264][694]PIE: Play in editor total start time 0,097 seconds.
+[2021.01.09-20.49.12:670][198]LogBlueprintUserMessages: [BP_Player_C_0] Pocion de convertir en piedra
+[2021.01.09-20.49.20:053][641]LogBlueprintUserMessages: [BP_Player_C_0] Pocion de explotar
+[2021.01.09-20.49.25:153][947]LogBlueprintUserMessages: [BP_Player_C_0] Pocion de convertir en piedra
+[2021.01.09-20.49.28:924][171]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.09-20.49.28:924][171]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.09-20.49.28:924][171]LogSlate: Window 'GameJamUroboros Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.01.09-20.49.28:928][171]LogWorld: UWorld::CleanupWorld for Test_Room, bSessionEnded=true, bCleanupResources=true
+[2021.01.09-20.49.28:928][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.09-20.49.28:936][171]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.09-20.49.28:940][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.09-20.49.29:003][171]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C87AAC5580), frame # 587171
+[2021.01.09-20.49.29:003][171]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C877BDFA00), frame # 587171
+[2021.01.09-20.49.29:006][171]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.01.09-20.49.29:036][172]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2021.01.09-20.49.31:262][303]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Floor.BP_Floor
+[2021.01.09-20.49.35:964][561]BlueprintLog: New page: Compile BP_Floor
+[2021.01.09-20.49.35:998][561]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.01.09-20.49.36:557][591]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Floor" FILE="../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Blueprints/BP_Floor.uasset" SILENT=true
+[2021.01.09-20.49.36:584][591]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/BP_Floor16115486469CCFD3159221B435DB8350.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Blueprints/BP_Floor.uasset'
+[2021.01.09-20.49.36:595][591]AssetCheck: New page: Asset Save: BP_Floor
+[2021.01.09-20.49.36:595][591]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Floor.BP_Floor
+[2021.01.09-20.49.38:121][681]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.09-20.49.38:136][681]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.09-20.49.38:136][681]PIE: New page: PIE session: Test_Room (9 ene. 2021 22:49:38)
+[2021.01.09-20.49.38:136][681]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.09-20.49.38:138][681]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001701s)
+[2021.01.09-20.49.38:138][681]LogAIModule: Creating AISystem for world Test_Room
+[2021.01.09-20.49.38:138][681]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C7C474DE00), frame # 587681
+[2021.01.09-20.49.38:138][681]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001CA14BD4E00), frame # 587681
+[2021.01.09-20.49.38:138][681]LogPlayLevel: PIE: World Init took: (0.000765s)
+[2021.01.09-20.49.38:138][681]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test_Room.Test_Room to /Game/Levels/UEDPIE_0_Test_Room.Test_Room (0.002544s)
+[2021.01.09-20.49.38:157][681]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.01.09-20.49.38:158][681]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.09-20.49.38:158][681]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.09-20.49.38:158][681]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.09-20.49.38:158][681]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.09-20.49.38:158][681]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.09-20.49.38:158][681]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.09-20.49.38:158][681]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.09-20.49.38:158][681]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.09-20.49.38:159][681]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.09-20.49.38:159][681]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.09-20.49.38:161][681]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.09-20.49.38:161][681]LogAudioMixer: Display: 1: FrontRight
+[2021.01.09-20.49.38:189][681]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2021.01.09-20.49.38:189][681]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.09-20.49.38:189][681]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.09-20.49.38:189][681]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.09-20.49.38:190][681]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.09-20.49.38:200][681]LogInit: FAudioDevice initialized.
+[2021.01.09-20.49.38:214][681]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.09-20.49.38:216][681]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test_Room.Test_Room up for play (max tick rate 60) at 2021.01.09-21.49.38
+[2021.01.09-20.49.38:216][681]LogWorld: Bringing up level for play took: 0.000708
+[2021.01.09-20.49.38:216][681]LogOnline: OSS: Creating online subsystem instance for: :Context_87
+[2021.01.09-20.49.38:218][681]PIE: Server logged in
+[2021.01.09-20.49.38:219][681]PIE: Play in editor total start time 0,085 seconds.
+[2021.01.09-20.49.41:543][878]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.09-20.49.41:543][878]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.09-20.49.41:543][878]LogWorld: UWorld::CleanupWorld for Test_Room, bSessionEnded=true, bCleanupResources=true
+[2021.01.09-20.49.41:545][878]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.09-20.49.41:554][878]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.09-20.49.41:557][878]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.09-20.49.41:575][878]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.09-20.49.41:618][878]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001CA14BD4E00), frame # 587878
+[2021.01.09-20.49.41:618][878]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C7C474DE00), frame # 587878
+[2021.01.09-20.49.41:620][878]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2021.01.09-20.49.41:647][879]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2021.01.09-20.49.44:166][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2021.01.09-20.49.45:430][ 27]LogSlate: Window 'Save Content' being destroyed
+[2021.01.09-20.49.45:435][ 27]LogPlayLevel: Warning: PIE failed because map save was canceled
+[2021.01.09-20.49.45:436][ 27]PIE: Warning: PIE failed because map save was canceled
+[2021.01.09-20.49.46:471][ 88]LogSlate: Window 'Message Log' being destroyed
+[2021.01.09-20.49.46:475][ 88]LogSlate: Window 'Message Log' being destroyed
+[2021.01.09-20.49.48:981][235]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.09-20.49.48:981][235]PIE: New page: PIE session: Test_Room (9 ene. 2021 22:49:48)
+[2021.01.09-20.49.48:982][235]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.09-20.49.48:984][235]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001906s)
+[2021.01.09-20.49.48:984][235]LogAIModule: Creating AISystem for world Test_Room
+[2021.01.09-20.49.48:984][235]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C7CB49C400), frame # 588235
+[2021.01.09-20.49.48:986][235]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001CA00F63100), frame # 588235
+[2021.01.09-20.49.48:987][235]LogPlayLevel: PIE: World Init took: (0.002988s)
+[2021.01.09-20.49.48:987][235]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test_Room.Test_Room to /Game/Levels/UEDPIE_0_Test_Room.Test_Room (0.004996s)
+[2021.01.09-20.49.49:006][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2021.01.09-20.49.49:007][235]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.09-20.49.49:007][235]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.09-20.49.49:007][235]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.09-20.49.49:007][235]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.09-20.49.49:007][235]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.09-20.49.49:007][235]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.09-20.49.49:007][235]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.09-20.49.49:007][235]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.09-20.49.49:008][235]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.09-20.49.49:008][235]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.09-20.49.49:009][235]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.09-20.49.49:009][235]LogAudioMixer: Display: 1: FrontRight
+[2021.01.09-20.49.49:036][235]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2021.01.09-20.49.49:037][235]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.09-20.49.49:037][235]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.09-20.49.49:037][235]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.09-20.49.49:037][235]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.09-20.49.49:049][235]LogInit: FAudioDevice initialized.
+[2021.01.09-20.49.49:069][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.09-20.49.49:069][235]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.09-20.49.49:071][235]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test_Room.Test_Room up for play (max tick rate 60) at 2021.01.09-21.49.49
+[2021.01.09-20.49.49:071][235]LogWorld: Bringing up level for play took: 0.000757
+[2021.01.09-20.49.49:071][235]LogOnline: OSS: Creating online subsystem instance for: :Context_88
+[2021.01.09-20.49.49:081][235]PIE: Server logged in
+[2021.01.09-20.49.49:082][235]PIE: Play in editor total start time 0,101 seconds.
+[2021.01.09-20.49.51:975][407]LogBlueprintUserMessages: [BP_Player_C_0] Pocion de convertir en piedra
+[2021.01.09-20.49.56:241][663]LogBlueprintUserMessages: [BP_Player_C_0] Pocion de convertir en piedra
+[2021.01.09-20.49.58:694][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.09-20.49.58:694][807]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.09-20.49.58:694][807]LogSlate: Window 'GameJamUroboros Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.01.09-20.49.58:700][807]LogWorld: UWorld::CleanupWorld for Test_Room, bSessionEnded=true, bCleanupResources=true
+[2021.01.09-20.49.58:700][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.09-20.49.58:706][807]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.09-20.49.58:710][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.09-20.49.58:790][807]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001CA00F63100), frame # 588807
+[2021.01.09-20.49.58:790][807]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C7CB49C400), frame # 588807
+[2021.01.09-20.49.58:791][807]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2021.01.09-20.49.58:821][808]LogPlayLevel: Display: Destroying online subsystem :Context_88
+[2021.01.09-20.50.02:915][ 51]BlueprintLog: New page: Compile BP_Floor
+[2021.01.09-20.50.02:949][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.01.09-20.50.03:275][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Floor" FILE="../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Blueprints/BP_Floor.uasset" SILENT=true
+[2021.01.09-20.50.03:296][ 67]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/BP_FloorA9BA7DE749B00B89B47063B8AEE7BCCB.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Blueprints/BP_Floor.uasset'
+[2021.01.09-20.50.03:314][ 67]AssetCheck: New page: Asset Save: BP_Floor
+[2021.01.09-20.50.03:314][ 67]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Floor.BP_Floor
+[2021.01.09-20.50.04:140][117]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.01.09-20.50.04:155][117]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.09-20.50.04:155][117]PIE: New page: PIE session: Test_Room (9 ene. 2021 22:50:04)
+[2021.01.09-20.50.04:155][117]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.09-20.50.04:157][117]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001801s)
+[2021.01.09-20.50.04:158][117]LogAIModule: Creating AISystem for world Test_Room
+[2021.01.09-20.50.04:158][117]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001CA00CE4C00), frame # 589117
+[2021.01.09-20.50.04:158][117]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C85C62F100), frame # 589117
+[2021.01.09-20.50.04:158][117]LogPlayLevel: PIE: World Init took: (0.000798s)
+[2021.01.09-20.50.04:158][117]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test_Room.Test_Room to /Game/Levels/UEDPIE_0_Test_Room.Test_Room (0.002684s)
+[2021.01.09-20.50.04:179][117]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.01.09-20.50.04:180][117]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.09-20.50.04:180][117]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.09-20.50.04:180][117]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.09-20.50.04:180][117]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.09-20.50.04:180][117]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.09-20.50.04:180][117]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.09-20.50.04:180][117]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.09-20.50.04:180][117]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.09-20.50.04:181][117]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.09-20.50.04:181][117]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.09-20.50.04:182][117]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.09-20.50.04:182][117]LogAudioMixer: Display: 1: FrontRight
+[2021.01.09-20.50.04:209][117]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2021.01.09-20.50.04:209][117]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.09-20.50.04:209][117]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.09-20.50.04:209][117]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.09-20.50.04:209][117]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.09-20.50.04:221][117]LogInit: FAudioDevice initialized.
+[2021.01.09-20.50.04:242][117]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.09-20.50.04:242][117]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.09-20.50.04:243][117]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test_Room.Test_Room up for play (max tick rate 60) at 2021.01.09-21.50.04
+[2021.01.09-20.50.04:243][117]LogWorld: Bringing up level for play took: 0.000786
+[2021.01.09-20.50.04:244][117]LogOnline: OSS: Creating online subsystem instance for: :Context_89
+[2021.01.09-20.50.04:249][117]PIE: Server logged in
+[2021.01.09-20.50.04:250][117]PIE: Play in editor total start time 0,097 seconds.
+[2021.01.09-20.50.05:529][193]LogBlueprintUserMessages: [BP_Player_C_0] Pocion de convertir en piedra
+[2021.01.09-20.50.11:363][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.09-20.50.11:363][541]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.09-20.50.11:364][541]LogSlate: Window 'GameJamUroboros Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.01.09-20.50.11:367][541]LogWorld: UWorld::CleanupWorld for Test_Room, bSessionEnded=true, bCleanupResources=true
+[2021.01.09-20.50.11:367][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.09-20.50.11:372][541]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.09-20.50.11:376][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.09-20.50.11:432][541]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C85C62F100), frame # 589541
+[2021.01.09-20.50.11:432][541]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001CA00CE4C00), frame # 589541
+[2021.01.09-20.50.11:434][541]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.01.09-20.50.11:466][542]LogPlayLevel: Display: Destroying online subsystem :Context_89
+[2021.01.09-20.50.12:413][596]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Floor" FILE="../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Blueprints/BP_Floor.uasset" SILENT=true
+[2021.01.09-20.50.12:430][596]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/BP_FloorCDB2A4B644EF816D44543AB06F8BB0DC.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Blueprints/BP_Floor.uasset'
+[2021.01.09-20.50.12:441][596]AssetCheck: New page: Asset Save: BP_Floor
+[2021.01.09-20.50.12:441][596]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Floor.BP_Floor
+[2021.01.09-20.50.12:951][627]BlueprintLog: New page: Compile BP_Floor
+[2021.01.09-20.50.12:981][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.01.09-20.50.24:993][ 74]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2021.01.09-20.50.25:787][120]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.01.09-20.50.25:803][120]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.09-20.50.25:803][120]PIE: New page: PIE session: Test_Room (9 ene. 2021 22:50:25)
+[2021.01.09-20.50.25:803][120]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.09-20.50.25:805][120]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001789s)
+[2021.01.09-20.50.25:806][120]LogAIModule: Creating AISystem for world Test_Room
+[2021.01.09-20.50.25:806][120]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C8C2AE1400), frame # 590120
+[2021.01.09-20.50.25:806][120]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C7B1C2D580), frame # 590120
+[2021.01.09-20.50.25:806][120]LogPlayLevel: PIE: World Init took: (0.000883s)
+[2021.01.09-20.50.25:806][120]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test_Room.Test_Room to /Game/Levels/UEDPIE_0_Test_Room.Test_Room (0.002774s)
+[2021.01.09-20.50.25:827][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.01.09-20.50.25:829][120]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.09-20.50.25:829][120]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.09-20.50.25:829][120]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.09-20.50.25:829][120]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.09-20.50.25:829][120]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.09-20.50.25:829][120]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.09-20.50.25:829][120]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.09-20.50.25:829][120]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.09-20.50.25:829][120]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.09-20.50.25:829][120]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.09-20.50.25:831][120]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.09-20.50.25:831][120]LogAudioMixer: Display: 1: FrontRight
+[2021.01.09-20.50.25:858][120]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2021.01.09-20.50.25:859][120]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.09-20.50.25:859][120]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.09-20.50.25:859][120]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.09-20.50.25:859][120]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.09-20.50.25:870][120]LogInit: FAudioDevice initialized.
+[2021.01.09-20.50.25:895][120]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.09-20.50.25:896][120]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.09-20.50.25:897][120]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test_Room.Test_Room up for play (max tick rate 60) at 2021.01.09-21.50.25
+[2021.01.09-20.50.25:897][120]LogWorld: Bringing up level for play took: 0.000865
+[2021.01.09-20.50.25:897][120]LogOnline: OSS: Creating online subsystem instance for: :Context_90
+[2021.01.09-20.50.25:902][120]PIE: Server logged in
+[2021.01.09-20.50.25:904][120]PIE: Play in editor total start time 0,101 seconds.
+[2021.01.09-20.50.29:115][311]LogBlueprintUserMessages: [BP_Player_C_0] Pocion de convertir en piedra
+[2021.01.09-20.50.36:534][754]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.09-20.50.36:534][754]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.09-20.50.36:535][754]LogSlate: Window 'GameJamUroboros Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.01.09-20.50.36:541][754]LogWorld: UWorld::CleanupWorld for Test_Room, bSessionEnded=true, bCleanupResources=true
+[2021.01.09-20.50.36:541][754]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.09-20.50.36:552][754]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.09-20.50.36:556][754]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.09-20.50.36:613][754]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C7B1C2D580), frame # 590754
+[2021.01.09-20.50.36:613][754]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C8C2AE1400), frame # 590754
+[2021.01.09-20.50.36:615][754]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2021.01.09-20.50.36:644][755]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2021.01.09-20.50.40:739][998]Cmd: TRANSACTION UNDO
+[2021.01.09-20.50.40:739][998]LogEditorTransaction: Undo Clicking on Actors
+[2021.01.09-20.50.41:175][ 18]Cmd: TRANSACTION UNDO
+[2021.01.09-20.50.41:176][ 18]LogEditorTransaction: Undo Edit Mobility
+[2021.01.09-20.50.42:001][ 66]Cmd: TRANSACTION UNDO
+[2021.01.09-20.50.42:001][ 66]LogEditorTransaction: Undo Edit Mobility
+[2021.01.09-20.50.42:338][ 86]Cmd: TRANSACTION UNDO
+[2021.01.09-20.50.42:338][ 86]LogEditorTransaction: Undo Modify Component(s)
+[2021.01.09-20.50.42:549][ 98]Cmd: TRANSACTION UNDO
+[2021.01.09-20.50.42:549][ 98]LogEditorTransaction: Undo Modify Component(s)
+[2021.01.09-20.50.46:403][328]LogEditorTransaction: Redo Modify Component(s)
+[2021.01.09-20.50.46:829][347]LogEditorTransaction: Redo Modify Component(s)
+[2021.01.09-20.50.47:596][391]LogEditorTransaction: Redo Edit Mobility
+[2021.01.09-20.50.50:591][569]LogEditorTransaction: Undo Edit Mobility
+[2021.01.09-20.50.53:125][719]BlueprintLog: New page: Compile BP_Floor
+[2021.01.09-20.50.53:159][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.01.09-20.50.53:634][744]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Floor" FILE="../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Blueprints/BP_Floor.uasset" SILENT=true
+[2021.01.09-20.50.53:659][744]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/BP_FloorFE2316084AA57894EB7EF18089C7BB0D.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Blueprints/BP_Floor.uasset'
+[2021.01.09-20.50.53:671][744]AssetCheck: New page: Asset Save: BP_Floor
+[2021.01.09-20.50.53:671][744]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Floor.BP_Floor
+[2021.01.09-20.50.53:793][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Floor" FILE="../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Blueprints/BP_Floor.uasset" SILENT=true
+[2021.01.09-20.50.53:811][751]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/BP_FloorF1F8EB7942A564688C385A9B3B1160FA.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Blueprints/BP_Floor.uasset'
+[2021.01.09-20.50.53:822][751]AssetCheck: New page: Asset Save: BP_Floor
+[2021.01.09-20.50.53:822][751]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Floor.BP_Floor
+[2021.01.09-20.50.54:509][792]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.01.09-20.50.54:524][792]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.09-20.50.54:524][792]PIE: New page: PIE session: Test_Room (9 ene. 2021 22:50:54)
+[2021.01.09-20.50.54:527][792]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.09-20.50.54:528][792]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002037s)
+[2021.01.09-20.50.54:529][792]LogAIModule: Creating AISystem for world Test_Room
+[2021.01.09-20.50.54:529][792]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C7C4518400), frame # 591792
+[2021.01.09-20.50.54:529][792]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C9FCF72AC0), frame # 591792
+[2021.01.09-20.50.54:529][792]LogPlayLevel: PIE: World Init took: (0.000927s)
+[2021.01.09-20.50.54:529][792]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test_Room.Test_Room to /Game/Levels/UEDPIE_0_Test_Room.Test_Room (0.003098s)
+[2021.01.09-20.50.54:549][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.01.09-20.50.54:550][792]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.09-20.50.54:550][792]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.09-20.50.54:550][792]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.09-20.50.54:550][792]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.09-20.50.54:550][792]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.09-20.50.54:550][792]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.09-20.50.54:550][792]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.09-20.50.54:550][792]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.09-20.50.54:551][792]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.09-20.50.54:551][792]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.09-20.50.54:553][792]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.09-20.50.54:553][792]LogAudioMixer: Display: 1: FrontRight
+[2021.01.09-20.50.54:580][792]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2021.01.09-20.50.54:580][792]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.09-20.50.54:580][792]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.09-20.50.54:580][792]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.09-20.50.54:580][792]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.09-20.50.54:592][792]LogInit: FAudioDevice initialized.
+[2021.01.09-20.50.54:617][792]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.09-20.50.54:617][792]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.09-20.50.54:618][792]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test_Room.Test_Room up for play (max tick rate 60) at 2021.01.09-21.50.54
+[2021.01.09-20.50.54:618][792]LogWorld: Bringing up level for play took: 0.000734
+[2021.01.09-20.50.54:618][792]LogOnline: OSS: Creating online subsystem instance for: :Context_91
+[2021.01.09-20.50.54:623][792]PIE: Server logged in
+[2021.01.09-20.50.54:625][792]PIE: Play in editor total start time 0,101 seconds.
+[2021.01.09-20.50.55:696][855]LogBlueprintUserMessages: [BP_Player_C_0] Pocion de convertir en piedra
+[2021.01.09-20.51.03:163][301]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.09-20.51.03:163][301]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.09-20.51.03:164][301]LogSlate: Window 'GameJamUroboros Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.01.09-20.51.03:166][301]LogWorld: UWorld::CleanupWorld for Test_Room, bSessionEnded=true, bCleanupResources=true
+[2021.01.09-20.51.03:167][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.09-20.51.03:174][301]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.09-20.51.03:179][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.09-20.51.03:219][301]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C7C4518400), frame # 592301
+[2021.01.09-20.51.03:220][301]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C9FCF72AC0), frame # 592301
+[2021.01.09-20.51.03:222][301]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.01.09-20.51.03:253][302]LogPlayLevel: Display: Destroying online subsystem :Context_91
+[2021.01.09-20.51.08:134][589]LogSlate: Window 'BP_Floor' being destroyed
+[2021.01.09-20.51.09:629][678]BlueprintLog: New page: Compile BP_Player
+[2021.01.09-20.51.09:677][678]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.01.09-20.51.10:282][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2021.01.09-20.51.10:339][712]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/BP_Player2084993C4F50E9A2D3DB22871138F5EF.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Blueprints/BP_Player.uasset'
+[2021.01.09-20.51.10:352][712]AssetCheck: New page: Asset Save: BP_Player
+[2021.01.09-20.51.10:352][712]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2021.01.09-20.51.29:595][866]BlueprintLog: New page: Compile BP_Player
+[2021.01.09-20.51.29:646][866]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.01.09-20.51.30:102][890]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2021.01.09-20.51.30:155][890]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/BP_Player0A114F7449A2FCB2C2433F90737E2D2B.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Blueprints/BP_Player.uasset'
+[2021.01.09-20.51.30:168][890]AssetCheck: New page: Asset Save: BP_Player
+[2021.01.09-20.51.30:168][890]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2021.01.09-20.51.30:751][925]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.01.09-20.51.30:766][925]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.09-20.51.30:766][925]PIE: New page: PIE session: Test_Room (9 ene. 2021 22:51:30)
+[2021.01.09-20.51.30:766][925]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.09-20.51.30:768][925]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001977s)
+[2021.01.09-20.51.30:768][925]LogAIModule: Creating AISystem for world Test_Room
+[2021.01.09-20.51.30:768][925]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C909C35200), frame # 593925
+[2021.01.09-20.51.30:769][925]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C8475A0540), frame # 593925
+[2021.01.09-20.51.30:769][925]LogPlayLevel: PIE: World Init took: (0.000783s)
+[2021.01.09-20.51.30:769][925]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test_Room.Test_Room to /Game/Levels/UEDPIE_0_Test_Room.Test_Room (0.002838s)
+[2021.01.09-20.51.30:789][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2021.01.09-20.51.30:790][925]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.09-20.51.30:790][925]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.09-20.51.30:790][925]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.09-20.51.30:790][925]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.09-20.51.30:790][925]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.09-20.51.30:790][925]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.09-20.51.30:790][925]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.09-20.51.30:790][925]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.09-20.51.30:791][925]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.09-20.51.30:791][925]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.09-20.51.30:793][925]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.09-20.51.30:793][925]LogAudioMixer: Display: 1: FrontRight
+[2021.01.09-20.51.30:821][925]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2021.01.09-20.51.30:821][925]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.09-20.51.30:821][925]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.09-20.51.30:821][925]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.09-20.51.30:821][925]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.09-20.51.30:833][925]LogInit: FAudioDevice initialized.
+[2021.01.09-20.51.30:860][925]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.09-20.51.30:860][925]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.09-20.51.30:862][925]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test_Room.Test_Room up for play (max tick rate 60) at 2021.01.09-21.51.30
+[2021.01.09-20.51.30:862][925]LogWorld: Bringing up level for play took: 0.000794
+[2021.01.09-20.51.30:862][925]LogOnline: OSS: Creating online subsystem instance for: :Context_92
+[2021.01.09-20.51.30:867][925]PIE: Server logged in
+[2021.01.09-20.51.30:868][925]PIE: Play in editor total start time 0,103 seconds.
+[2021.01.09-20.51.35:909][227]LogBlueprintUserMessages: [BP_Player_C_0] Pocion de explotar
+[2021.01.09-20.51.42:954][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.09-20.51.42:954][648]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.09-20.51.42:954][648]LogSlate: Window 'GameJamUroboros Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.01.09-20.51.42:956][648]LogWorld: UWorld::CleanupWorld for Test_Room, bSessionEnded=true, bCleanupResources=true
+[2021.01.09-20.51.42:956][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.09-20.51.42:965][648]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.09-20.51.42:970][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.09-20.51.43:037][648]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C8475A0540), frame # 594648
+[2021.01.09-20.51.43:037][648]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C909C35200), frame # 594648
+[2021.01.09-20.51.43:040][648]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2021.01.09-20.51.43:066][649]LogPlayLevel: Display: Destroying online subsystem :Context_92
+[2021.01.09-20.51.48:016][946]BlueprintLog: New page: Compile BP_Player
+[2021.01.09-20.51.48:062][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.01.09-20.51.48:478][967]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2021.01.09-20.51.48:532][967]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/BP_Player10E71D74469CD887DBE9C484EF84E548.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Blueprints/BP_Player.uasset'
+[2021.01.09-20.51.48:544][967]AssetCheck: New page: Asset Save: BP_Player
+[2021.01.09-20.51.48:544][967]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2021.01.09-20.51.49:150][  4]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.01.09-20.51.49:165][  4]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.09-20.51.49:166][  4]PIE: New page: PIE session: Test_Room (9 ene. 2021 22:51:49)
+[2021.01.09-20.51.49:166][  4]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.09-20.51.49:167][  4]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001694s)
+[2021.01.09-20.51.49:168][  4]LogAIModule: Creating AISystem for world Test_Room
+[2021.01.09-20.51.49:168][  4]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C8B5861200), frame # 595004
+[2021.01.09-20.51.49:168][  4]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C883BB7C40), frame # 595004
+[2021.01.09-20.51.49:168][  4]LogPlayLevel: PIE: World Init took: (0.000826s)
+[2021.01.09-20.51.49:168][  4]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test_Room.Test_Room to /Game/Levels/UEDPIE_0_Test_Room.Test_Room (0.002602s)
+[2021.01.09-20.51.49:190][  4]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.01.09-20.51.49:191][  4]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.09-20.51.49:191][  4]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.09-20.51.49:191][  4]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.09-20.51.49:191][  4]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.09-20.51.49:191][  4]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.09-20.51.49:191][  4]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.09-20.51.49:191][  4]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.09-20.51.49:191][  4]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.09-20.51.49:191][  4]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.09-20.51.49:191][  4]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.09-20.51.49:193][  4]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.09-20.51.49:194][  4]LogAudioMixer: Display: 1: FrontRight
+[2021.01.09-20.51.49:220][  4]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2021.01.09-20.51.49:221][  4]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.09-20.51.49:221][  4]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.09-20.51.49:221][  4]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.09-20.51.49:221][  4]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.09-20.51.49:233][  4]LogInit: FAudioDevice initialized.
+[2021.01.09-20.51.49:256][  4]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.09-20.51.49:256][  4]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.09-20.51.49:258][  4]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test_Room.Test_Room up for play (max tick rate 60) at 2021.01.09-21.51.49
+[2021.01.09-20.51.49:258][  4]LogWorld: Bringing up level for play took: 0.000886
+[2021.01.09-20.51.49:258][  4]LogOnline: OSS: Creating online subsystem instance for: :Context_93
+[2021.01.09-20.51.49:262][  4]PIE: Server logged in
+[2021.01.09-20.51.49:263][  4]PIE: Play in editor total start time 0,098 seconds.
+[2021.01.09-20.51.53:813][275]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.09-20.51.53:813][275]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.09-20.51.53:814][275]LogSlate: Window 'GameJamUroboros Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.01.09-20.51.53:817][275]LogWorld: UWorld::CleanupWorld for Test_Room, bSessionEnded=true, bCleanupResources=true
+[2021.01.09-20.51.53:818][275]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.09-20.51.53:823][275]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.09-20.51.53:827][275]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.09-20.51.53:866][275]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C883BB7C40), frame # 595275
+[2021.01.09-20.51.53:866][275]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C8B5861200), frame # 595275
+[2021.01.09-20.51.53:868][275]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.01.09-20.51.53:900][276]LogPlayLevel: Display: Destroying online subsystem :Context_93
+[2021.01.09-20.52.03:409][846]BlueprintLog: New page: Compile BP_Player
+[2021.01.09-20.52.03:458][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.01.09-20.52.03:996][874]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2021.01.09-20.52.04:047][874]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/BP_Player4BA8B7D34AD04D4923284BAB2CB417CB.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Blueprints/BP_Player.uasset'
+[2021.01.09-20.52.04:059][874]AssetCheck: New page: Asset Save: BP_Player
+[2021.01.09-20.52.04:059][874]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2021.01.09-20.52.04:533][903]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.01.09-20.52.04:549][903]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.09-20.52.04:549][903]PIE: New page: PIE session: Test_Room (9 ene. 2021 22:52:04)
+[2021.01.09-20.52.04:549][903]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.09-20.52.04:551][903]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001927s)
+[2021.01.09-20.52.04:552][903]LogAIModule: Creating AISystem for world Test_Room
+[2021.01.09-20.52.04:552][903]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C984037C00), frame # 595903
+[2021.01.09-20.52.04:552][903]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C82E334F40), frame # 595903
+[2021.01.09-20.52.04:552][903]LogPlayLevel: PIE: World Init took: (0.000956s)
+[2021.01.09-20.52.04:552][903]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test_Room.Test_Room to /Game/Levels/UEDPIE_0_Test_Room.Test_Room (0.002972s)
+[2021.01.09-20.52.04:574][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2021.01.09-20.52.04:575][903]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.09-20.52.04:575][903]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.09-20.52.04:575][903]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.09-20.52.04:575][903]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.09-20.52.04:575][903]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.09-20.52.04:575][903]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.09-20.52.04:575][903]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.09-20.52.04:575][903]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.09-20.52.04:575][903]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.09-20.52.04:575][903]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.09-20.52.04:577][903]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.09-20.52.04:577][903]LogAudioMixer: Display: 1: FrontRight
+[2021.01.09-20.52.04:621][903]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2021.01.09-20.52.04:621][903]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.09-20.52.04:621][903]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.09-20.52.04:621][903]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.09-20.52.04:621][903]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.09-20.52.04:632][903]LogInit: FAudioDevice initialized.
+[2021.01.09-20.52.04:653][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.09-20.52.04:653][903]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.09-20.52.04:654][903]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test_Room.Test_Room up for play (max tick rate 60) at 2021.01.09-21.52.04
+[2021.01.09-20.52.04:654][903]LogWorld: Bringing up level for play took: 0.000838
+[2021.01.09-20.52.04:654][903]LogOnline: OSS: Creating online subsystem instance for: :Context_94
+[2021.01.09-20.52.04:659][903]PIE: Server logged in
+[2021.01.09-20.52.04:659][903]PIE: Play in editor total start time 0,111 seconds.
+[2021.01.09-20.52.09:354][184]LogBlueprintUserMessages: [BP_Player_C_0] Pocion de convertir en piedra
+[2021.01.09-20.52.14:821][512]LogBlueprintUserMessages: [BP_Player_C_0] Pocion de explotar
+[2021.01.09-20.52.18:188][714]LogBlueprintUserMessages: [BP_Player_C_0] Pocion 3
+[2021.01.09-20.52.18:738][747]LogBlueprintUserMessages: [BP_Player_C_0] Pocion 3
+[2021.01.09-20.52.18:921][758]LogBlueprintUserMessages: [BP_Player_C_0] Pocion 3
+[2021.01.09-20.52.19:087][768]LogBlueprintUserMessages: [BP_Player_C_0] Pocion 4
+[2021.01.09-20.52.19:304][781]LogBlueprintUserMessages: [BP_Player_C_0] Pocion 4
+[2021.01.09-20.52.19:863][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.09-20.52.19:864][812]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.09-20.52.19:864][812]LogSlate: Window 'GameJamUroboros Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.01.09-20.52.19:868][812]LogWorld: UWorld::CleanupWorld for Test_Room, bSessionEnded=true, bCleanupResources=true
+[2021.01.09-20.52.19:869][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.09-20.52.19:879][812]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.09-20.52.19:882][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.09-20.52.19:950][812]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C82E334F40), frame # 596812
+[2021.01.09-20.52.19:950][812]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C984037C00), frame # 596812
+[2021.01.09-20.52.19:952][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.01.09-20.52.19:978][813]LogPlayLevel: Display: Destroying online subsystem :Context_94
+[2021.01.09-20.52.21:187][885]BlueprintLog: New page: Compile BP_Player
+[2021.01.09-20.52.21:235][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2021.01.09-20.52.22:386][949]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.01.09-20.52.22:414][949]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Test_Room67C445184C15C11543A14CBC727C9824.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room.umap'
+[2021.01.09-20.52.22:449][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Test_Room_BuiltData" FILE="../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room_BuiltData.uasset" SILENT=true
+[2021.01.09-20.52.22:474][949]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Test_Room_BuiltData37F99EC0423D0638A3EFB3A18E025584.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room_BuiltData.uasset'
+[2021.01.09-20.52.22:489][949]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.09-20.52.22:489][949]LogContentValidation: Display: Validating World /Game/Levels/Test_Room.Test_Room
+[2021.01.09-20.52.22:489][949]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Test_Room_BuiltData.Test_Room_BuiltData
