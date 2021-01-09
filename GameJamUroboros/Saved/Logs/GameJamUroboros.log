@@ -9196,3 +9196,736 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.09-17.20.16:613][851]LogPlayLevel: Display: Destroying online subsystem :Context_71
 [2021.01.09-17.20.18:901][988]BlueprintLog: New page: Compile BP_Player
 [2021.01.09-17.20.18:955][988]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.01.09-17.22.12:590][391]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StarterContent/Materials/M_Concrete_Tiles.M_Concrete_Tiles
+[2021.01.09-17.22.12:594][391]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2021.01.09-17.22.12:876][391]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2021.01.09-17.22.12:885][391]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2021.01.09-17.22.12:893][391]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.01.09-17.22.12:893][391]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.01.09-17.22.12:893][391]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.01.09-17.22.12:893][391]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.01.09-17.22.12:893][391]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.01.09-17.22.12:893][391]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.01.09-17.22.12:893][391]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.01.09-17.22.12:893][391]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.01.09-17.22.12:896][391]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_31, compiling. 
+[2021.01.09-17.22.12:901][391]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.01.09-17.22.12:904][391]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2021.01.09-17.22.12:906][391]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2021.01.09-17.22.12:909][391]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_29, compiling. 
+[2021.01.09-17.22.12:912][391]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.01.09-17.22.12:914][391]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.01.09-17.22.12:917][391]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2021.01.09-17.22.14:200][462]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 35
+[2021.01.09-17.22.14:200][462]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 34
+[2021.01.09-17.22.14:451][477]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 33
+[2021.01.09-17.22.14:514][481]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 32
+[2021.01.09-17.22.14:547][483]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 31
+[2021.01.09-17.22.14:547][483]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 30
+[2021.01.09-17.22.14:569][484]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 29
+[2021.01.09-17.22.14:597][486]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 28
+[2021.01.09-17.22.14:864][502]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 27
+[2021.01.09-17.22.14:932][506]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 26
+[2021.01.09-17.22.14:932][506]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 25
+[2021.01.09-17.22.14:961][507]MaterialEditorStats: Base pass shader: 148 instructions
+[2021.01.09-17.22.14:961][507]MaterialEditorStats: Base pass shader with Surface Lightmap: 178 instructions
+[2021.01.09-17.22.14:961][507]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 225 instructions
+[2021.01.09-17.22.14:961][507]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.01.09-17.22.14:961][507]MaterialEditorStats: Texture samplers: 7/16
+[2021.01.09-17.22.14:961][507]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2021.01.09-17.22.14:961][507]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.09-17.22.15:001][510]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 24
+[2021.01.09-17.22.15:032][512]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 23
+[2021.01.09-17.22.15:052][513]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 22
+[2021.01.09-17.22.15:084][515]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 21
+[2021.01.09-17.22.15:084][515]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2021.01.09-17.22.15:435][536]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 19
+[2021.01.09-17.22.15:435][536]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 18
+[2021.01.09-17.22.15:484][539]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2021.01.09-17.22.15:517][541]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2021.01.09-17.22.15:566][544]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 15
+[2021.01.09-17.22.15:582][545]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 14
+[2021.01.09-17.22.15:583][545]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.01.09-17.22.15:600][546]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 12
+[2021.01.09-17.22.16:001][570]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2021.01.09-17.22.16:016][571]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2021.01.09-17.22.16:032][572]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2021.01.09-17.22.16:032][572]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.01.09-17.22.16:065][574]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2021.01.09-17.22.16:080][575]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2021.01.09-17.22.16:115][577]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.01.09-17.22.16:134][578]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.01.09-17.22.16:515][601]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.01.09-17.22.16:531][602]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.09-17.22.16:564][604]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.01.09-17.22.39:069][952]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2021.01.09-17.22.39:076][952]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2021.01.09-17.22.39:095][954]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.01.09-17.22.39:095][954]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.01.09-17.22.39:095][954]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.01.09-17.22.39:095][954]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.01.09-17.22.39:095][954]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.01.09-17.22.39:095][954]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.01.09-17.22.39:095][954]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.01.09-17.22.39:095][954]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.01.09-17.22.39:793][995]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.01.09-17.22.39:809][996]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.09-17.22.39:955][  5]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.01.09-17.22.40:348][ 28]MaterialEditorStats: Base pass shader: 148 instructions
+[2021.01.09-17.22.40:348][ 28]MaterialEditorStats: Base pass shader with Surface Lightmap: 178 instructions
+[2021.01.09-17.22.40:348][ 28]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 225 instructions
+[2021.01.09-17.22.40:348][ 28]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.01.09-17.22.40:348][ 28]MaterialEditorStats: Texture samplers: 7/16
+[2021.01.09-17.22.40:348][ 28]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2021.01.09-17.22.40:348][ 28]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.09-17.22.43:448][214]LogEditorTransaction: Undo Edit UTiling
+[2021.01.09-17.22.43:450][214]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2021.01.09-17.22.43:460][214]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.01.09-17.22.43:460][214]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.01.09-17.22.43:460][214]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.01.09-17.22.43:460][214]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.01.09-17.22.43:460][214]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.01.09-17.22.43:460][214]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.01.09-17.22.43:460][214]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.01.09-17.22.43:460][214]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.01.09-17.22.43:461][214]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2021.01.09-17.22.44:003][231]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2021.01.09-17.22.44:021][232]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.01.09-17.22.44:186][242]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.01.09-17.22.44:253][246]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2021.01.09-17.22.44:269][247]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2021.01.09-17.22.44:269][247]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.01.09-17.22.44:317][250]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.01.09-17.22.44:335][251]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.01.09-17.22.44:798][278]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2021.01.09-17.22.44:798][278]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2021.01.09-17.22.44:848][281]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.01.09-17.22.45:336][310]MaterialEditorStats: Base pass shader: 148 instructions
+[2021.01.09-17.22.45:336][310]MaterialEditorStats: Base pass shader with Surface Lightmap: 178 instructions
+[2021.01.09-17.22.45:336][310]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 225 instructions
+[2021.01.09-17.22.45:336][310]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.01.09-17.22.45:336][310]MaterialEditorStats: Texture samplers: 7/16
+[2021.01.09-17.22.45:336][310]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2021.01.09-17.22.45:336][310]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.09-17.23.59:540][ 11]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2021.01.09-17.23.59:547][ 11]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2021.01.09-17.23.59:562][ 12]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.01.09-17.23.59:562][ 12]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.01.09-17.23.59:562][ 12]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.01.09-17.23.59:562][ 12]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.01.09-17.23.59:562][ 12]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.01.09-17.23.59:562][ 12]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.01.09-17.23.59:562][ 12]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.01.09-17.23.59:562][ 12]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.01.09-17.24.00:277][ 55]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2021.01.09-17.24.00:294][ 56]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2021.01.09-17.24.00:444][ 65]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.01.09-17.24.00:851][ 89]MaterialEditorStats: Base pass shader: 148 instructions
+[2021.01.09-17.24.00:851][ 89]MaterialEditorStats: Base pass shader with Surface Lightmap: 178 instructions
+[2021.01.09-17.24.00:851][ 89]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 225 instructions
+[2021.01.09-17.24.00:851][ 89]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.01.09-17.24.00:851][ 89]MaterialEditorStats: Texture samplers: 7/16
+[2021.01.09-17.24.00:851][ 89]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2021.01.09-17.24.00:851][ 89]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.09-17.24.01:970][156]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2021.01.09-17.24.01:976][156]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2021.01.09-17.24.01:982][156]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.01.09-17.24.01:982][156]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.01.09-17.24.01:982][156]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.01.09-17.24.01:982][156]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.01.09-17.24.01:982][156]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.01.09-17.24.01:982][156]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.01.09-17.24.01:982][156]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.01.09-17.24.01:982][156]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.01.09-17.24.02:542][190]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.01.09-17.24.02:575][192]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.09-17.24.02:706][200]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.01.09-17.24.03:152][226]MaterialEditorStats: Base pass shader: 148 instructions
+[2021.01.09-17.24.03:152][226]MaterialEditorStats: Base pass shader with Surface Lightmap: 178 instructions
+[2021.01.09-17.24.03:152][226]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 225 instructions
+[2021.01.09-17.24.03:152][226]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.01.09-17.24.03:152][226]MaterialEditorStats: Texture samplers: 7/16
+[2021.01.09-17.24.03:152][226]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2021.01.09-17.24.03:152][226]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.09-17.24.05:521][368]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2021.01.09-17.24.05:529][368]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2021.01.09-17.24.05:542][369]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.01.09-17.24.05:542][369]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.01.09-17.24.05:542][369]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.01.09-17.24.05:542][369]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.01.09-17.24.05:542][369]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.01.09-17.24.05:542][369]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.01.09-17.24.05:542][369]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.01.09-17.24.05:542][369]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.01.09-17.24.06:092][402]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.01.09-17.24.06:125][404]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.09-17.24.06:257][412]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.01.09-17.24.06:648][435]MaterialEditorStats: Base pass shader: 148 instructions
+[2021.01.09-17.24.06:648][435]MaterialEditorStats: Base pass shader with Surface Lightmap: 178 instructions
+[2021.01.09-17.24.06:648][435]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 225 instructions
+[2021.01.09-17.24.06:648][435]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.01.09-17.24.06:648][435]MaterialEditorStats: Texture samplers: 7/16
+[2021.01.09-17.24.06:648][435]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2021.01.09-17.24.06:648][435]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.09-17.24.09:733][620]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2021.01.09-17.24.09:740][620]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2021.01.09-17.24.09:755][622]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.01.09-17.24.09:755][622]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.01.09-17.24.09:755][622]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.01.09-17.24.09:755][622]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.01.09-17.24.09:755][622]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.01.09-17.24.09:755][622]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.01.09-17.24.09:755][622]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.01.09-17.24.09:755][622]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.01.09-17.24.10:301][654]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.01.09-17.24.10:351][657]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.09-17.24.10:484][665]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.01.09-17.24.10:908][690]MaterialEditorStats: Base pass shader: 148 instructions
+[2021.01.09-17.24.10:908][690]MaterialEditorStats: Base pass shader with Surface Lightmap: 178 instructions
+[2021.01.09-17.24.10:908][690]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 225 instructions
+[2021.01.09-17.24.10:908][690]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.01.09-17.24.10:908][690]MaterialEditorStats: Texture samplers: 7/16
+[2021.01.09-17.24.10:908][690]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2021.01.09-17.24.10:908][690]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.09-17.24.12:366][777]LogMaterialEditor: Saving and Compiling material M_Concrete_Tiles
+[2021.01.09-17.24.14:535][777]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2021.01.09-17.24.14:568][777]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.01.09-17.24.14:568][777]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.01.09-17.24.14:568][777]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.01.09-17.24.14:568][777]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.01.09-17.24.14:568][777]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.01.09-17.24.14:568][777]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.01.09-17.24.14:568][777]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.01.09-17.24.14:568][777]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.01.09-17.24.14:593][777]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2021.01.09-17.24.14:670][777]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2021.01.09-17.24.14:680][777]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.09-17.24.15:244][777]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 29
+[2021.01.09-17.24.15:244][777]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 28
+[2021.01.09-17.24.15:244][777]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 27
+[2021.01.09-17.24.15:244][777]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 26
+[2021.01.09-17.24.15:244][777]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 25
+[2021.01.09-17.24.15:244][777]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 24
+[2021.01.09-17.24.15:574][777]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2021.01.09-17.24.15:574][777]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 17
+[2021.01.09-17.24.15:574][777]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 14
+[2021.01.09-17.24.15:574][777]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2021.01.09-17.24.15:574][777]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2021.01.09-17.24.15:574][777]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2021.01.09-17.24.15:574][777]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2021.01.09-17.24.15:589][777]TextureStreamingBuild: Display: Compiling optional shaders took 0.916 seconds.
+[2021.01.09-17.24.15:644][777]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2021.01.09-17.24.16:258][777]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2021.01.09-17.24.16:817][777]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.01.09-17.24.16:817][777]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2021.01.09-17.24.16:817][777]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.01.09-17.24.16:817][777]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.01.09-17.24.17:124][777]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/M_Concrete_Tiles72138C8D4C33B592D41E4DA7BBCA0837.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/StarterContent/Materials/M_Concrete_Tiles.uasset'
+[2021.01.09-17.24.17:152][777]AssetCheck: New page: Asset Save: M_Concrete_Tiles
+[2021.01.09-17.24.17:152][777]LogContentValidation: Display: Validating Material /Game/StarterContent/Materials/M_Concrete_Tiles.M_Concrete_Tiles
+[2021.01.09-17.24.17:153][777]MaterialEditorStats: Base pass shader: 148 instructions
+[2021.01.09-17.24.17:153][777]MaterialEditorStats: Base pass shader with Surface Lightmap: 178 instructions
+[2021.01.09-17.24.17:153][777]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 225 instructions
+[2021.01.09-17.24.17:153][777]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.01.09-17.24.17:153][777]MaterialEditorStats: Texture samplers: 8/16
+[2021.01.09-17.24.17:153][777]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2021.01.09-17.24.17:153][777]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.09-17.24.21:916][ 62]LogEditorViewport: Clicking Background
+[2021.01.09-17.24.22:284][ 83]LogEditorViewport: Clicking on Actor (LMB): BP_Floor_C (BP_Floor43)
+[2021.01.09-17.24.26:852][350]Cmd: TRANSACTION UNDO
+[2021.01.09-17.24.26:852][350]LogEditorTransaction: Undo Scale Actors
+[2021.01.09-17.24.26:867][350]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2021.01.09-17.24.26:883][350]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.01.09-17.24.26:883][350]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.01.09-17.24.26:883][350]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.01.09-17.24.26:883][350]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.01.09-17.24.26:883][350]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.01.09-17.24.26:883][350]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.01.09-17.24.26:883][350]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.01.09-17.24.26:883][350]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.01.09-17.24.27:462][370]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.01.09-17.24.27:491][371]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.09-17.24.27:675][380]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.01.09-17.24.28:117][404]MaterialEditorStats: Base pass shader: 148 instructions
+[2021.01.09-17.24.28:117][404]MaterialEditorStats: Base pass shader with Surface Lightmap: 178 instructions
+[2021.01.09-17.24.28:117][404]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 225 instructions
+[2021.01.09-17.24.28:117][404]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.01.09-17.24.28:117][404]MaterialEditorStats: Texture samplers: 7/16
+[2021.01.09-17.24.28:117][404]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2021.01.09-17.24.28:117][404]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.09-17.24.35:920][872]LogEditorViewport: Clicking on Actor (LMB): BP_TrampaPinchos_C (BP_TrampaPinchos)
+[2021.01.09-17.24.36:500][905]LogEditorViewport: Clicking on Actor (LMB): BP_Floor_C (BP_Floor45)
+[2021.01.09-17.24.48:546][619]Cmd: TRANSACTION UNDO
+[2021.01.09-17.24.48:546][619]LogEditorTransaction: Undo Scale Actors
+[2021.01.09-17.24.48:548][619]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2021.01.09-17.24.48:579][620]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.01.09-17.24.48:579][620]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.01.09-17.24.48:579][620]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.01.09-17.24.48:579][620]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.01.09-17.24.48:579][620]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.01.09-17.24.48:579][620]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.01.09-17.24.48:579][620]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.01.09-17.24.48:579][620]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.01.09-17.24.49:310][650]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.01.09-17.24.49:310][650]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.09-17.24.49:519][662]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.01.09-17.24.49:964][688]MaterialEditorStats: Base pass shader: 148 instructions
+[2021.01.09-17.24.49:964][688]MaterialEditorStats: Base pass shader with Surface Lightmap: 178 instructions
+[2021.01.09-17.24.49:964][688]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 225 instructions
+[2021.01.09-17.24.49:964][688]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.01.09-17.24.49:964][688]MaterialEditorStats: Texture samplers: 7/16
+[2021.01.09-17.24.49:964][688]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2021.01.09-17.24.49:964][688]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.09-17.25.14:615][163]Cmd: TRANSACTION UNDO
+[2021.01.09-17.25.14:615][163]LogEditorTransaction: Undo Set Scale
+[2021.01.09-17.25.14:626][163]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2021.01.09-17.25.14:660][164]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.01.09-17.25.14:660][164]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.01.09-17.25.14:660][164]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.01.09-17.25.14:660][164]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.01.09-17.25.14:660][164]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.01.09-17.25.14:661][164]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.01.09-17.25.14:661][164]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.01.09-17.25.14:661][164]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.01.09-17.25.15:382][190]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.01.09-17.25.15:383][190]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.09-17.25.15:568][197]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.01.09-17.25.15:991][217]MaterialEditorStats: Base pass shader: 148 instructions
+[2021.01.09-17.25.15:991][217]MaterialEditorStats: Base pass shader with Surface Lightmap: 178 instructions
+[2021.01.09-17.25.15:991][217]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 225 instructions
+[2021.01.09-17.25.15:991][217]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.01.09-17.25.15:991][217]MaterialEditorStats: Texture samplers: 7/16
+[2021.01.09-17.25.15:991][217]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2021.01.09-17.25.15:991][217]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.09-17.25.40:192][665]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2021.01.09-17.25.40:234][665]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Test_Room1C69968B4D6EAFFD30242D8A7F46125A.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room.umap'
+[2021.01.09-17.25.40:348][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Test_Room_BuiltData" FILE="../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room_BuiltData.uasset" SILENT=true
+[2021.01.09-17.25.40:374][665]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Test_Room_BuiltData46AAD2E34D2A89D7BDFDCC82BFC82B52.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room_BuiltData.uasset'
+[2021.01.09-17.25.40:390][665]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.09-17.25.40:390][665]LogContentValidation: Display: Validating World /Game/Levels/Test_Room.Test_Room
+[2021.01.09-17.25.40:390][665]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Test_Room_BuiltData.Test_Room_BuiltData
+[2021.01.09-17.25.43:380][840]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2021.01.09-17.25.43:416][840]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Test_Room2173A34E440EB28D7EE9A7B8D8F0A9C4.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room.umap'
+[2021.01.09-17.25.43:444][840]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Test_Room_BuiltData" FILE="../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room_BuiltData.uasset" SILENT=true
+[2021.01.09-17.25.43:461][840]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Test_Room_BuiltData3FF6213B4BD43AC01F361E942E222E82.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room_BuiltData.uasset'
+[2021.01.09-17.25.43:477][840]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.09-17.25.43:477][840]LogContentValidation: Display: Validating World /Game/Levels/Test_Room.Test_Room
+[2021.01.09-17.25.43:477][840]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Test_Room_BuiltData.Test_Room_BuiltData
+[2021.01.09-17.25.55:559][563]LogEditorViewport: Clicking Background
+[2021.01.09-17.26.42:821][825]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2021.01.09-17.26.42:829][825]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2021.01.09-17.26.42:847][826]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.01.09-17.26.42:847][826]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.01.09-17.26.42:847][826]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.01.09-17.26.42:847][826]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.01.09-17.26.42:847][826]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.01.09-17.26.42:847][826]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.01.09-17.26.42:847][826]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.01.09-17.26.42:847][826]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.01.09-17.26.43:547][865]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.01.09-17.26.43:547][865]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.09-17.26.43:568][866]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2021.01.09-17.26.43:582][866]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2021.01.09-17.26.43:720][874]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.01.09-17.26.43:787][878]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2021.01.09-17.26.43:818][880]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.09-17.26.43:818][880]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.09-17.26.43:836][881]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2021.01.09-17.26.43:869][883]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2021.01.09-17.26.44:238][903]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2021.01.09-17.26.44:320][908]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2021.01.09-17.26.44:320][908]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.01.09-17.26.44:505][919]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.01.09-17.26.44:523][920]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.01.09-17.26.45:023][948]MaterialEditorStats: Base pass shader: 148 instructions
+[2021.01.09-17.26.45:023][948]MaterialEditorStats: Base pass shader with Surface Lightmap: 178 instructions
+[2021.01.09-17.26.45:023][948]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 225 instructions
+[2021.01.09-17.26.45:023][948]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.01.09-17.26.45:023][948]MaterialEditorStats: Texture samplers: 7/16
+[2021.01.09-17.26.45:023][948]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2021.01.09-17.26.45:023][948]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.09-17.26.45:189][958]LogMaterialEditor: Saving and Compiling material M_Concrete_Tiles
+[2021.01.09-17.26.45:598][958]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2021.01.09-17.26.45:621][958]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.01.09-17.26.45:621][958]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.01.09-17.26.45:621][958]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.01.09-17.26.45:621][958]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.01.09-17.26.45:621][958]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.01.09-17.26.45:622][958]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.01.09-17.26.45:622][958]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.01.09-17.26.45:622][958]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.01.09-17.26.45:643][958]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2021.01.09-17.26.45:706][958]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2021.01.09-17.26.45:713][958]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.09-17.26.46:274][958]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 29
+[2021.01.09-17.26.46:274][958]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 28
+[2021.01.09-17.26.46:274][958]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 27
+[2021.01.09-17.26.46:274][958]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 26
+[2021.01.09-17.26.46:274][958]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 25
+[2021.01.09-17.26.46:616][958]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 24
+[2021.01.09-17.26.46:616][958]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2021.01.09-17.26.46:616][958]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 17
+[2021.01.09-17.26.46:616][958]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 14
+[2021.01.09-17.26.46:616][958]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2021.01.09-17.26.46:616][958]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.01.09-17.26.46:616][958]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2021.01.09-17.26.46:616][958]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.09-17.26.46:622][958]TextureStreamingBuild: Display: Compiling optional shaders took 0.913 seconds.
+[2021.01.09-17.26.46:672][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.01.09-17.26.47:275][958]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2021.01.09-17.26.47:835][958]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2021.01.09-17.26.47:835][958]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2021.01.09-17.26.47:835][958]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.01.09-17.26.47:835][958]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.01.09-17.26.48:019][958]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/M_Concrete_Tiles6E84034F46FC311E29BF7A935FDB0011.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/StarterContent/Materials/M_Concrete_Tiles.uasset'
+[2021.01.09-17.26.48:043][958]AssetCheck: New page: Asset Save: M_Concrete_Tiles
+[2021.01.09-17.26.48:043][958]LogContentValidation: Display: Validating Material /Game/StarterContent/Materials/M_Concrete_Tiles.M_Concrete_Tiles
+[2021.01.09-17.26.48:043][958]MaterialEditorStats: Base pass shader: 148 instructions
+[2021.01.09-17.26.48:043][958]MaterialEditorStats: Base pass shader with Surface Lightmap: 178 instructions
+[2021.01.09-17.26.48:043][958]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 225 instructions
+[2021.01.09-17.26.48:043][958]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.01.09-17.26.48:043][958]MaterialEditorStats: Texture samplers: 8/16
+[2021.01.09-17.26.48:043][958]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2021.01.09-17.26.48:043][958]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.09-17.26.53:629][293]LogEditorViewport: Clicking on Actor (LMB): BP_Floor_C (BP_Floor73)
+[2021.01.09-17.26.56:275][450]Cmd: TRANSACTION UNDO
+[2021.01.09-17.26.56:275][450]LogEditorTransaction: Undo Scale Actors
+[2021.01.09-17.26.56:281][450]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2021.01.09-17.26.56:298][450]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.01.09-17.26.56:298][450]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.01.09-17.26.56:298][450]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.01.09-17.26.56:298][450]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.01.09-17.26.56:298][450]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.01.09-17.26.56:298][450]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.01.09-17.26.56:298][450]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.01.09-17.26.56:298][450]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.01.09-17.26.56:852][469]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.01.09-17.26.56:899][472]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.09-17.26.57:036][480]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.01.09-17.26.57:471][506]MaterialEditorStats: Base pass shader: 148 instructions
+[2021.01.09-17.26.57:471][506]MaterialEditorStats: Base pass shader with Surface Lightmap: 178 instructions
+[2021.01.09-17.26.57:471][506]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 225 instructions
+[2021.01.09-17.26.57:471][506]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.01.09-17.26.57:471][506]MaterialEditorStats: Texture samplers: 7/16
+[2021.01.09-17.26.57:471][506]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2021.01.09-17.26.57:471][506]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.09-17.35.43:454][522]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.01.09-17.35.43:498][522]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Test_Room_Auto3F3F2A72A44A93A86BC1B1188954FB550.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Autosaves/Game/Levels/Test_Room_Auto3.umap'
+[2021.01.09-17.35.43:500][522]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Test_Room' took 0.072
+[2021.01.09-17.35.43:500][522]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.072
+[2021.01.09-17.56.52:894][ 70]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2021.01.09-17.56.52:903][ 70]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2021.01.09-17.56.52:914][ 71]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.01.09-17.56.52:914][ 71]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.01.09-17.56.52:914][ 71]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.01.09-17.56.52:914][ 71]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.01.09-17.56.52:914][ 71]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.01.09-17.56.52:914][ 71]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.01.09-17.56.52:914][ 71]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.01.09-17.56.52:914][ 71]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.01.09-17.56.53:608][112]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.01.09-17.56.53:623][113]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.09-17.56.53:773][122]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.01.09-17.56.54:179][146]MaterialEditorStats: Base pass shader: 148 instructions
+[2021.01.09-17.56.54:179][146]MaterialEditorStats: Base pass shader with Surface Lightmap: 178 instructions
+[2021.01.09-17.56.54:179][146]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 225 instructions
+[2021.01.09-17.56.54:179][146]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.01.09-17.56.54:179][146]MaterialEditorStats: Texture samplers: 7/16
+[2021.01.09-17.56.54:179][146]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2021.01.09-17.56.54:179][146]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.09-17.56.56:830][305]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2021.01.09-17.56.56:838][305]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2021.01.09-17.56.56:849][306]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.01.09-17.56.56:849][306]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.01.09-17.56.56:849][306]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.01.09-17.56.56:849][306]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.01.09-17.56.56:849][306]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.01.09-17.56.56:849][306]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.01.09-17.56.56:849][306]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.01.09-17.56.56:849][306]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.01.09-17.56.57:418][339]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.01.09-17.56.57:463][342]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.09-17.56.57:611][351]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.01.09-17.56.58:001][374]MaterialEditorStats: Base pass shader: 148 instructions
+[2021.01.09-17.56.58:001][374]MaterialEditorStats: Base pass shader with Surface Lightmap: 178 instructions
+[2021.01.09-17.56.58:001][374]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 225 instructions
+[2021.01.09-17.56.58:001][374]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.01.09-17.56.58:001][374]MaterialEditorStats: Texture samplers: 7/16
+[2021.01.09-17.56.58:001][374]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2021.01.09-17.56.58:001][374]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.09-17.57.02:418][639]LogEditorTransaction: Undo Edit VTiling
+[2021.01.09-17.57.02:419][639]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2021.01.09-17.57.02:426][639]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2021.01.09-17.57.02:444][639]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.01.09-17.57.02:444][639]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.01.09-17.57.02:444][639]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.01.09-17.57.02:444][639]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.01.09-17.57.02:444][639]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.01.09-17.57.02:444][639]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.01.09-17.57.02:444][639]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.01.09-17.57.02:444][639]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.01.09-17.57.02:981][656]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.01.09-17.57.03:029][659]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.09-17.57.03:144][666]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.01.09-17.57.03:432][683]LogEditorTransaction: Undo Edit UTiling
+[2021.01.09-17.57.03:433][683]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2021.01.09-17.57.03:439][683]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.01.09-17.57.03:439][683]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.01.09-17.57.03:439][683]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2021.01.09-17.57.03:439][683]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.01.09-17.57.03:439][683]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2021.01.09-17.57.03:440][683]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2021.01.09-17.57.03:517][683]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.01.09-17.57.03:568][687]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.01.09-17.57.03:585][688]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.01.09-17.57.04:050][711]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.01.09-17.57.04:274][724]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.01.09-17.57.04:375][730]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2021.01.09-17.57.04:390][731]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2021.01.09-17.57.04:406][732]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2021.01.09-17.57.04:440][734]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2021.01.09-17.57.04:491][737]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2021.01.09-17.57.04:508][738]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.01.09-17.57.05:189][776]MaterialEditorStats: Base pass shader: 148 instructions
+[2021.01.09-17.57.05:189][776]MaterialEditorStats: Base pass shader with Surface Lightmap: 178 instructions
+[2021.01.09-17.57.05:189][776]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 225 instructions
+[2021.01.09-17.57.05:189][776]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.01.09-17.57.05:189][776]MaterialEditorStats: Texture samplers: 7/16
+[2021.01.09-17.57.05:189][776]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2021.01.09-17.57.05:189][776]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.09-17.57.27:051][ 87]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2021.01.09-17.57.27:058][ 87]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2021.01.09-17.57.27:073][ 89]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.01.09-17.57.27:073][ 89]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.01.09-17.57.27:073][ 89]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.01.09-17.57.27:073][ 89]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.01.09-17.57.27:073][ 89]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.01.09-17.57.27:073][ 89]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.01.09-17.57.27:073][ 89]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.01.09-17.57.27:073][ 89]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.01.09-17.57.27:787][131]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2021.01.09-17.57.27:803][132]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2021.01.09-17.57.27:936][140]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.01.09-17.57.28:360][165]MaterialEditorStats: Base pass shader: 148 instructions
+[2021.01.09-17.57.28:360][165]MaterialEditorStats: Base pass shader with Surface Lightmap: 178 instructions
+[2021.01.09-17.57.28:360][165]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 225 instructions
+[2021.01.09-17.57.28:360][165]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.01.09-17.57.28:360][165]MaterialEditorStats: Texture samplers: 7/16
+[2021.01.09-17.57.28:360][165]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2021.01.09-17.57.28:360][165]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.09-17.57.30:327][283]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2021.01.09-17.57.30:335][283]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2021.01.09-17.57.30:349][285]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.01.09-17.57.30:349][285]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.01.09-17.57.30:349][285]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.01.09-17.57.30:349][285]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.01.09-17.57.30:349][285]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.01.09-17.57.30:349][285]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.01.09-17.57.30:349][285]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.01.09-17.57.30:349][285]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.01.09-17.57.30:913][318]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.01.09-17.57.30:946][320]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.09-17.57.31:060][327]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.01.09-17.57.31:485][352]MaterialEditorStats: Base pass shader: 148 instructions
+[2021.01.09-17.57.31:485][352]MaterialEditorStats: Base pass shader with Surface Lightmap: 178 instructions
+[2021.01.09-17.57.31:485][352]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 225 instructions
+[2021.01.09-17.57.31:485][352]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.01.09-17.57.31:485][352]MaterialEditorStats: Texture samplers: 7/16
+[2021.01.09-17.57.31:485][352]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2021.01.09-17.57.31:485][352]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.09-17.57.38:607][779]LogMaterialEditor: Saving and Compiling material M_Concrete_Tiles
+[2021.01.09-17.57.39:015][779]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2021.01.09-17.57.39:046][779]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.01.09-17.57.39:046][779]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.01.09-17.57.39:046][779]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.01.09-17.57.39:046][779]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.01.09-17.57.39:046][779]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.01.09-17.57.39:046][779]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.01.09-17.57.39:046][779]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.01.09-17.57.39:046][779]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.01.09-17.57.39:056][779]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2021.01.09-17.57.39:120][779]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2021.01.09-17.57.39:129][779]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.09-17.57.39:693][779]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 29
+[2021.01.09-17.57.39:693][779]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 28
+[2021.01.09-17.57.39:693][779]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 27
+[2021.01.09-17.57.39:693][779]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 26
+[2021.01.09-17.57.39:693][779]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 25
+[2021.01.09-17.57.39:693][779]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 24
+[2021.01.09-17.57.39:999][779]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2021.01.09-17.57.39:999][779]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 17
+[2021.01.09-17.57.39:999][779]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2021.01.09-17.57.39:999][779]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2021.01.09-17.57.39:999][779]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.01.09-17.57.40:000][779]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2021.01.09-17.57.40:006][779]TextureStreamingBuild: Display: Compiling optional shaders took 0.883 seconds.
+[2021.01.09-17.57.40:053][779]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.09-17.57.40:053][779]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.01.09-17.57.40:657][779]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2021.01.09-17.57.41:216][779]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.01.09-17.57.41:216][779]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.01.09-17.57.41:216][779]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.01.09-17.57.41:216][779]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.01.09-17.57.41:415][779]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/M_Concrete_TilesB36BABE44495293518B9B6B5E2BDE34C.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/StarterContent/Materials/M_Concrete_Tiles.uasset'
+[2021.01.09-17.57.41:436][779]AssetCheck: New page: Asset Save: M_Concrete_Tiles
+[2021.01.09-17.57.41:436][779]LogContentValidation: Display: Validating Material /Game/StarterContent/Materials/M_Concrete_Tiles.M_Concrete_Tiles
+[2021.01.09-17.57.41:437][779]MaterialEditorStats: Base pass shader: 148 instructions
+[2021.01.09-17.57.41:437][779]MaterialEditorStats: Base pass shader with Surface Lightmap: 178 instructions
+[2021.01.09-17.57.41:437][779]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 225 instructions
+[2021.01.09-17.57.41:437][779]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.01.09-17.57.41:437][779]MaterialEditorStats: Texture samplers: 8/16
+[2021.01.09-17.57.41:437][779]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2021.01.09-17.57.41:437][779]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.09-17.57.56:374][662]LogEditorViewport: Clicking on Actor (LMB): BP_Floor_C (BP_Floor5)
+[2021.01.09-17.57.57:011][696]LogEditorViewport: Clicking on Actor (LMB): BP_Floor_C (BP_Floor)
+[2021.01.09-17.57.57:556][727]LogEditorViewport: Clicking on Actor (LMB): BP_Floor_C (BP_Floor2)
+[2021.01.09-17.57.58:332][771]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Floor_C (BP_Floor14)
+[2021.01.09-17.57.58:893][803]LogEditorViewport: Clicking on Actor (LMB): BP_Floor_C (BP_Floor32)
+[2021.01.09-17.58.07:218][ 39]LogEditorViewport: Clicking on Actor (LMB): BP_Floor_C (BP_Floor5)
+[2021.01.09-17.58.08:053][ 87]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Floor_C (BP_Floor)
+[2021.01.09-17.58.08:613][119]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Floor_C (BP_Floor13)
+[2021.01.09-17.58.08:875][133]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Floor_C (BP_Floor19)
+[2021.01.09-17.58.20:790][473]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Floor_C (BP_Floor25)
+[2021.01.09-17.58.21:314][500]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Floor_C (BP_Floor31)
+[2021.01.09-17.58.21:659][517]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Floor_C (BP_Floor32)
+[2021.01.09-17.58.22:033][534]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Floor_C (BP_Floor33)
+[2021.01.09-17.58.22:484][551]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Floor_C (BP_Floor35)
+[2021.01.09-17.58.23:025][563]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Floor_C (BP_Floor36)
+[2021.01.09-17.58.23:806][599]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Floor_C (BP_Floor34)
+[2021.01.09-17.58.24:232][621]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Floor_C (BP_Floor28)
+[2021.01.09-17.58.24:535][636]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Floor_C (BP_Floor27)
+[2021.01.09-17.58.25:122][669]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Floor_C (BP_Floor26)
+[2021.01.09-17.58.26:521][749]Cmd: TRANSACTION UNDO
+[2021.01.09-17.58.26:521][749]LogEditorTransaction: Undo Scale Actors
+[2021.01.09-17.58.26:537][749]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2021.01.09-17.58.26:555][749]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.01.09-17.58.26:555][749]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.01.09-17.58.26:555][749]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.01.09-17.58.26:555][749]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.01.09-17.58.26:555][749]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.01.09-17.58.26:555][749]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.01.09-17.58.26:555][749]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.01.09-17.58.26:555][749]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.01.09-17.58.26:953][764]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Floor_C (BP_Floor20)
+[2021.01.09-17.58.27:397][771]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Floor_C (BP_Floor21)
+[2021.01.09-17.58.27:519][773]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.01.09-17.58.27:534][774]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.09-17.58.27:794][782]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Floor_C (BP_Floor14)
+[2021.01.09-17.58.27:837][782]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.01.09-17.58.28:215][797]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Floor_C (BP_Floor15)
+[2021.01.09-17.58.28:558][805]MaterialEditorStats: Base pass shader: 148 instructions
+[2021.01.09-17.58.28:558][805]MaterialEditorStats: Base pass shader with Surface Lightmap: 178 instructions
+[2021.01.09-17.58.28:558][805]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 225 instructions
+[2021.01.09-17.58.28:559][805]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.01.09-17.58.28:559][805]MaterialEditorStats: Texture samplers: 7/16
+[2021.01.09-17.58.28:559][805]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2021.01.09-17.58.28:559][805]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.09-17.58.28:671][808]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Floor_C (BP_Floor8)
+[2021.01.09-17.58.29:054][827]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Floor_C (BP_Floor2)
+[2021.01.09-17.58.29:356][843]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Floor_C (BP_Floor3)
+[2021.01.09-17.58.29:686][860]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Floor_C (BP_Floor9)
+[2021.01.09-17.58.30:087][882]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Floor_C (BP_Floor4)
+[2021.01.09-17.58.30:463][903]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Floor_C (BP_Floor10)
+[2021.01.09-17.58.30:806][922]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Floor_C (BP_Floor16)
+[2021.01.09-17.58.31:207][944]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Floor_C (BP_Floor22)
+[2021.01.09-17.58.31:572][964]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Floor_C (BP_Floor23)
+[2021.01.09-17.58.31:985][987]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Floor_C (BP_Floor29)
+[2021.01.09-17.58.32:367][  8]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Floor_C (BP_Floor30)
+[2021.01.09-17.58.32:683][ 25]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Floor_C (BP_Floor24)
+[2021.01.09-17.58.33:019][ 43]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Floor_C (BP_Floor18)
+[2021.01.09-17.58.33:363][ 62]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Floor_C (BP_Floor17)
+[2021.01.09-17.58.33:771][ 85]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Floor_C (BP_Floor11)
+[2021.01.09-17.58.34:116][104]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Floor_C (BP_Floor12)
+[2021.01.09-17.58.34:528][126]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Floor_C (BP_Floor7)
+[2021.01.09-17.58.34:924][148]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Floor_C (BP_Floor6)
+[2021.01.09-17.58.36:765][257]Cmd: DELETE
+[2021.01.09-17.58.36:765][257]Cmd: ACTOR DELETE
+[2021.01.09-17.58.36:786][257]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.58.36:787][257]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.58.36:787][257]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.58.36:788][257]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.58.36:788][257]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.58.36:788][257]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.58.36:789][257]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.58.36:789][257]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.58.36:789][257]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.58.36:790][257]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.58.36:790][257]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.58.36:791][257]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.58.36:791][257]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.58.36:791][257]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.58.36:792][257]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.58.36:792][257]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.58.36:793][257]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.58.36:793][257]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.58.36:793][257]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.58.36:794][257]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.58.36:794][257]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.58.36:794][257]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.58.36:795][257]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.58.36:795][257]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.58.36:796][257]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.58.36:796][257]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.58.36:796][257]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.58.36:797][257]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.58.36:797][257]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.58.36:797][257]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.58.36:798][257]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.58.36:798][257]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.58.36:799][257]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.58.36:799][257]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.58.36:799][257]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.58.36:800][257]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.58.36:826][257]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2021.01.09-17.58.36:830][257]LogEditorActor: Deleted 36 Actors (0.055 secs)
+[2021.01.09-17.59.34:100][465]LogEditorViewport: Clicking on Actor (LMB): BP_Floor_C (BP_Floor61)
+[2021.01.09-17.59.35:282][534]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Floor_C (BP_Floor49)
+[2021.01.09-17.59.35:672][556]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Floor_C (BP_Floor37)
+[2021.01.09-17.59.36:345][595]Cmd: DELETE
+[2021.01.09-17.59.36:345][595]Cmd: ACTOR DELETE
+[2021.01.09-17.59.36:352][595]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.59.36:352][595]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.59.36:352][595]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.59.36:353][595]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.59.36:353][595]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.59.36:353][595]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.59.36:354][595]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.59.36:354][595]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.59.36:354][595]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.59.36:354][595]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.59.36:355][595]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.59.36:355][595]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.59.36:357][595]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.59.36:357][595]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.59.36:357][595]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.59.36:358][595]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.59.36:358][595]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.59.36:358][595]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.59.36:358][595]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.59.36:359][595]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.59.36:359][595]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.59.36:359][595]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.59.36:359][595]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.59.36:360][595]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.59.36:361][595]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.59.36:362][595]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.59.36:362][595]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.59.36:362][595]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.59.36:363][595]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.59.36:363][595]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.59.36:363][595]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.59.36:364][595]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.59.36:364][595]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.59.36:364][595]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.59.36:364][595]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.59.36:365][595]LogEditorActor: Deleted Actor: BP_Floor_C
+[2021.01.09-17.59.36:393][595]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2021.01.09-17.59.36:399][595]LogEditorActor: Deleted 36 Actors (0.055 secs)
+[2021.01.09-17.59.37:700][673]LogEditorViewport: Clicking on Actor (LMB): BP_Floor_C (BP_Floor)
+[2021.01.09-17.59.49:356][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.01.09-17.59.49:387][367]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Test_Room52935A4247D5B155017FA5A1EADC0C88.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room.umap'
+[2021.01.09-17.59.49:426][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Test_Room_BuiltData" FILE="../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room_BuiltData.uasset" SILENT=true
+[2021.01.09-17.59.49:448][367]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Test_Room_BuiltDataF5A2B0AA44B98B88C65548A379AC7E7C.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room_BuiltData.uasset'
+[2021.01.09-17.59.49:466][367]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.09-17.59.49:466][367]LogContentValidation: Display: Validating World /Game/Levels/Test_Room.Test_Room
+[2021.01.09-17.59.49:466][367]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Test_Room_BuiltData.Test_Room_BuiltData
