@@ -11306,3 +11306,36 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2021.01.09-20.52.22:489][949]AssetCheck: New page: Asset Save: multiple assets
 [2021.01.09-20.52.22:489][949]LogContentValidation: Display: Validating World /Game/Levels/Test_Room.Test_Room
 [2021.01.09-20.52.22:489][949]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Test_Room_BuiltData.Test_Room_BuiltData
+[2021.01.09-21.11.52:091][638]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.01.09-21.11.53:782][643]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.01.09-21.15.50:014][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/monk_albedo" FILE="../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Character/monk_albedo.uasset" SILENT=true
+[2021.01.09-21.15.50:030][472]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/monk_albedo0DF4542D4800C837AD5D9EAF9E45D850.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Character/monk_albedo.uasset'
+[2021.01.09-21.15.50:045][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/monk_material" FILE="../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Character/monk_material.uasset" SILENT=true
+[2021.01.09-21.15.50:057][472]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/monk_material8C57D75246AE3FF368BB09B0BFB51A98.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Character/monk_material.uasset'
+[2021.01.09-21.15.50:066][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/MainCharacter" FILE="../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Character/MainCharacter.uasset" SILENT=true
+[2021.01.09-21.15.50:091][472]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/MainCharacterB46A69A14B4CA78BAA1B8DB14E638315.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Character/MainCharacter.uasset'
+[2021.01.09-21.15.50:115][472]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/MainCharacter_PhysicsAsset253FDBF04733BB723C52DE85F67C0653.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Character/MainCharacter_PhysicsAsset.uasset'
+[2021.01.09-21.15.50:122][472]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/MainCharacter_SkeletonD2BC34A4445920FEA178538D0737B3FF.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Character/MainCharacter_Skeleton.uasset'
+[2021.01.09-21.15.50:610][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.01.09-21.15.50:633][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.01.09-21.15.50:653][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.01.09-21.15.50:672][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.01.09-21.15.50:692][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.01.09-21.15.50:718][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2021.01.09-21.15.50:740][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.01.09-21.15.50:768][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2021.01.09-21.15.50:836][472]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/BP_Player3E0930C442121FD7AC0407BE5D8B9234.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Blueprints/BP_Player.uasset'
+[2021.01.09-21.15.50:915][472]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.09-21.15.50:915][472]LogContentValidation: Display: Validating Texture2D /Game/Character/monk_albedo.monk_albedo
+[2021.01.09-21.15.50:915][472]LogContentValidation: Display: Validating Material /Game/Character/monk_material.monk_material
+[2021.01.09-21.15.50:915][472]LogContentValidation: Display: Validating SkeletalMesh /Game/Character/MainCharacter.MainCharacter
+[2021.01.09-21.15.50:915][472]LogContentValidation: Display: Validating PhysicsAsset /Game/Character/MainCharacter_PhysicsAsset.MainCharacter_PhysicsAsset
+[2021.01.09-21.15.50:915][472]LogContentValidation: Display: Validating Skeleton /Game/Character/MainCharacter_Skeleton.MainCharacter_Skeleton
+[2021.01.09-21.15.50:915][472]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2021.01.09-21.15.52:751][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.01.09-21.15.52:779][579]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Test_RoomC76DBC17454CF4F7C8B69AA384E5E05C.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room.umap'
+[2021.01.09-21.15.52:811][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Test_Room_BuiltData" FILE="../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room_BuiltData.uasset" SILENT=true
+[2021.01.09-21.15.52:835][579]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Test_Room_BuiltDataCFE53831480D4356B2DBBF809BD6C99C.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room_BuiltData.uasset'
+[2021.01.09-21.15.52:849][579]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.09-21.15.52:849][579]LogContentValidation: Display: Validating World /Game/Levels/Test_Room.Test_Room
+[2021.01.09-21.15.52:849][579]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Test_Room_BuiltData.Test_Room_BuiltData
