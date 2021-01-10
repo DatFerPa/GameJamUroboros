@@ -1249,3 +1249,816 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.10-18.24.07:466][358]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F40E6FFC00), frame # 37358
 [2021.01.10-18.24.07:468][358]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
 [2021.01.10-18.24.07:498][359]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.01.10-18.26.23:701][928]BlueprintLog: New page: Compile BP_Player
+[2021.01.10-18.26.23:750][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2021.01.10-18.26.24:299][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2021.01.10-18.26.24:360][958]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/BP_Player2EFA08904B59791589F0E5AF20389B76.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Blueprints/BP_Player.uasset'
+[2021.01.10-18.26.24:369][958]AssetCheck: New page: Asset Save: BP_Player
+[2021.01.10-18.26.24:369][958]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2021.01.10-18.26.26:863][108]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.01.10-18.26.26:882][108]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.10-18.26.26:882][108]PIE: New page: PIE session: Test_Room (10 ene. 2021 20:26:26)
+[2021.01.10-18.26.26:882][108]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.10-18.26.26:885][108]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002630s)
+[2021.01.10-18.26.26:885][108]LogAIModule: Creating AISystem for world Test_Room
+[2021.01.10-18.26.26:885][108]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F44E43AA00), frame # 43108
+[2021.01.10-18.26.26:885][108]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F44ABBC680), frame # 43108
+[2021.01.10-18.26.26:885][108]LogPlayLevel: PIE: World Init took: (0.000749s)
+[2021.01.10-18.26.26:885][108]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test_Room.Test_Room to /Game/Levels/UEDPIE_0_Test_Room.Test_Room (0.003460s)
+[2021.01.10-18.26.26:904][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.01.10-18.26.26:905][108]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.10-18.26.26:905][108]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.10-18.26.26:905][108]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.10-18.26.26:905][108]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.10-18.26.26:905][108]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.10-18.26.26:905][108]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.10-18.26.26:905][108]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.10-18.26.26:905][108]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.10-18.26.26:905][108]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.10-18.26.26:905][108]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.10-18.26.26:907][108]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.10-18.26.26:907][108]LogAudioMixer: Display: 1: FrontRight
+[2021.01.10-18.26.26:918][108]LogAudioMixer: Display: Using Audio Device Altavoces (USB Audio Device)
+[2021.01.10-18.26.26:918][108]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.10-18.26.26:919][108]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.10-18.26.26:919][108]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.10-18.26.26:919][108]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.10-18.26.26:930][108]LogInit: FAudioDevice initialized.
+[2021.01.10-18.26.26:946][108]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.10-18.26.26:946][108]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.10-18.26.26:948][108]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test_Room.Test_Room up for play (max tick rate 60) at 2021.01.10-19.26.26
+[2021.01.10-18.26.26:948][108]LogWorld: Bringing up level for play took: 0.001280
+[2021.01.10-18.26.26:948][108]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2021.01.10-18.26.26:952][108]PIE: Server logged in
+[2021.01.10-18.26.26:953][108]PIE: Play in editor total start time 0,072 seconds.
+[2021.01.10-18.26.30:796][335]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.10-18.26.30:796][335]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.10-18.26.30:797][335]LogSlate: Window 'GameJamUroboros Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.01.10-18.26.30:800][335]LogWorld: UWorld::CleanupWorld for Test_Room, bSessionEnded=true, bCleanupResources=true
+[2021.01.10-18.26.30:800][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.10-18.26.30:810][335]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.10-18.26.30:813][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.10-18.26.30:848][335]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F44ABBC680), frame # 43335
+[2021.01.10-18.26.30:848][335]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F44E43AA00), frame # 43335
+[2021.01.10-18.26.30:850][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.01.10-18.26.30:873][336]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2021.01.10-18.26.40:091][565]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.01.10-18.26.40:108][565]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.10-18.26.40:108][565]PIE: New page: PIE session: Test_Room (10 ene. 2021 20:26:40)
+[2021.01.10-18.26.40:108][565]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.10-18.26.40:111][565]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002354s)
+[2021.01.10-18.26.40:111][565]LogAIModule: Creating AISystem for world Test_Room
+[2021.01.10-18.26.40:111][565]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F40E5BEC00), frame # 43565
+[2021.01.10-18.26.40:111][565]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F44ABBD1C0), frame # 43565
+[2021.01.10-18.26.40:112][565]LogPlayLevel: PIE: World Init took: (0.000784s)
+[2021.01.10-18.26.40:112][565]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test_Room.Test_Room to /Game/Levels/UEDPIE_0_Test_Room.Test_Room (0.003220s)
+[2021.01.10-18.26.40:131][565]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.01.10-18.26.40:131][565]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.10-18.26.40:131][565]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.10-18.26.40:131][565]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.10-18.26.40:131][565]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.10-18.26.40:131][565]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.10-18.26.40:131][565]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.10-18.26.40:131][565]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.10-18.26.40:131][565]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.10-18.26.40:132][565]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.10-18.26.40:132][565]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.10-18.26.40:133][565]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.10-18.26.40:133][565]LogAudioMixer: Display: 1: FrontRight
+[2021.01.10-18.26.40:143][565]LogAudioMixer: Display: Using Audio Device Altavoces (USB Audio Device)
+[2021.01.10-18.26.40:143][565]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.10-18.26.40:143][565]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.10-18.26.40:143][565]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.10-18.26.40:143][565]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.10-18.26.40:154][565]LogInit: FAudioDevice initialized.
+[2021.01.10-18.26.40:174][565]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.10-18.26.40:175][565]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.10-18.26.40:176][565]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test_Room.Test_Room up for play (max tick rate 60) at 2021.01.10-19.26.40
+[2021.01.10-18.26.40:176][565]LogWorld: Bringing up level for play took: 0.001182
+[2021.01.10-18.26.40:177][565]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2021.01.10-18.26.40:180][565]PIE: Server logged in
+[2021.01.10-18.26.40:182][565]PIE: Play in editor total start time 0,075 seconds.
+[2021.01.10-18.27.04:746][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.10-18.27.04:746][ 33]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.10-18.27.04:747][ 33]LogSlate: Window 'GameJamUroboros Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.01.10-18.27.04:751][ 33]LogWorld: UWorld::CleanupWorld for Test_Room, bSessionEnded=true, bCleanupResources=true
+[2021.01.10-18.27.04:752][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.10-18.27.04:763][ 33]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.10-18.27.04:767][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.10-18.27.04:805][ 33]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F44ABBD1C0), frame # 45033
+[2021.01.10-18.27.04:806][ 33]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F40E5BEC00), frame # 45033
+[2021.01.10-18.27.04:807][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2021.01.10-18.27.04:838][ 34]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.01.10-18.28.11:362][961]BlueprintLog: New page: Compile BP_Player
+[2021.01.10-18.28.11:416][961]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.01.10-18.28.11:783][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2021.01.10-18.28.11:846][977]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/BP_PlayerA276035B4D4C75ADA5790E9E275089C7.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Blueprints/BP_Player.uasset'
+[2021.01.10-18.28.11:860][977]AssetCheck: New page: Asset Save: BP_Player
+[2021.01.10-18.28.11:860][977]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2021.01.10-18.28.12:572][ 19]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.01.10-18.28.12:589][ 19]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.10-18.28.12:589][ 19]PIE: New page: PIE session: Test_Room (10 ene. 2021 20:28:12)
+[2021.01.10-18.28.12:589][ 19]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.10-18.28.12:591][ 19]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002325s)
+[2021.01.10-18.28.12:592][ 19]LogAIModule: Creating AISystem for world Test_Room
+[2021.01.10-18.28.12:592][ 19]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F40D62B000), frame # 49019
+[2021.01.10-18.28.12:592][ 19]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F470070A40), frame # 49019
+[2021.01.10-18.28.12:592][ 19]LogPlayLevel: PIE: World Init took: (0.000909s)
+[2021.01.10-18.28.12:592][ 19]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test_Room.Test_Room to /Game/Levels/UEDPIE_0_Test_Room.Test_Room (0.003310s)
+[2021.01.10-18.28.12:613][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.01.10-18.28.12:614][ 19]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.10-18.28.12:614][ 19]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.10-18.28.12:614][ 19]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.10-18.28.12:614][ 19]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.10-18.28.12:614][ 19]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.10-18.28.12:614][ 19]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.10-18.28.12:614][ 19]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.10-18.28.12:615][ 19]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.10-18.28.12:615][ 19]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.10-18.28.12:615][ 19]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.10-18.28.12:617][ 19]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.10-18.28.12:617][ 19]LogAudioMixer: Display: 1: FrontRight
+[2021.01.10-18.28.12:629][ 19]LogAudioMixer: Display: Using Audio Device Altavoces (USB Audio Device)
+[2021.01.10-18.28.12:629][ 19]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.10-18.28.12:629][ 19]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.10-18.28.12:629][ 19]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.10-18.28.12:629][ 19]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.10-18.28.12:642][ 19]LogInit: FAudioDevice initialized.
+[2021.01.10-18.28.12:669][ 19]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.10-18.28.12:669][ 19]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.10-18.28.12:671][ 19]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test_Room.Test_Room up for play (max tick rate 60) at 2021.01.10-19.28.12
+[2021.01.10-18.28.12:672][ 19]LogWorld: Bringing up level for play took: 0.002068
+[2021.01.10-18.28.12:672][ 19]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2021.01.10-18.28.12:679][ 19]PIE: Server logged in
+[2021.01.10-18.28.12:682][ 19]PIE: Play in editor total start time 0,094 seconds.
+[2021.01.10-18.28.22:756][619]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.10-18.28.22:756][619]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.10-18.28.22:756][619]LogSlate: Window 'GameJamUroboros Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.01.10-18.28.22:761][619]LogWorld: UWorld::CleanupWorld for Test_Room, bSessionEnded=true, bCleanupResources=true
+[2021.01.10-18.28.22:761][619]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.10-18.28.22:772][619]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.10-18.28.22:776][619]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.10-18.28.22:817][619]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F470070A40), frame # 49619
+[2021.01.10-18.28.22:817][619]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F40D62B000), frame # 49619
+[2021.01.10-18.28.22:820][619]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2021.01.10-18.28.22:858][620]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2021.01.10-18.28.56:806][645]BlueprintLog: New page: Compile BP_Player
+[2021.01.10-18.28.56:860][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.01.10-18.28.57:225][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2021.01.10-18.28.57:285][661]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/BP_Player751461C54EA8373F49F51481B6E7211F.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Blueprints/BP_Player.uasset'
+[2021.01.10-18.28.57:300][661]AssetCheck: New page: Asset Save: BP_Player
+[2021.01.10-18.28.57:300][661]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2021.01.10-18.28.58:209][715]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.01.10-18.28.58:225][715]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.10-18.28.58:225][715]PIE: New page: PIE session: Test_Room (10 ene. 2021 20:28:58)
+[2021.01.10-18.28.58:225][715]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.10-18.28.58:227][715]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002318s)
+[2021.01.10-18.28.58:228][715]LogAIModule: Creating AISystem for world Test_Room
+[2021.01.10-18.28.58:228][715]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F40ABE7200), frame # 51715
+[2021.01.10-18.28.58:228][715]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F473085300), frame # 51715
+[2021.01.10-18.28.58:228][715]LogPlayLevel: PIE: World Init took: (0.000866s)
+[2021.01.10-18.28.58:228][715]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test_Room.Test_Room to /Game/Levels/UEDPIE_0_Test_Room.Test_Room (0.003260s)
+[2021.01.10-18.28.58:249][715]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2021.01.10-18.28.58:249][715]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.10-18.28.58:249][715]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.10-18.28.58:249][715]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.10-18.28.58:250][715]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.10-18.28.58:250][715]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.10-18.28.58:250][715]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.10-18.28.58:250][715]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.10-18.28.58:250][715]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.10-18.28.58:250][715]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.10-18.28.58:250][715]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.10-18.28.58:252][715]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.10-18.28.58:252][715]LogAudioMixer: Display: 1: FrontRight
+[2021.01.10-18.28.58:262][715]LogAudioMixer: Display: Using Audio Device Altavoces (USB Audio Device)
+[2021.01.10-18.28.58:262][715]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.10-18.28.58:262][715]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.10-18.28.58:262][715]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.10-18.28.58:262][715]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.10-18.28.58:275][715]LogInit: FAudioDevice initialized.
+[2021.01.10-18.28.58:300][715]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.10-18.28.58:300][715]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.10-18.28.58:301][715]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test_Room.Test_Room up for play (max tick rate 60) at 2021.01.10-19.28.58
+[2021.01.10-18.28.58:301][715]LogWorld: Bringing up level for play took: 0.001233
+[2021.01.10-18.28.58:302][715]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2021.01.10-18.28.58:310][715]PIE: Server logged in
+[2021.01.10-18.28.58:313][715]PIE: Play in editor total start time 0,089 seconds.
+[2021.01.10-18.29.04:477][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.10-18.29.04:477][ 78]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.10-18.29.04:477][ 78]LogSlate: Window 'GameJamUroboros Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.01.10-18.29.04:482][ 78]LogWorld: UWorld::CleanupWorld for Test_Room, bSessionEnded=true, bCleanupResources=true
+[2021.01.10-18.29.04:482][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.10-18.29.04:489][ 78]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.10-18.29.04:493][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.10-18.29.04:532][ 78]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F473085300), frame # 52078
+[2021.01.10-18.29.04:532][ 78]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F40ABE7200), frame # 52078
+[2021.01.10-18.29.04:534][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.01.10-18.29.04:573][ 79]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2021.01.10-18.29.13:381][606]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Trampas/BP_TrampaPinchos.BP_TrampaPinchos
+[2021.01.10-18.29.23:936][220]BlueprintLog: New page: Compile BP_TrampaPinchos
+[2021.01.10-18.29.23:976][220]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2021.01.10-18.29.24:485][247]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/BP_TrampaPinchosCD1DF9CF4AC24A9AB518B5AF6B45E748.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Blueprints/Trampas/BP_TrampaPinchos.uasset'
+[2021.01.10-18.29.24:493][247]AssetCheck: New page: Asset Save: BP_TrampaPinchos
+[2021.01.10-18.29.24:493][247]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Trampas/BP_TrampaPinchos.BP_TrampaPinchos
+[2021.01.10-18.29.50:566][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2021.01.10-18.29.50:601][441]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Test_Room_Auto37992F2B746443D8B00C23D8ED5961AE0.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Autosaves/Game/Levels/Test_Room_Auto3.umap'
+[2021.01.10-18.29.50:608][441]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Test_Room' took 0.064
+[2021.01.10-18.29.50:608][441]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.064
+[2021.01.10-18.30.19:267][556]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.01.10-18.30.19:285][556]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.10-18.30.19:285][556]PIE: New page: PIE session: Test_Room (10 ene. 2021 20:30:19)
+[2021.01.10-18.30.19:285][556]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.10-18.30.19:288][556]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002464s)
+[2021.01.10-18.30.19:288][556]LogAIModule: Creating AISystem for world Test_Room
+[2021.01.10-18.30.19:288][556]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F4A37B9600), frame # 54556
+[2021.01.10-18.30.19:288][556]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F4A34C2D40), frame # 54556
+[2021.01.10-18.30.19:289][556]LogPlayLevel: PIE: World Init took: (0.000895s)
+[2021.01.10-18.30.19:289][556]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test_Room.Test_Room to /Game/Levels/UEDPIE_0_Test_Room.Test_Room (0.003432s)
+[2021.01.10-18.30.19:309][556]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.01.10-18.30.19:311][556]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.10-18.30.19:311][556]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.10-18.30.19:311][556]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.10-18.30.19:311][556]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.10-18.30.19:311][556]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.10-18.30.19:311][556]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.10-18.30.19:311][556]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.10-18.30.19:311][556]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.10-18.30.19:312][556]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.10-18.30.19:312][556]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.10-18.30.19:313][556]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.10-18.30.19:313][556]LogAudioMixer: Display: 1: FrontRight
+[2021.01.10-18.30.19:323][556]LogAudioMixer: Display: Using Audio Device Altavoces (USB Audio Device)
+[2021.01.10-18.30.19:324][556]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.10-18.30.19:324][556]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.10-18.30.19:324][556]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.10-18.30.19:324][556]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.10-18.30.19:335][556]LogInit: FAudioDevice initialized.
+[2021.01.10-18.30.19:363][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.10-18.30.19:363][556]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.10-18.30.19:364][556]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test_Room.Test_Room up for play (max tick rate 60) at 2021.01.10-19.30.19
+[2021.01.10-18.30.19:364][556]LogWorld: Bringing up level for play took: 0.001180
+[2021.01.10-18.30.19:365][556]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2021.01.10-18.30.19:369][556]PIE: Server logged in
+[2021.01.10-18.30.19:370][556]PIE: Play in editor total start time 0,086 seconds.
+[2021.01.10-18.30.36:967][605]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.10-18.30.36:967][605]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.10-18.30.36:967][605]LogSlate: Window 'GameJamUroboros Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.01.10-18.30.36:973][605]LogWorld: UWorld::CleanupWorld for Test_Room, bSessionEnded=true, bCleanupResources=true
+[2021.01.10-18.30.36:974][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.10-18.30.36:986][605]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.10-18.30.36:990][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.10-18.30.37:030][605]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F4A34C2D40), frame # 55605
+[2021.01.10-18.30.37:030][605]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F4A37B9600), frame # 55605
+[2021.01.10-18.30.37:033][605]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2021.01.10-18.30.37:062][606]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2021.01.10-18.30.53:744][604]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.01.10-18.30.53:760][604]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.10-18.30.53:760][604]PIE: New page: PIE session: Test_Room (10 ene. 2021 20:30:53)
+[2021.01.10-18.30.53:760][604]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.10-18.30.53:762][604]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002462s)
+[2021.01.10-18.30.53:763][604]LogAIModule: Creating AISystem for world Test_Room
+[2021.01.10-18.30.53:763][604]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F473463E00), frame # 56604
+[2021.01.10-18.30.53:763][604]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F4A2CB3880), frame # 56604
+[2021.01.10-18.30.53:763][604]LogPlayLevel: PIE: World Init took: (0.000972s)
+[2021.01.10-18.30.53:763][604]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test_Room.Test_Room to /Game/Levels/UEDPIE_0_Test_Room.Test_Room (0.003529s)
+[2021.01.10-18.30.53:785][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2021.01.10-18.30.53:786][604]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.10-18.30.53:786][604]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.10-18.30.53:786][604]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.10-18.30.53:786][604]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.10-18.30.53:786][604]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.10-18.30.53:786][604]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.10-18.30.53:786][604]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.10-18.30.53:786][604]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.10-18.30.53:786][604]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.10-18.30.53:786][604]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.10-18.30.53:788][604]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.10-18.30.53:788][604]LogAudioMixer: Display: 1: FrontRight
+[2021.01.10-18.30.53:799][604]LogAudioMixer: Display: Using Audio Device Altavoces (USB Audio Device)
+[2021.01.10-18.30.53:799][604]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.10-18.30.53:799][604]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.10-18.30.53:799][604]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.10-18.30.53:799][604]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.10-18.30.53:811][604]LogInit: FAudioDevice initialized.
+[2021.01.10-18.30.53:835][604]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.10-18.30.53:836][604]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.10-18.30.53:837][604]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test_Room.Test_Room up for play (max tick rate 60) at 2021.01.10-19.30.53
+[2021.01.10-18.30.53:838][604]LogWorld: Bringing up level for play took: 0.001574
+[2021.01.10-18.30.53:838][604]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2021.01.10-18.30.53:844][604]PIE: Server logged in
+[2021.01.10-18.30.53:845][604]PIE: Play in editor total start time 0,086 seconds.
+[2021.01.10-18.31.03:757][192]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.10-18.31.03:757][192]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.10-18.31.03:757][192]LogSlate: Window 'GameJamUroboros Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.01.10-18.31.03:761][192]LogWorld: UWorld::CleanupWorld for Test_Room, bSessionEnded=true, bCleanupResources=true
+[2021.01.10-18.31.03:762][192]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.10-18.31.03:775][192]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.10-18.31.03:779][192]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.10-18.31.03:821][192]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F4A2CB3880), frame # 57192
+[2021.01.10-18.31.03:821][192]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F473463E00), frame # 57192
+[2021.01.10-18.31.03:823][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2021.01.10-18.31.03:859][193]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2021.01.10-18.31.48:301][814]BlueprintLog: New page: Compile BP_TrampaPinchos
+[2021.01.10-18.31.48:341][814]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2021.01.10-18.31.48:714][832]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/BP_TrampaPinchos9CB8401D458BD44E590F669E5F41E13D.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Blueprints/Trampas/BP_TrampaPinchos.uasset'
+[2021.01.10-18.31.48:724][832]AssetCheck: New page: Asset Save: BP_TrampaPinchos
+[2021.01.10-18.31.48:724][832]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Trampas/BP_TrampaPinchos.BP_TrampaPinchos
+[2021.01.10-18.32.14:338][360]BlueprintLog: New page: Compile BP_TrampaPinchos
+[2021.01.10-18.32.14:375][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2021.01.10-18.32.17:296][531]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/BP_TrampaPinchosEE7038B24FE995611DA581ADECF18896.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Blueprints/Trampas/BP_TrampaPinchos.uasset'
+[2021.01.10-18.32.17:307][531]AssetCheck: New page: Asset Save: BP_TrampaPinchos
+[2021.01.10-18.32.17:307][531]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Trampas/BP_TrampaPinchos.BP_TrampaPinchos
+[2021.01.10-18.32.18:662][613]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.01.10-18.32.18:679][613]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.10-18.32.18:679][613]PIE: New page: PIE session: Test_Room (10 ene. 2021 20:32:18)
+[2021.01.10-18.32.18:679][613]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.10-18.32.18:682][613]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002769s)
+[2021.01.10-18.32.18:682][613]LogAIModule: Creating AISystem for world Test_Room
+[2021.01.10-18.32.18:682][613]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F4A2C91A00), frame # 61613
+[2021.01.10-18.32.18:682][613]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F4A3814A40), frame # 61613
+[2021.01.10-18.32.18:682][613]LogPlayLevel: PIE: World Init took: (0.000838s)
+[2021.01.10-18.32.18:682][613]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test_Room.Test_Room to /Game/Levels/UEDPIE_0_Test_Room.Test_Room (0.003699s)
+[2021.01.10-18.32.18:703][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2021.01.10-18.32.18:705][613]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.10-18.32.18:705][613]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.10-18.32.18:705][613]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.10-18.32.18:705][613]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.10-18.32.18:705][613]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.10-18.32.18:705][613]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.10-18.32.18:705][613]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.10-18.32.18:705][613]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.10-18.32.18:705][613]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.10-18.32.18:705][613]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.10-18.32.18:707][613]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.10-18.32.18:707][613]LogAudioMixer: Display: 1: FrontRight
+[2021.01.10-18.32.18:718][613]LogAudioMixer: Display: Using Audio Device Altavoces (USB Audio Device)
+[2021.01.10-18.32.18:718][613]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.10-18.32.18:718][613]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.10-18.32.18:718][613]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.10-18.32.18:719][613]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.10-18.32.18:730][613]LogInit: FAudioDevice initialized.
+[2021.01.10-18.32.18:752][613]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.10-18.32.18:752][613]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.10-18.32.18:753][613]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test_Room.Test_Room up for play (max tick rate 60) at 2021.01.10-19.32.18
+[2021.01.10-18.32.18:754][613]LogWorld: Bringing up level for play took: 0.001224
+[2021.01.10-18.32.18:754][613]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2021.01.10-18.32.18:758][613]PIE: Server logged in
+[2021.01.10-18.32.18:758][613]PIE: Play in editor total start time 0,081 seconds.
+[2021.01.10-18.32.30:547][316]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.10-18.32.30:547][316]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.10-18.32.30:547][316]LogSlate: Window 'GameJamUroboros Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.01.10-18.32.30:550][316]LogWorld: UWorld::CleanupWorld for Test_Room, bSessionEnded=true, bCleanupResources=true
+[2021.01.10-18.32.30:551][316]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.10-18.32.30:560][316]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.10-18.32.30:564][316]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.10-18.32.30:607][316]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F4A3814A40), frame # 62316
+[2021.01.10-18.32.30:607][316]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F4A2C91A00), frame # 62316
+[2021.01.10-18.32.30:609][316]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.01.10-18.32.30:633][317]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2021.01.10-18.32.35:931][632]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2021.01.10-18.32.35:958][632]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Test_Room13E9908744FE7646567A119DD79604C8.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room.umap'
+[2021.01.10-18.32.35:998][632]AssetCheck: New page: Asset Save: Test_Room
+[2021.01.10-18.32.35:998][632]LogContentValidation: Display: Validating World /Game/Levels/Test_Room.Test_Room
+[2021.01.10-18.33.36:924][251]LogPhysics: Warning: Scale for /Engine/Transient.World_17:PersistentLevel.BP_TrampaPinchos_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2021.01.10-18.33.36:924][251]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:924][251]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.01.10-18.33.36:924][251]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:924][251]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2021.01.10-18.33.36:924][251]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:924][251]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2021.01.10-18.33.36:924][251]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:924][251]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2021.01.10-18.33.36:924][251]LogPhysics: Warning: Scale for /Game/Levels/Test_Room.Test_Room:PersistentLevel.BP_TrampaPinchos_2.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2021.01.10-18.33.36:924][251]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:924][251]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.01.10-18.33.36:924][251]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:924][251]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2021.01.10-18.33.36:924][251]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:924][251]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2021.01.10-18.33.36:924][251]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:925][251]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2021.01.10-18.33.36:925][251]LogPhysics: Warning: Scale for /Engine/Transient.World_17:PersistentLevel.BP_TrampaPinchos_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2021.01.10-18.33.36:925][251]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:925][251]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.01.10-18.33.36:925][251]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:925][251]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2021.01.10-18.33.36:925][251]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:925][251]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2021.01.10-18.33.36:925][251]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:925][251]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2021.01.10-18.33.36:940][252]LogPhysics: Warning: Scale for /Engine/Transient.World_17:PersistentLevel.BP_TrampaPinchos_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2021.01.10-18.33.36:940][252]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:940][252]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.01.10-18.33.36:940][252]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:940][252]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2021.01.10-18.33.36:940][252]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:940][252]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2021.01.10-18.33.36:940][252]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:940][252]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2021.01.10-18.33.36:941][252]LogPhysics: Warning: Scale for /Engine/Transient.World_17:PersistentLevel.BP_TrampaPinchos_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2021.01.10-18.33.36:941][252]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:941][252]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.01.10-18.33.36:941][252]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:941][252]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2021.01.10-18.33.36:941][252]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:941][252]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2021.01.10-18.33.36:941][252]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:941][252]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2021.01.10-18.33.36:941][252]LogPhysics: Warning: Scale for /Engine/Transient.World_17:PersistentLevel.BP_TrampaPinchos_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2021.01.10-18.33.36:941][252]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:941][252]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.01.10-18.33.36:941][252]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:941][252]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2021.01.10-18.33.36:941][252]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:941][252]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2021.01.10-18.33.36:941][252]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:941][252]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2021.01.10-18.33.36:956][253]LogPhysics: Warning: Scale for /Engine/Transient.World_17:PersistentLevel.BP_TrampaPinchos_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2021.01.10-18.33.36:956][253]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:957][253]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.01.10-18.33.36:957][253]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:957][253]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2021.01.10-18.33.36:957][253]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:957][253]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2021.01.10-18.33.36:957][253]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:957][253]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2021.01.10-18.33.36:957][253]LogPhysics: Warning: Scale for /Engine/Transient.World_17:PersistentLevel.BP_TrampaPinchos_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2021.01.10-18.33.36:957][253]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:957][253]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.01.10-18.33.36:957][253]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:957][253]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2021.01.10-18.33.36:957][253]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:957][253]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2021.01.10-18.33.36:957][253]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:957][253]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2021.01.10-18.33.36:957][253]LogPhysics: Warning: Scale for /Engine/Transient.World_17:PersistentLevel.BP_TrampaPinchos_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2021.01.10-18.33.36:957][253]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:957][253]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.01.10-18.33.36:957][253]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:957][253]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2021.01.10-18.33.36:957][253]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:957][253]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2021.01.10-18.33.36:957][253]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:957][253]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2021.01.10-18.33.36:973][254]LogPhysics: Warning: Scale for /Engine/Transient.World_17:PersistentLevel.BP_TrampaPinchos_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2021.01.10-18.33.36:974][254]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:974][254]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.01.10-18.33.36:974][254]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:974][254]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2021.01.10-18.33.36:974][254]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:974][254]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2021.01.10-18.33.36:974][254]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:974][254]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2021.01.10-18.33.36:974][254]LogPhysics: Warning: Scale for /Engine/Transient.World_17:PersistentLevel.BP_TrampaPinchos_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2021.01.10-18.33.36:974][254]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:974][254]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.01.10-18.33.36:974][254]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:974][254]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2021.01.10-18.33.36:974][254]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:974][254]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2021.01.10-18.33.36:974][254]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:974][254]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2021.01.10-18.33.36:974][254]LogPhysics: Warning: Scale for /Engine/Transient.World_17:PersistentLevel.BP_TrampaPinchos_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2021.01.10-18.33.36:974][254]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:974][254]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.01.10-18.33.36:974][254]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:974][254]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2021.01.10-18.33.36:974][254]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:974][254]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2021.01.10-18.33.36:974][254]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:974][254]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2021.01.10-18.33.36:990][255]LogPhysics: Warning: Scale for /Engine/Transient.World_17:PersistentLevel.BP_TrampaPinchos_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2021.01.10-18.33.36:990][255]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:990][255]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.01.10-18.33.36:990][255]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:990][255]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2021.01.10-18.33.36:990][255]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:990][255]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2021.01.10-18.33.36:990][255]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:990][255]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2021.01.10-18.33.36:990][255]LogPhysics: Warning: Scale for /Engine/Transient.World_17:PersistentLevel.BP_TrampaPinchos_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2021.01.10-18.33.36:990][255]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:990][255]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.01.10-18.33.36:990][255]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:990][255]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2021.01.10-18.33.36:990][255]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:990][255]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2021.01.10-18.33.36:990][255]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:990][255]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2021.01.10-18.33.36:990][255]LogPhysics: Warning: Scale for /Engine/Transient.World_17:PersistentLevel.BP_TrampaPinchos_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2021.01.10-18.33.36:990][255]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:990][255]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.01.10-18.33.36:990][255]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:990][255]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2021.01.10-18.33.36:990][255]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:990][255]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2021.01.10-18.33.36:990][255]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.36:990][255]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2021.01.10-18.33.37:006][256]LogPhysics: Warning: Scale for /Engine/Transient.World_17:PersistentLevel.BP_TrampaPinchos_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2021.01.10-18.33.37:007][256]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.37:007][256]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.01.10-18.33.37:007][256]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.37:007][256]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2021.01.10-18.33.37:007][256]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.37:007][256]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2021.01.10-18.33.37:007][256]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.37:007][256]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2021.01.10-18.33.37:007][256]LogPhysics: Warning: Scale for /Engine/Transient.World_17:PersistentLevel.BP_TrampaPinchos_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2021.01.10-18.33.37:007][256]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.37:007][256]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.01.10-18.33.37:007][256]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.37:007][256]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2021.01.10-18.33.37:007][256]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.37:007][256]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2021.01.10-18.33.37:007][256]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.37:007][256]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2021.01.10-18.33.37:290][273]LogPhysics: Warning: Scale for /Engine/Transient.World_17:PersistentLevel.BP_TrampaPinchos_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2021.01.10-18.33.37:290][273]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.37:290][273]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.01.10-18.33.37:290][273]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.37:290][273]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2021.01.10-18.33.37:290][273]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.37:290][273]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2021.01.10-18.33.37:290][273]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.37:290][273]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2021.01.10-18.33.37:290][273]LogPhysics: Warning: Scale for /Game/Levels/Test_Room.Test_Room:PersistentLevel.BP_TrampaPinchos_2.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2021.01.10-18.33.37:290][273]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.37:290][273]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.01.10-18.33.37:290][273]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.37:290][273]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2021.01.10-18.33.37:290][273]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.37:290][273]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2021.01.10-18.33.37:290][273]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.37:290][273]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2021.01.10-18.33.37:290][273]LogPhysics: Warning: Scale for /Engine/Transient.World_17:PersistentLevel.BP_TrampaPinchos_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2021.01.10-18.33.37:290][273]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.37:291][273]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.01.10-18.33.37:291][273]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.37:291][273]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2021.01.10-18.33.37:291][273]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.37:291][273]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2021.01.10-18.33.37:291][273]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.37:291][273]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2021.01.10-18.33.37:307][274]LogPhysics: Warning: Scale for /Engine/Transient.World_17:PersistentLevel.BP_TrampaPinchos_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2021.01.10-18.33.37:307][274]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.37:307][274]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.01.10-18.33.37:307][274]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.37:307][274]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2021.01.10-18.33.37:307][274]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.37:307][274]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2021.01.10-18.33.37:307][274]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.37:307][274]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2021.01.10-18.33.37:307][274]LogPhysics: Warning: Scale for /Engine/Transient.World_17:PersistentLevel.BP_TrampaPinchos_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2021.01.10-18.33.37:307][274]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.37:307][274]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.01.10-18.33.37:307][274]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.37:307][274]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2021.01.10-18.33.37:307][274]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.37:307][274]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2021.01.10-18.33.37:307][274]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.37:307][274]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2021.01.10-18.33.37:308][274]LogPhysics: Warning: Scale for /Engine/Transient.World_17:PersistentLevel.BP_TrampaPinchos_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2021.01.10-18.33.37:308][274]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.37:308][274]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.01.10-18.33.37:308][274]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.37:308][274]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2021.01.10-18.33.37:308][274]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.37:308][274]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2021.01.10-18.33.37:308][274]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.37:308][274]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2021.01.10-18.33.37:323][275]LogPhysics: Warning: Scale for /Engine/Transient.World_17:PersistentLevel.BP_TrampaPinchos_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2021.01.10-18.33.37:323][275]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.37:323][275]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.01.10-18.33.37:323][275]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.37:323][275]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2021.01.10-18.33.37:323][275]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.37:323][275]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2021.01.10-18.33.37:323][275]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.37:323][275]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2021.01.10-18.33.37:323][275]LogPhysics: Warning: Scale for /Engine/Transient.World_17:PersistentLevel.BP_TrampaPinchos_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2021.01.10-18.33.37:323][275]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.37:323][275]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.01.10-18.33.37:323][275]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.37:323][275]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2021.01.10-18.33.37:323][275]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.37:323][275]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2021.01.10-18.33.37:323][275]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.37:323][275]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2021.01.10-18.33.37:323][275]LogPhysics: Warning: Scale for /Engine/Transient.World_17:PersistentLevel.BP_TrampaPinchos_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2021.01.10-18.33.37:323][275]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.37:323][275]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.01.10-18.33.37:323][275]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.37:324][275]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2021.01.10-18.33.37:324][275]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.37:324][275]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2021.01.10-18.33.37:324][275]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.37:324][275]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2021.01.10-18.33.37:340][276]LogPhysics: Warning: Scale for /Engine/Transient.World_17:PersistentLevel.BP_TrampaPinchos_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2021.01.10-18.33.37:340][276]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.37:340][276]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.01.10-18.33.37:340][276]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.37:340][276]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2021.01.10-18.33.37:340][276]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.37:340][276]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2021.01.10-18.33.37:340][276]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.37:340][276]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2021.01.10-18.33.37:340][276]LogPhysics: Warning: Scale for /Engine/Transient.World_17:PersistentLevel.BP_TrampaPinchos_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2021.01.10-18.33.37:340][276]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.37:340][276]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.01.10-18.33.37:340][276]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.37:340][276]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2021.01.10-18.33.37:340][276]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.37:340][276]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2021.01.10-18.33.37:340][276]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.10-18.33.37:340][276]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2021.01.10-18.33.40:072][440]LogEditorTransaction: Undo Modify Component(s)
+[2021.01.10-18.34.36:600][810]LogEditorTransaction: Undo Replace component used material
+[2021.01.10-18.35.03:140][393]BlueprintLog: New page: Compile BP_TrampaPinchos
+[2021.01.10-18.35.03:286][393]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2021.01.10-18.35.03:727][415]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/BP_TrampaPinchosF59B64CD46B7FDBF2FE02ABBABCDD2FE.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Blueprints/Trampas/BP_TrampaPinchos.uasset'
+[2021.01.10-18.35.03:739][415]AssetCheck: New page: Asset Save: BP_TrampaPinchos
+[2021.01.10-18.35.03:739][415]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Trampas/BP_TrampaPinchos.BP_TrampaPinchos
+[2021.01.10-18.36.41:676][264]BlueprintLog: New page: Compile BP_TrampaPinchos
+[2021.01.10-18.36.41:730][264]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2021.01.10-18.36.42:124][283]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/BP_TrampaPinchosF58CCD3A44C5A2896E486595610608D8.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Blueprints/Trampas/BP_TrampaPinchos.uasset'
+[2021.01.10-18.36.42:135][283]AssetCheck: New page: Asset Save: BP_TrampaPinchos
+[2021.01.10-18.36.42:135][283]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Trampas/BP_TrampaPinchos.BP_TrampaPinchos
+[2021.01.10-18.37.09:399][897]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.01.10-18.38.20:653][102]BlueprintLog: New page: Compile BP_Player
+[2021.01.10-18.38.20:720][102]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2021.01.10-18.38.21:372][135]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2021.01.10-18.38.21:439][135]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/BP_PlayerB9D3D7BB46DA8DA2C43A3AA2518333F5.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Blueprints/BP_Player.uasset'
+[2021.01.10-18.38.21:452][135]AssetCheck: New page: Asset Save: BP_Player
+[2021.01.10-18.38.21:452][135]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2021.01.10-18.38.39:413][199]BlueprintLog: New page: Compile BP_TrampaPinchos
+[2021.01.10-18.38.39:479][199]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2021.01.10-18.38.40:027][226]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/BP_TrampaPinchosA88EAB4C49BFED3E99C2438CAA93E0DD.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Blueprints/Trampas/BP_TrampaPinchos.uasset'
+[2021.01.10-18.38.40:039][226]AssetCheck: New page: Asset Save: BP_TrampaPinchos
+[2021.01.10-18.38.40:039][226]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Trampas/BP_TrampaPinchos.BP_TrampaPinchos
+[2021.01.10-18.40.46:426][771]BlueprintLog: New page: Compile BP_Player
+[2021.01.10-18.40.46:490][771]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.01.10-18.40.46:846][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2021.01.10-18.40.46:908][786]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/BP_Player3B710EC34DA7B9EC00387F81E66A5776.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Blueprints/BP_Player.uasset'
+[2021.01.10-18.40.46:921][786]AssetCheck: New page: Asset Save: BP_Player
+[2021.01.10-18.40.46:921][786]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2021.01.10-18.40.47:386][814]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.01.10-18.40.47:401][814]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.10-18.40.47:401][814]PIE: New page: PIE session: Test_Room (10 ene. 2021 20:40:47)
+[2021.01.10-18.40.47:401][814]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.10-18.40.47:404][814]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002642s)
+[2021.01.10-18.40.47:405][814]LogAIModule: Creating AISystem for world Test_Room
+[2021.01.10-18.40.47:405][814]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F41254E200), frame # 91814
+[2021.01.10-18.40.47:405][814]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F44E95AAC0), frame # 91814
+[2021.01.10-18.40.47:405][814]LogPlayLevel: PIE: World Init took: (0.001482s)
+[2021.01.10-18.40.47:405][814]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test_Room.Test_Room to /Game/Levels/UEDPIE_0_Test_Room.Test_Room (0.004236s)
+[2021.01.10-18.40.47:432][814]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2021.01.10-18.40.47:433][814]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.10-18.40.47:433][814]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.10-18.40.47:433][814]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.10-18.40.47:433][814]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.10-18.40.47:433][814]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.10-18.40.47:433][814]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.10-18.40.47:433][814]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.10-18.40.47:433][814]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.10-18.40.47:433][814]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.10-18.40.47:433][814]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.10-18.40.47:436][814]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.10-18.40.47:436][814]LogAudioMixer: Display: 1: FrontRight
+[2021.01.10-18.40.47:449][814]LogAudioMixer: Display: Using Audio Device Altavoces (USB Audio Device)
+[2021.01.10-18.40.47:449][814]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.10-18.40.47:449][814]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.10-18.40.47:449][814]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.10-18.40.47:450][814]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.10-18.40.47:459][814]LogInit: FAudioDevice initialized.
+[2021.01.10-18.40.47:481][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.10-18.40.47:481][814]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.10-18.40.47:482][814]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test_Room.Test_Room up for play (max tick rate 60) at 2021.01.10-19.40.47
+[2021.01.10-18.40.47:483][814]LogWorld: Bringing up level for play took: 0.001377
+[2021.01.10-18.40.47:483][814]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2021.01.10-18.40.47:490][814]PIE: Server logged in
+[2021.01.10-18.40.47:493][814]PIE: Play in editor total start time 0,093 seconds.
+[2021.01.10-18.40.54:546][232]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.10-18.40.54:546][232]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.10-18.40.54:547][232]LogSlate: Window 'GameJamUroboros Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.01.10-18.40.54:551][232]LogWorld: UWorld::CleanupWorld for Test_Room, bSessionEnded=true, bCleanupResources=true
+[2021.01.10-18.40.54:551][232]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.10-18.40.54:560][232]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.10-18.40.54:565][232]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.10-18.40.54:610][232]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F44E95AAC0), frame # 92232
+[2021.01.10-18.40.54:610][232]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F41254E200), frame # 92232
+[2021.01.10-18.40.54:613][232]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.01.10-18.40.54:651][233]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2021.01.10-18.41.20:798][794]BlueprintLog: New page: Compile BP_TrampaPinchos
+[2021.01.10-18.41.20:877][794]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2021.01.10-18.41.21:251][811]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/BP_TrampaPinchos8875CD4842B80F9C61DACFAF5A6553FF.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Blueprints/Trampas/BP_TrampaPinchos.uasset'
+[2021.01.10-18.41.21:262][811]AssetCheck: New page: Asset Save: BP_TrampaPinchos
+[2021.01.10-18.41.21:262][811]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Trampas/BP_TrampaPinchos.BP_TrampaPinchos
+[2021.01.10-18.41.22:120][862]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.01.10-18.41.22:136][862]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.10-18.41.22:136][862]PIE: New page: PIE session: Test_Room (10 ene. 2021 20:41:22)
+[2021.01.10-18.41.22:136][862]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.10-18.41.22:139][862]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002764s)
+[2021.01.10-18.41.22:140][862]LogAIModule: Creating AISystem for world Test_Room
+[2021.01.10-18.41.22:140][862]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F3B5B82200), frame # 93862
+[2021.01.10-18.41.22:140][862]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F4D5EC5940), frame # 93862
+[2021.01.10-18.41.22:140][862]LogPlayLevel: PIE: World Init took: (0.001059s)
+[2021.01.10-18.41.22:140][862]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test_Room.Test_Room to /Game/Levels/UEDPIE_0_Test_Room.Test_Room (0.003934s)
+[2021.01.10-18.41.22:165][862]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2021.01.10-18.41.22:166][862]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.10-18.41.22:166][862]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.10-18.41.22:166][862]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.10-18.41.22:166][862]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.10-18.41.22:166][862]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.10-18.41.22:166][862]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.10-18.41.22:166][862]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.10-18.41.22:166][862]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.10-18.41.22:166][862]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.10-18.41.22:166][862]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.10-18.41.22:168][862]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.10-18.41.22:168][862]LogAudioMixer: Display: 1: FrontRight
+[2021.01.10-18.41.22:179][862]LogAudioMixer: Display: Using Audio Device Altavoces (USB Audio Device)
+[2021.01.10-18.41.22:180][862]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.10-18.41.22:180][862]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.10-18.41.22:180][862]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.10-18.41.22:180][862]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.10-18.41.22:192][862]LogInit: FAudioDevice initialized.
+[2021.01.10-18.41.22:209][862]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.10-18.41.22:209][862]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.10-18.41.22:211][862]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test_Room.Test_Room up for play (max tick rate 60) at 2021.01.10-19.41.22
+[2021.01.10-18.41.22:211][862]LogWorld: Bringing up level for play took: 0.001424
+[2021.01.10-18.41.22:211][862]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2021.01.10-18.41.22:216][862]PIE: Server logged in
+[2021.01.10-18.41.22:217][862]PIE: Play in editor total start time 0,083 seconds.
+[2021.01.10-18.41.38:706][846]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.10-18.41.38:706][846]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.10-18.41.38:706][846]LogSlate: Window 'GameJamUroboros Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.01.10-18.41.38:709][846]LogWorld: UWorld::CleanupWorld for Test_Room, bSessionEnded=true, bCleanupResources=true
+[2021.01.10-18.41.38:709][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.10-18.41.38:716][846]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.10-18.41.38:723][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.10-18.41.38:767][846]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F4D5EC5940), frame # 94846
+[2021.01.10-18.41.38:767][846]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F3B5B82200), frame # 94846
+[2021.01.10-18.41.38:771][846]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2021.01.10-18.41.38:809][847]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2021.01.10-18.41.44:890][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2021.01.10-18.41.44:926][207]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Test_Room401041FA4076A96FC5FC97BCD3703838.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room.umap'
+[2021.01.10-18.41.44:967][207]AssetCheck: New page: Asset Save: Test_Room
+[2021.01.10-18.41.44:967][207]LogContentValidation: Display: Validating World /Game/Levels/Test_Room.Test_Room
+[2021.01.10-18.43.12:389][214]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_DestroyableWall.BP_DestroyableWall
+[2021.01.10-18.44.36:681][238]BlueprintLog: New page: Compile BP_DestroyableWall
+[2021.01.10-18.44.36:733][238]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.01.10-18.44.37:119][256]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/BP_DestroyableWall426D7173437AEFC96DD2E3861D679466.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Blueprints/BP_DestroyableWall.uasset'
+[2021.01.10-18.44.37:131][256]AssetCheck: New page: Asset Save: BP_DestroyableWall
+[2021.01.10-18.44.37:131][256]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_DestroyableWall.BP_DestroyableWall
+[2021.01.10-18.44.37:816][296]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.01.10-18.44.37:831][296]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.10-18.44.37:831][296]PIE: New page: PIE session: Test_Room (10 ene. 2021 20:44:37)
+[2021.01.10-18.44.37:831][296]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.10-18.44.37:834][296]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002349s)
+[2021.01.10-18.44.37:834][296]LogAIModule: Creating AISystem for world Test_Room
+[2021.01.10-18.44.37:834][296]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F4E4BCD400), frame # 105296
+[2021.01.10-18.44.37:834][296]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F4E78ACE00), frame # 105296
+[2021.01.10-18.44.37:834][296]LogPlayLevel: PIE: World Init took: (0.000757s)
+[2021.01.10-18.44.37:834][296]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test_Room.Test_Room to /Game/Levels/UEDPIE_0_Test_Room.Test_Room (0.003203s)
+[2021.01.10-18.44.37:863][296]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2021.01.10-18.44.37:867][296]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.10-18.44.37:867][296]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.10-18.44.37:867][296]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.10-18.44.37:867][296]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.10-18.44.37:867][296]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.10-18.44.37:867][296]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.10-18.44.37:867][296]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.10-18.44.37:867][296]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.10-18.44.37:867][296]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.10-18.44.37:867][296]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.10-18.44.37:869][296]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.10-18.44.37:869][296]LogAudioMixer: Display: 1: FrontRight
+[2021.01.10-18.44.37:882][296]LogAudioMixer: Display: Using Audio Device Altavoces (USB Audio Device)
+[2021.01.10-18.44.37:882][296]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.10-18.44.37:882][296]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.10-18.44.37:882][296]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.10-18.44.37:882][296]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.10-18.44.37:893][296]LogInit: FAudioDevice initialized.
+[2021.01.10-18.44.37:911][296]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.10-18.44.37:911][296]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.10-18.44.37:913][296]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test_Room.Test_Room up for play (max tick rate 60) at 2021.01.10-19.44.37
+[2021.01.10-18.44.37:913][296]LogWorld: Bringing up level for play took: 0.001351
+[2021.01.10-18.44.37:913][296]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2021.01.10-18.44.37:927][296]PIE: Server logged in
+[2021.01.10-18.44.37:929][296]PIE: Play in editor total start time 0,098 seconds.
+[2021.01.10-18.44.56:006][375]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.10-18.44.56:006][375]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Test_Room
+[2021.01.10-18.44.56:006][375]LogSlate: Window 'GameJamUroboros Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.01.10-18.44.56:009][375]LogWorld: UWorld::CleanupWorld for Test_Room, bSessionEnded=true, bCleanupResources=true
+[2021.01.10-18.44.56:009][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.10-18.44.56:013][375]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.10-18.44.56:019][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.10-18.44.56:065][375]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F4E78ACE00), frame # 106375
+[2021.01.10-18.44.56:066][375]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F4E4BCD400), frame # 106375
+[2021.01.10-18.44.56:068][375]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.01.10-18.44.56:109][376]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2021.01.10-18.44.57:993][488]LogSlate: Window 'BP_DestroyableWall' being destroyed
+[2021.01.10-18.44.57:997][488]LogSlate: Window 'BP_DestroyableWall' being destroyed
+[2021.01.10-18.44.58:020][488]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.01.10-18.44.58:020][488]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
