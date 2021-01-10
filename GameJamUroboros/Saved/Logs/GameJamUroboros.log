@@ -931,3 +931,39 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.10-12.27.19:047][253]LogSlate: Window 'BP_Enemy' being destroyed
 [2021.01.10-12.27.19:061][253]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
 [2021.01.10-12.27.19:061][253]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.10-12.28.51:412][472]Cmd: TRANSACTION UNDO
+[2021.01.10-12.28.51:412][472]LogEditorTransaction: Undo Move Actors
+[2021.01.10-12.28.52:337][524]Cmd: TRANSACTION UNDO
+[2021.01.10-12.28.52:337][524]LogEditorTransaction: Undo Move Actors
+[2021.01.10-12.28.52:920][559]Cmd: TRANSACTION UNDO
+[2021.01.10-12.28.52:920][559]LogEditorTransaction: Undo Create Actors
+[2021.01.10-12.28.54:900][674]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.01.10-12.28.54:925][674]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Test_Room876325754F64F1D17AE39DA4ACA3F5DF.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room.umap'
+[2021.01.10-12.28.54:953][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Test_Room_BuiltData" FILE="../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room_BuiltData.uasset" SILENT=true
+[2021.01.10-12.28.54:971][674]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Test_Room_BuiltData182499B247EFE37C478B3DBDA172CC89.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room_BuiltData.uasset'
+[2021.01.10-12.28.54:984][674]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.10-12.28.54:984][674]LogContentValidation: Display: Validating World /Game/Levels/Test_Room.Test_Room
+[2021.01.10-12.28.54:984][674]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Test_Room_BuiltData.Test_Room_BuiltData
+[2021.01.10-12.31.29:713][639]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2021.01.10-12.31.29:740][639]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Test_RoomC9BED2734307AA84E635D6B93AEAFF78.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room.umap'
+[2021.01.10-12.31.29:768][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Test_Room_BuiltData" FILE="../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room_BuiltData.uasset" SILENT=true
+[2021.01.10-12.31.29:790][639]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Test_Room_BuiltData206A5A504AC726AF34A610A799678CE2.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room_BuiltData.uasset'
+[2021.01.10-12.31.29:800][639]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.10-12.31.29:800][639]LogContentValidation: Display: Validating World /Game/Levels/Test_Room.Test_Room
+[2021.01.10-12.31.29:800][639]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Test_Room_BuiltData.Test_Room_BuiltData
+[2021.01.10-12.33.56:545][314]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Enemy.BP_Enemy
+[2021.01.10-12.34.10:096][102]LogSlate: Window 'BP_Enemy' being destroyed
+[2021.01.10-12.34.10:099][102]LogSlate: Window 'BP_Enemy' being destroyed
+[2021.01.10-12.34.10:100][102]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.01.10-12.34.10:100][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.10-12.35.40:949][651]LogSlate: Window 'Project Settings' being destroyed
+[2021.01.10-12.35.40:953][651]LogSlate: Window 'Project Settings' being destroyed
+[2021.01.10-12.36.35:101][166]LogSlate: Window 'Project Settings' being destroyed
+[2021.01.10-12.36.35:106][166]LogSlate: Window 'Project Settings' being destroyed
+[2021.01.10-12.36.36:206][227]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2021.01.10-12.36.36:235][227]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Test_Room492CBD3D45A8E72C89AB19B0D709F50D.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room.umap'
+[2021.01.10-12.36.36:264][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Test_Room_BuiltData" FILE="../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room_BuiltData.uasset" SILENT=true
+[2021.01.10-12.36.36:286][227]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Test_Room_BuiltData2754186D4388D49AB95F70AD1EFB257B.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room_BuiltData.uasset'
+[2021.01.10-12.36.36:299][227]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.10-12.36.36:299][227]LogContentValidation: Display: Validating World /Game/Levels/Test_Room.Test_Room
+[2021.01.10-12.36.36:299][227]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Test_Room_BuiltData.Test_Room_BuiltData
