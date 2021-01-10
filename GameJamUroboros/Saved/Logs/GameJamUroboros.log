@@ -1,8 +1,8 @@
-﻿Log file open, 01/10/21 22:39:13
+﻿Log file open, 01/10/21 23:00:28
 LogInit: Display: Running engine for game: GameJamUroboros
 LogPlatformFile: Not using cached read wrapper
-LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.217996
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.177123
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -139,13 +139,13 @@ LogInit: Build: ++UE4+Release-4.25-CL-14469661
 LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
 LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
 LogInit: Net CL: 13144385
-LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics
 LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
 LogInit: Compiled with Visual C++: 19.24.28315.00
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.25
 LogInit: Command Line: 
-LogInit: Base Directory: D:/EpicLibrary/UE_4.25/Engine/Binaries/Win64/
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
 LogInit: Allocator: TBB
 LogInit: Installed Engine Build: 1
 LogDevObjectVersion: Number of dev versions registered: 26
@@ -176,7 +176,7 @@ LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 3
 LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
 LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
 LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
-LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Git/GameJamUroboros/GameJamUroboros/Saved/Config/Windows/Engine.ini]
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Config/Windows/Engine.ini]
 LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
 LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
 LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
@@ -194,633 +194,1160 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
-[2021.01.10-21.39.13:626][  0]LogConfig: Setting CVar [[r.VSync:0]]
-[2021.01.10-21.39.13:626][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
-[2021.01.10-21.39.13:626][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Git/GameJamUroboros/GameJamUroboros/Saved/Config/Windows/Engine.ini]
-[2021.01.10-21.39.13:626][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
-[2021.01.10-21.39.13:626][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Git/GameJamUroboros/GameJamUroboros/Saved/Config/Windows/Engine.ini]
-[2021.01.10-21.39.13:626][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Git/GameJamUroboros/GameJamUroboros/Saved/Config/Windows/Engine.ini]
-[2021.01.10-21.39.13:626][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
-[2021.01.10-21.39.13:626][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
-[2021.01.10-21.39.13:626][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
-[2021.01.10-21.39.13:626][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
-[2021.01.10-21.39.13:626][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
-[2021.01.10-21.39.13:626][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
-[2021.01.10-21.39.13:626][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
-[2021.01.10-21.39.13:626][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
-[2021.01.10-21.39.13:626][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
-[2021.01.10-21.39.13:626][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
-[2021.01.10-21.39.13:626][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
-[2021.01.10-21.39.13:626][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
-[2021.01.10-21.39.13:626][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
-[2021.01.10-21.39.13:626][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
-[2021.01.10-21.39.13:626][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Git/GameJamUroboros/GameJamUroboros/Saved/Config/Windows/Engine.ini]
-[2021.01.10-21.39.13:626][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
-[2021.01.10-21.39.13:627][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
-[2021.01.10-21.39.13:627][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
-[2021.01.10-21.39.13:627][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
-[2021.01.10-21.39.13:627][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
-[2021.01.10-21.39.13:627][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
-[2021.01.10-21.39.13:627][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
-[2021.01.10-21.39.13:627][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
-[2021.01.10-21.39.13:627][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
-[2021.01.10-21.39.13:627][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
-[2021.01.10-21.39.13:627][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
-[2021.01.10-21.39.13:627][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
-[2021.01.10-21.39.13:627][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
-[2021.01.10-21.39.13:627][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Git/GameJamUroboros/GameJamUroboros/Saved/Config/Windows/Engine.ini]
-[2021.01.10-21.39.13:627][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Git/GameJamUroboros/GameJamUroboros/Saved/Config/Windows/Engine.ini]
-[2021.01.10-21.39.13:633][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Git/GameJamUroboros/GameJamUroboros/Saved/Config/Windows/Scalability.ini]
-[2021.01.10-21.39.13:633][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2021.01.10-21.39.13:633][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2021.01.10-21.39.13:633][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Git/GameJamUroboros/GameJamUroboros/Saved/Config/Windows/Scalability.ini]
-[2021.01.10-21.39.13:633][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2021.01.10-21.39.13:633][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Git/GameJamUroboros/GameJamUroboros/Saved/Config/Windows/Scalability.ini]
-[2021.01.10-21.39.13:633][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2021.01.10-21.39.13:633][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2021.01.10-21.39.13:633][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2021.01.10-21.39.13:633][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2021.01.10-21.39.13:633][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2021.01.10-21.39.13:633][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2021.01.10-21.39.13:633][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2021.01.10-21.39.13:633][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2021.01.10-21.39.13:633][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2021.01.10-21.39.13:633][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2021.01.10-21.39.13:633][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2021.01.10-21.39.13:633][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2021.01.10-21.39.13:633][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2021.01.10-21.39.13:633][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2021.01.10-21.39.13:633][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2021.01.10-21.39.13:633][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2021.01.10-21.39.13:633][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2021.01.10-21.39.13:633][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2021.01.10-21.39.13:633][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Git/GameJamUroboros/GameJamUroboros/Saved/Config/Windows/Scalability.ini]
-[2021.01.10-21.39.13:633][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2021.01.10-21.39.13:633][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2021.01.10-21.39.13:633][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2021.01.10-21.39.13:633][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2021.01.10-21.39.13:633][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2021.01.10-21.39.13:633][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2021.01.10-21.39.13:633][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2021.01.10-21.39.13:633][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2021.01.10-21.39.13:634][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2021.01.10-21.39.13:634][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2021.01.10-21.39.13:634][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2021.01.10-21.39.13:634][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2021.01.10-21.39.13:634][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2021.01.10-21.39.13:634][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2021.01.10-21.39.13:634][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2021.01.10-21.39.13:634][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2021.01.10-21.39.13:634][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2021.01.10-21.39.13:634][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2021.01.10-21.39.13:634][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2021.01.10-21.39.13:634][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2021.01.10-21.39.13:634][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2021.01.10-21.39.13:634][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2021.01.10-21.39.13:634][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2021.01.10-21.39.13:634][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2021.01.10-21.39.13:634][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2021.01.10-21.39.13:634][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2021.01.10-21.39.13:634][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2021.01.10-21.39.13:634][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2021.01.10-21.39.13:634][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2021.01.10-21.39.13:634][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2021.01.10-21.39.13:634][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Git/GameJamUroboros/GameJamUroboros/Saved/Config/Windows/Scalability.ini]
-[2021.01.10-21.39.13:634][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2021.01.10-21.39.13:634][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2021.01.10-21.39.13:634][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2021.01.10-21.39.13:634][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2021.01.10-21.39.13:634][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2021.01.10-21.39.13:634][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
-[2021.01.10-21.39.13:634][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2021.01.10-21.39.13:634][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2021.01.10-21.39.13:634][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2021.01.10-21.39.13:634][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Git/GameJamUroboros/GameJamUroboros/Saved/Config/Windows/Scalability.ini]
-[2021.01.10-21.39.13:634][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2021.01.10-21.39.13:634][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2021.01.10-21.39.13:634][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2021.01.10-21.39.13:634][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
-[2021.01.10-21.39.13:634][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2021.01.10-21.39.13:634][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2021.01.10-21.39.13:634][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2021.01.10-21.39.13:634][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2021.01.10-21.39.13:634][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2021.01.10-21.39.13:634][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2021.01.10-21.39.13:634][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2021.01.10-21.39.13:635][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
-[2021.01.10-21.39.13:635][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
-[2021.01.10-21.39.13:635][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2021.01.10-21.39.13:635][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2021.01.10-21.39.13:635][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
-[2021.01.10-21.39.13:635][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
-[2021.01.10-21.39.13:635][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
-[2021.01.10-21.39.13:635][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
-[2021.01.10-21.39.13:635][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
-[2021.01.10-21.39.13:635][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
-[2021.01.10-21.39.13:635][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
-[2021.01.10-21.39.13:635][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
-[2021.01.10-21.39.13:635][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
-[2021.01.10-21.39.13:635][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
-[2021.01.10-21.39.13:635][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
-[2021.01.10-21.39.13:635][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Git/GameJamUroboros/GameJamUroboros/Saved/Config/Windows/Scalability.ini]
-[2021.01.10-21.39.13:635][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2021.01.10-21.39.13:635][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2021.01.10-21.39.13:635][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Git/GameJamUroboros/GameJamUroboros/Saved/Config/Windows/Scalability.ini]
-[2021.01.10-21.39.13:635][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
-[2021.01.10-21.39.13:635][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
-[2021.01.10-21.39.13:635][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
-[2021.01.10-21.39.13:635][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
-[2021.01.10-21.39.13:635][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
-[2021.01.10-21.39.13:635][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
-[2021.01.10-21.39.13:635][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
-[2021.01.10-21.39.13:635][  0]LogInit: Selected Device Profile: [Windows]
-[2021.01.10-21.39.13:635][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2021.01.10-21.39.13:635][  0]LogHAL: Display: Platform has ~ 16 GB [17113272320 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
-[2021.01.10-21.39.13:635][  0]LogInit: Going up to parent DeviceProfile []
-[2021.01.10-21.39.13:635][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Git/GameJamUroboros/GameJamUroboros/Saved/Config/Windows/Scalability.ini]
-[2021.01.10-21.39.13:635][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2021.01.10-21.39.13:635][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2021.01.10-21.39.13:635][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Git/GameJamUroboros/GameJamUroboros/Saved/Config/Windows/Scalability.ini]
-[2021.01.10-21.39.13:635][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2021.01.10-21.39.13:635][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Git/GameJamUroboros/GameJamUroboros/Saved/Config/Windows/Scalability.ini]
-[2021.01.10-21.39.13:635][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2021.01.10-21.39.13:635][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2021.01.10-21.39.13:635][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2021.01.10-21.39.13:635][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2021.01.10-21.39.13:635][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2021.01.10-21.39.13:636][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2021.01.10-21.39.13:636][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2021.01.10-21.39.13:636][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2021.01.10-21.39.13:636][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2021.01.10-21.39.13:636][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2021.01.10-21.39.13:636][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2021.01.10-21.39.13:636][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2021.01.10-21.39.13:636][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2021.01.10-21.39.13:636][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2021.01.10-21.39.13:636][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2021.01.10-21.39.13:636][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2021.01.10-21.39.13:636][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2021.01.10-21.39.13:636][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2021.01.10-21.39.13:636][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Git/GameJamUroboros/GameJamUroboros/Saved/Config/Windows/Scalability.ini]
-[2021.01.10-21.39.13:636][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2021.01.10-21.39.13:636][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2021.01.10-21.39.13:636][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2021.01.10-21.39.13:636][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2021.01.10-21.39.13:636][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2021.01.10-21.39.13:636][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2021.01.10-21.39.13:636][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2021.01.10-21.39.13:636][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2021.01.10-21.39.13:636][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2021.01.10-21.39.13:636][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2021.01.10-21.39.13:636][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2021.01.10-21.39.13:636][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2021.01.10-21.39.13:636][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2021.01.10-21.39.13:636][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2021.01.10-21.39.13:636][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2021.01.10-21.39.13:636][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2021.01.10-21.39.13:636][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2021.01.10-21.39.13:636][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2021.01.10-21.39.13:636][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2021.01.10-21.39.13:636][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2021.01.10-21.39.13:636][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2021.01.10-21.39.13:636][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2021.01.10-21.39.13:636][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2021.01.10-21.39.13:636][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2021.01.10-21.39.13:636][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2021.01.10-21.39.13:636][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2021.01.10-21.39.13:636][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2021.01.10-21.39.13:636][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2021.01.10-21.39.13:636][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2021.01.10-21.39.13:636][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2021.01.10-21.39.13:637][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Git/GameJamUroboros/GameJamUroboros/Saved/Config/Windows/Scalability.ini]
-[2021.01.10-21.39.13:637][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2021.01.10-21.39.13:637][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2021.01.10-21.39.13:637][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2021.01.10-21.39.13:637][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2021.01.10-21.39.13:637][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2021.01.10-21.39.13:637][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
-[2021.01.10-21.39.13:637][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2021.01.10-21.39.13:637][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2021.01.10-21.39.13:637][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2021.01.10-21.39.13:637][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Git/GameJamUroboros/GameJamUroboros/Saved/Config/Windows/Scalability.ini]
-[2021.01.10-21.39.13:637][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2021.01.10-21.39.13:637][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2021.01.10-21.39.13:637][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2021.01.10-21.39.13:637][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
-[2021.01.10-21.39.13:637][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2021.01.10-21.39.13:637][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2021.01.10-21.39.13:637][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2021.01.10-21.39.13:637][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2021.01.10-21.39.13:637][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2021.01.10-21.39.13:637][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2021.01.10-21.39.13:637][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2021.01.10-21.39.13:637][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
-[2021.01.10-21.39.13:637][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
-[2021.01.10-21.39.13:637][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2021.01.10-21.39.13:637][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2021.01.10-21.39.13:637][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
-[2021.01.10-21.39.13:637][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
-[2021.01.10-21.39.13:637][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
-[2021.01.10-21.39.13:637][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
-[2021.01.10-21.39.13:637][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
-[2021.01.10-21.39.13:637][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
-[2021.01.10-21.39.13:637][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
-[2021.01.10-21.39.13:637][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
-[2021.01.10-21.39.13:637][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
-[2021.01.10-21.39.13:637][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
-[2021.01.10-21.39.13:637][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
-[2021.01.10-21.39.13:637][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Git/GameJamUroboros/GameJamUroboros/Saved/Config/Windows/Scalability.ini]
-[2021.01.10-21.39.13:637][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2021.01.10-21.39.13:637][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2021.01.10-21.39.13:637][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Git/GameJamUroboros/GameJamUroboros/Saved/Config/Windows/Scalability.ini]
-[2021.01.10-21.39.13:637][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
-[2021.01.10-21.39.13:637][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
-[2021.01.10-21.39.13:637][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
-[2021.01.10-21.39.13:637][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
-[2021.01.10-21.39.13:638][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
-[2021.01.10-21.39.13:638][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
-[2021.01.10-21.39.13:638][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
-[2021.01.10-21.39.13:638][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
-[2021.01.10-21.39.13:638][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
-[2021.01.10-21.39.13:638][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
-[2021.01.10-21.39.13:638][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
-[2021.01.10-21.39.13:638][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Git/GameJamUroboros/GameJamUroboros/Saved/Config/Windows/Engine.ini]
-[2021.01.10-21.39.13:638][  0]LogInit: Computer: FERTORRE
-[2021.01.10-21.39.13:638][  0]LogInit: User: Fernando
-[2021.01.10-21.39.13:638][  0]LogInit: CPU Page size=4096, Cores=4
-[2021.01.10-21.39.13:638][  0]LogInit: High frequency timer resolution =10.000000 MHz
-[2021.01.10-21.39.13:638][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
-[2021.01.10-21.39.13:638][  0]LogMemory: Platform Memory Stats for Windows
-[2021.01.10-21.39.13:638][  0]LogMemory: Process Physical Memory: 116.27 MB used, 116.28 MB peak
-[2021.01.10-21.39.13:638][  0]LogMemory: Process Virtual Memory: 104.36 MB used, 104.36 MB peak
-[2021.01.10-21.39.13:638][  0]LogMemory: Physical Memory: 8196.57 MB used,  8123.92 MB free, 16320.49 MB total
-[2021.01.10-21.39.13:638][  0]LogMemory: Virtual Memory: 5118.81 MB used,  134212608.00 MB free, 134217728.00 MB total
-[2021.01.10-21.39.13:645][  0]LogWindows: WindowsPlatformFeatures enabled
-[2021.01.10-21.39.13:708][  0]LogInit: Physics initialised using underlying interface: PhysX
-[2021.01.10-21.39.13:709][  0]LogInit: Overriding language with editor language configuration option (en).
-[2021.01.10-21.39.13:709][  0]LogInit: Overriding locale with editor locale configuration option (en).
-[2021.01.10-21.39.13:886][  0]LogInit: Setting process to per monitor DPI aware
-[2021.01.10-21.39.13:934][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2021.01.10-21.39.13:934][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2021.01.10-21.39.14:234][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2021.01.10-21.39.14:234][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
-[2021.01.10-21.39.14:234][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
-[2021.01.10-21.39.14:234][  0]LogD3D11RHI: D3D11 adapters:
-[2021.01.10-21.39.14:333][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
-[2021.01.10-21.39.14:333][  0]LogD3D11RHI:       8088/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
-[2021.01.10-21.39.14:336][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2021.01.10-21.39.14:336][  0]LogD3D11RHI:       0/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2021.01.10-21.39.14:336][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2021.01.10-21.39.14:343][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2021.01.10-21.39.14:343][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
-[2021.01.10-21.39.14:343][  0]LogWindows: EnumDisplayDevices:
-[2021.01.10-21.39.14:343][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
-[2021.01.10-21.39.14:343][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
-[2021.01.10-21.39.14:344][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
-[2021.01.10-21.39.14:344][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
-[2021.01.10-21.39.14:344][  0]LogWindows: DebugString: FoundDriverCount:4 
-[2021.01.10-21.39.14:344][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
-[2021.01.10-21.39.14:344][  0]LogD3D11RHI:   Driver Version: 460.79 (internal:27.21.14.6079, unified:460.79)
-[2021.01.10-21.39.14:344][  0]LogD3D11RHI:      Driver Date: 12-3-2020
-[2021.01.10-21.39.14:344][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
-[2021.01.10-21.39.14:423][  0]LogD3D11RHI: RHI has support for 64 bit atomics
-[2021.01.10-21.39.14:423][  0]LogD3D11RHI: Async texture creation enabled
-[2021.01.10-21.39.14:423][  0]LogD3D11RHI: Array index from any shader is supported
-[2021.01.10-21.39.14:446][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
-[2021.01.10-21.39.14:800][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
-[2021.01.10-21.39.14:820][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
-[2021.01.10-21.39.14:820][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
-[2021.01.10-21.39.14:820][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
-[2021.01.10-21.39.14:820][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
-[2021.01.10-21.39.14:820][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
-[2021.01.10-21.39.14:820][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
-[2021.01.10-21.39.14:820][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
-[2021.01.10-21.39.14:820][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
-[2021.01.10-21.39.14:820][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
-[2021.01.10-21.39.14:820][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
-[2021.01.10-21.39.14:844][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
-[2021.01.10-21.39.14:844][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
-[2021.01.10-21.39.14:854][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
-[2021.01.10-21.39.14:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
-[2021.01.10-21.39.14:872][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
-[2021.01.10-21.39.14:881][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
-[2021.01.10-21.39.14:890][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
-[2021.01.10-21.39.14:899][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
-[2021.01.10-21.39.14:909][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
-[2021.01.10-21.39.14:933][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
-[2021.01.10-21.39.14:934][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
-[2021.01.10-21.39.14:949][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
-[2021.01.10-21.39.14:949][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
-[2021.01.10-21.39.14:958][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
-[2021.01.10-21.39.14:968][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
-[2021.01.10-21.39.14:977][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
-[2021.01.10-21.39.14:986][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
-[2021.01.10-21.39.14:986][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2021.01.10-21.39.14:995][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
-[2021.01.10-21.39.15:060][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (../../../../../Git/GameJamUroboros/GameJamUroboros/Intermediate/Shaders/WorkingDirectory/4720/).
-[2021.01.10-21.39.15:060][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Fernando/AppData/Local/Temp/UnrealShaderWorkingDir/F0FB23FE48169368229F189EAEEB9371/'.
-[2021.01.10-21.39.15:061][  0]LogXGEController: Cleaning working directory: C:/Users/Fernando/AppData/Local/Temp/UnrealXGEWorkingDir/
-[2021.01.10-21.39.15:061][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2021.01.10-21.39.15:061][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2021.01.10-21.39.15:061][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2021.01.10-21.39.15:793][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2021.01.10-21.39.15:842][  0]LogDerivedDataCache: Loaded boot cache 0.05s 76MB C:/Users/Fernando/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
-[2021.01.10-21.39.15:843][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Fernando/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
-[2021.01.10-21.39.15:843][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Git/GameJamUroboros/GameJamUroboros/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2021.01.10-21.39.15:843][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2021.01.10-21.39.15:843][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Git/GameJamUroboros/GameJamUroboros/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2021.01.10-21.39.15:843][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2021.01.10-21.39.15:852][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2021.01.10-21.39.15:853][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2021.01.10-21.39.15:853][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
-[2021.01.10-21.39.15:854][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Fernando/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2021.01.10-21.39.15:854][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2021.01.10-21.39.15:854][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2021.01.10-21.39.15:900][  0]LogSlate: Using FreeType 2.10.0
-[2021.01.10-21.39.15:901][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2021.01.10-21.39.15:932][  0]LogAssetRegistry: FAssetRegistry took 0.0024 seconds to start up
-[2021.01.10-21.39.16:149][  0]LogInit: Selected Device Profile: [Windows]
-[2021.01.10-21.39.16:262][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2021.01.10-21.39.16:263][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
-[2021.01.10-21.39.16:263][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
-[2021.01.10-21.39.16:263][  0]LogMeshReduction: No distributed automatic mesh merging module available
-[2021.01.10-21.39.16:263][  0]LogMeshMerging: No distributed automatic mesh merging module available
-[2021.01.10-21.39.16:280][  0]LogNetVersion: GameJamUroboros 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 1572633662)
-[2021.01.10-21.39.16:747][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (0000021C2B68D400), frame # 0
-[2021.01.10-21.39.16:747][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021C2B5CBB00), frame # 0
-[2021.01.10-21.39.16:748][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021C2B644800), frame # 0
-[2021.01.10-21.39.16:791][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.037149 seconds
-[2021.01.10-21.39.16:796][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
-[2021.01.10-21.39.16:796][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
-[2021.01.10-21.39.16:796][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2021.01.10-21.39.17:148][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2021.01.10-21.39.17:152][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2021.01.10-21.39.17:236][  0]SourceControl: Source control is disabled
-[2021.01.10-21.39.17:236][  0]SourceControl: Source control is disabled
-[2021.01.10-21.39.17:239][  0]SourceControl: Source control is disabled
-[2021.01.10-21.39.17:242][  0]SourceControl: Source control is disabled
-[2021.01.10-21.39.17:251][  0]SourceControl: Source control is disabled
-[2021.01.10-21.39.17:507][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2021.01.10-21.39.17:529][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
-[2021.01.10-21.39.17:529][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
-[2021.01.10-21.39.17:584][  0]LogOcInput: OculusInput pre-init called
-[2021.01.10-21.39.17:596][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
-[2021.01.10-21.39.17:596][  0]LogWindows: File 'OVRPlugin.dll' does not exist
-[2021.01.10-21.39.17:654][  0]LogEngine: Initializing Engine...
-[2021.01.10-21.39.17:655][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2021.01.10-21.39.17:655][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
-[2021.01.10-21.39.17:656][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
-[2021.01.10-21.39.17:771][  0]LogInit: Initializing FReadOnlyCVARCache
-[2021.01.10-21.39.17:780][  0]LogAIModule: Creating AISystem for world Untitled
-[2021.01.10-21.39.17:780][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021C2EFFDC00), frame # 0
-[2021.01.10-21.39.17:780][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021C2F02D1C0), frame # 0
-[2021.01.10-21.39.17:803][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
-[2021.01.10-21.39.17:803][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
-[2021.01.10-21.39.17:803][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
-[2021.01.10-21.39.17:803][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
-[2021.01.10-21.39.17:803][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
-[2021.01.10-21.39.17:803][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
-[2021.01.10-21.39.17:803][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
-[2021.01.10-21.39.17:803][  0]LogAudio: Display: AudioDevice MaxSources: 32
-[2021.01.10-21.39.17:804][  0]LogAudio: Display: Using built-in audio occlusion.
-[2021.01.10-21.39.17:804][  0]LogAudioMixer: Display: Initializing audio mixer.
-[2021.01.10-21.39.17:818][  0]LogAudioMixer: Display: 0: FrontLeft
-[2021.01.10-21.39.17:818][  0]LogAudioMixer: Display: 1: FrontRight
-[2021.01.10-21.39.17:860][  0]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
-[2021.01.10-21.39.17:863][  0]LogAudioMixer: Display: Initializing Sound Submixes...
-[2021.01.10-21.39.17:866][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
-[2021.01.10-21.39.17:866][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
-[2021.01.10-21.39.17:867][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
-[2021.01.10-21.39.17:868][  0]LogInit: FAudioDevice initialized.
-[2021.01.10-21.39.17:868][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
-[2021.01.10-21.39.17:935][  0]LogDerivedDataCache: Saved boot cache 0.07s 76MB C:/Users/Fernando/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
-[2021.01.10-21.39.17:935][  0]LogInit: Texture streaming: Enabled
-[2021.01.10-21.39.17:954][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2021.01.10-21.39.17:955][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
-[2021.01.10-21.39.17:964][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
-[2021.01.10-21.39.18:002][  0]LogInit: Transaction tracking system initialized
-[2021.01.10-21.39.18:024][  0]BlueprintLog: New page: Editor Load
-[2021.01.10-21.39.18:095][  0]LocalizationService: Localization service is disabled
-[2021.01.10-21.39.18:382][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2021.01.10-21.39.18:383][  0]LogCook: Display: Mobile HDR setting 1
-[2021.01.10-21.39.18:538][  0]LogFileCache: Scanning file cache for directory 'D:/Git/GameJamUroboros/GameJamUroboros/Content/' took 0.01s
-[2021.01.10-21.39.18:806][  0]SourceControl: Source control is disabled
-[2021.01.10-21.39.18:806][  0]LogUnrealEdMisc: Loading editor; pre map load, took 8.247
-[2021.01.10-21.39.18:806][  0]Cmd: MAP LOAD FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2021.01.10-21.39.18:807][  0]LightingResults: New page: Lighting Build
-[2021.01.10-21.39.18:808][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
-[2021.01.10-21.39.18:808][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2021.01.10-21.39.18:808][  0]MapCheck: New page: Map Check
-[2021.01.10-21.39.18:808][  0]LightingResults: New page: Lighting Build
-[2021.01.10-21.39.18:815][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021C2EFFDC00), frame # 0
-[2021.01.10-21.39.18:816][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021C2F02D1C0), frame # 0
-[2021.01.10-21.39.18:816][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
-[2021.01.10-21.39.19:303][  0]LogStaticMesh: Building static mesh SM_Wooden_Doors...
-[2021.01.10-21.39.19:416][  0]LogTexture: Display: Building textures: T_Walls_E (AutoDXT, 4096X4096)
-[2021.01.10-21.39.19:416][  0]LogStaticMesh: Built static mesh [0.11s] /Game/BlueprintsMigrate/SM_Wooden_Doors.SM_Wooden_Doors
-[2021.01.10-21.39.19:419][  0]LogStaticMesh: Building static mesh SM_Magic_Stone...
-[2021.01.10-21.39.19:542][  0]LogStaticMesh: Built static mesh [0.12s] /Game/beffio/Medieval_Kingdom/Content/Models/MagicStone/SM_Magic_Stone.SM_Magic_Stone
-[2021.01.10-21.39.31:210][  0]LogTexture: Display: Building textures: T_Walls_MT (AutoDXT, 4096X4096)
-[2021.01.10-21.39.31:210][  0]LogTexture: Display: Building textures: T_Walls_BC (AutoDXT, 4096X4096)
-[2021.01.10-21.39.31:211][  0]LogTexture: Display: Building textures: T_Walls_N (BC5, 4096X4096)
-[2021.01.10-21.39.31:211][  0]LogTexture: Display: Building textures: T_Roofing_MT (AutoDXT, 4096X4096)
-[2021.01.10-21.39.31:211][  0]LogTexture: Display: Building textures: T_Roofing_E (AutoDXT, 4096X4096)
-[2021.01.10-21.39.31:211][  0]LogTexture: Display: Building textures: T_Roofing_N (BC5, 4096X4096)
-[2021.01.10-21.39.31:211][  0]LogTexture: Display: Building textures: T_Roofing_AO (AutoDXT, 4096X4096)
-[2021.01.10-21.39.31:211][  0]LogTexture: Display: Building textures: T_Foods_N (BC5, 2048X2048)
-[2021.01.10-21.39.31:211][  0]LogTexture: Display: Building textures: T_Roofing_1_BC (AutoDXT, 4096X4096)
-[2021.01.10-21.39.31:211][  0]LogTexture: Display: Building textures: T_Foods_MT (AutoDXT, 2048X2048)
-[2021.01.10-21.39.31:211][  0]LogTexture: Display: Building textures: T_Foods_BC (AutoDXT, 2048X2048)
-[2021.01.10-21.39.31:211][  0]LogTexture: Display: Building textures: T_Foods_AO (AutoDXT, 2048X2048)
-[2021.01.10-21.39.31:211][  0]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Explosion01': Can't find file.
-[2021.01.10-21.39.31:211][  0]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Explosion01': Can't find file.
-[2021.01.10-21.39.31:212][  0]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Audio/Explosion01.Explosion01'
-[2021.01.10-21.39.31:212][  0]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Explosion02': Can't find file.
-[2021.01.10-21.39.31:212][  0]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Explosion02': Can't find file.
-[2021.01.10-21.39.31:212][  0]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Audio/Explosion02.Explosion02'
-[2021.01.10-21.39.36:266][  0]LogStaticMesh: Building static mesh SM_Meat...
-[2021.01.10-21.39.36:453][  0]LogStaticMesh: Built static mesh [0.19s] /Game/beffio/Medieval_Kingdom/Content/Models/food/SM_Meat.SM_Meat
-[2021.01.10-21.39.36:476][  0]LogAIModule: Creating AISystem for world Test_Room
-[2021.01.10-21.39.36:476][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021C514D0E00), frame # 0
-[2021.01.10-21.39.36:476][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021C1D8FB880), frame # 0
-[2021.01.10-21.39.36:595][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2021.01.10-21.39.36:605][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
-[2021.01.10-21.39.36:610][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2021.01.10-21.39.36:610][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.115ms to complete.
-[2021.01.10-21.39.36:610][  0]LogFileHelpers: Loading map 'Test_Room' took 17.804
-[2021.01.10-21.39.36:612][  0]LogUnrealEdMisc: Total Editor Startup Time, took 26.052
-[2021.01.10-21.39.36:881][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2021.01.10-21.39.36:888][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2021.01.10-21.39.36:895][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2021.01.10-21.39.36:902][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2021.01.10-21.39.36:926][  0]LogCollectionManager: Loaded 0 collections in 0.001098 seconds
-[2021.01.10-21.39.36:954][  0]LogFileCache: Scanning file cache for directory 'D:/Git/GameJamUroboros/GameJamUroboros/Saved/Collections/' took 0.00s
-[2021.01.10-21.39.36:954][  0]LogFileCache: Scanning file cache for directory 'D:/Git/GameJamUroboros/GameJamUroboros/Content/Developers/Fernando/Collections/' took 0.00s
-[2021.01.10-21.39.36:954][  0]LogFileCache: Scanning file cache for directory 'D:/Git/GameJamUroboros/GameJamUroboros/Content/Collections/' took 0.00s
-[2021.01.10-21.39.36:954][  0]LogContentBrowser: Native class hierarchy populated in 0.0080 seconds. Added 3427 classes and 821 folders.
-[2021.01.10-21.39.36:969][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
-[2021.01.10-21.39.37:483][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
-[2021.01.10-21.39.37:614][  0]LogSlate: Took 0.005386 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2021.01.10-21.39.37:636][  0]LogSlate: Took 0.006779 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2021.01.10-21.39.37:652][  0]LogSlate: Took 0.013937 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2021.01.10-21.39.37:772][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
-[2021.01.10-21.39.37:912][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
-[2021.01.10-21.39.37:912][  0]LogLoad: (Engine Initialization) Total time: 27.35 seconds
-[2021.01.10-21.39.37:912][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2021.01.10-21.39.37:972][  0]LogAssetRegistry: Asset discovery search completed in 22.0411 seconds
-[2021.01.10-21.39.37:975][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
-[2021.01.10-21.39.37:976][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2021.01.10-21.39.38:024][  0]LogSlate: Took 0.015122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2021.01.10-21.39.39:039][ 59]LogSlate: Took 0.000314 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2021.01.10-21.49.08:676][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Test_Room" FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2021.01.10-21.49.08:685][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
-[2021.01.10-21.49.08:710][770]LogSavePackage: Moving '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/Test_Room72A264B54CD1CD91B9993F87074E1163.tmp' to '../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room.umap'
-[2021.01.10-21.49.08:743][770]AssetCheck: New page: Asset Save: Test_Room
-[2021.01.10-21.49.08:743][770]LogContentValidation: Display: Validating World /Game/Levels/Test_Room.Test_Room
-[2021.01.10-21.49.09:793][892]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level_1.Level_1
-[2021.01.10-21.49.09:800][892]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
-[2021.01.10-21.49.15:878][892]LogSlate: Window 'Save Content' being destroyed
-[2021.01.10-21.49.15:903][892]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level_1" FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2021.01.10-21.49.15:911][892]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
-[2021.01.10-21.49.15:915][892]LogSavePackage: Moving '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/Level_160B9C2F941C7631859BE8DBD811051C2.tmp' to '../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Level_1.umap'
-[2021.01.10-21.49.15:917][892]LogFileHelpers: Saving map 'Level_1' took 0.015
-[2021.01.10-21.49.15:917][892]Cmd: MAP LOAD FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Level_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2021.01.10-21.49.15:917][892]LightingResults: New page: Lighting Build
-[2021.01.10-21.49.15:917][892]LoadErrors: New page: Loading map: Level_1.umap
-[2021.01.10-21.49.15:962][892]LogWorld: UWorld::CleanupWorld for Test_Room, bSessionEnded=true, bCleanupResources=true
-[2021.01.10-21.49.15:962][892]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2021.01.10-21.49.15:962][892]MapCheck: New page: Map Check
-[2021.01.10-21.49.15:962][892]LightingResults: New page: Lighting Build
-[2021.01.10-21.49.15:970][892]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021C514D0E00), frame # 7892
-[2021.01.10-21.49.15:970][892]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021C1D8FB880), frame # 7892
-[2021.01.10-21.49.15:971][892]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
-[2021.01.10-21.49.16:014][892]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2021.01.10-21.49.16:014][892]LogAIModule: Creating AISystem for world Level_1
-[2021.01.10-21.49.16:014][892]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021C9C636E00), frame # 7892
-[2021.01.10-21.49.16:014][892]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021C28507100), frame # 7892
-[2021.01.10-21.49.16:022][892]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
-[2021.01.10-21.49.16:039][892]Cmd: MAP CHECKDEP NOCLEARLOG
-[2021.01.10-21.49.16:039][892]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.083ms to complete.
-[2021.01.10-21.49.16:039][892]LogFileHelpers: Loading map 'Level_1' took 0.123
-[2021.01.10-21.49.16:078][892]AssetCheck: New page: Asset Save: Level_1
-[2021.01.10-21.49.16:078][892]LogContentValidation: Display: Validating World /Game/Levels/Level_1.Level_1
-[2021.01.10-21.49.21:603][550]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Test_Room.Test_Room
-[2021.01.10-21.49.21:610][550]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
-[2021.01.10-21.49.21:614][550]Cmd: MAP LOAD FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2021.01.10-21.49.21:615][550]LightingResults: New page: Lighting Build
-[2021.01.10-21.49.21:615][550]LoadErrors: New page: Loading map: Test_Room.umap
-[2021.01.10-21.49.21:615][550]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
-[2021.01.10-21.49.21:615][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2021.01.10-21.49.21:615][550]MapCheck: New page: Map Check
-[2021.01.10-21.49.21:615][550]LightingResults: New page: Lighting Build
-[2021.01.10-21.49.21:623][550]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021C28507100), frame # 8550
-[2021.01.10-21.49.21:623][550]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021C9C636E00), frame # 8550
-[2021.01.10-21.49.21:623][550]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
-[2021.01.10-21.49.21:694][550]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2021.01.10-21.49.21:694][550]LogAIModule: Creating AISystem for world Test_Room
-[2021.01.10-21.49.21:694][550]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021CA42B4400), frame # 8550
-[2021.01.10-21.49.21:694][550]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021C51352FC0), frame # 8550
-[2021.01.10-21.49.21:702][550]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
-[2021.01.10-21.49.21:720][550]Cmd: MAP CHECKDEP NOCLEARLOG
-[2021.01.10-21.49.21:720][550]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.089ms to complete.
-[2021.01.10-21.49.21:720][550]LogFileHelpers: Loading map 'Test_Room' took 0.105
-[2021.01.10-21.49.25:211][945]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level_1.Level_1
-[2021.01.10-21.49.25:219][945]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
-[2021.01.10-21.49.25:220][945]Cmd: MAP LOAD FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Level_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2021.01.10-21.49.25:220][945]LightingResults: New page: Lighting Build
-[2021.01.10-21.49.25:220][945]LoadErrors: New page: Loading map: Level_1.umap
-[2021.01.10-21.49.25:221][945]LogWorld: UWorld::CleanupWorld for Test_Room, bSessionEnded=true, bCleanupResources=true
-[2021.01.10-21.49.25:221][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2021.01.10-21.49.25:221][945]MapCheck: New page: Map Check
-[2021.01.10-21.49.25:221][945]LightingResults: New page: Lighting Build
-[2021.01.10-21.49.25:229][945]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021C51352FC0), frame # 8945
-[2021.01.10-21.49.25:229][945]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021CA42B4400), frame # 8945
-[2021.01.10-21.49.25:230][945]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
-[2021.01.10-21.49.25:298][945]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2021.01.10-21.49.25:298][945]LogAIModule: Creating AISystem for world Level_1
-[2021.01.10-21.49.25:298][945]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021C3FD06800), frame # 8945
-[2021.01.10-21.49.25:298][945]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021C1D7342C0), frame # 8945
-[2021.01.10-21.49.25:306][945]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
-[2021.01.10-21.49.25:324][945]Cmd: MAP CHECKDEP NOCLEARLOG
-[2021.01.10-21.49.25:324][945]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.083ms to complete.
-[2021.01.10-21.49.25:324][945]LogFileHelpers: Loading map 'Level_1' took 0.104
-[2021.01.10-21.49.43:472][ 59]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
-[2021.01.10-21.49.45:959][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level_1" FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2021.01.10-21.49.45:967][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
-[2021.01.10-21.49.45:982][346]LogSavePackage: Moving '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/Level_1892907E44EEC039E0724C18003A30FEE.tmp' to '../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Level_1.umap'
-[2021.01.10-21.49.46:012][346]AssetCheck: New page: Asset Save: Level_1
-[2021.01.10-21.49.46:012][346]LogContentValidation: Display: Validating World /Game/Levels/Level_1.Level_1
-[2021.01.10-21.49.52:605][106]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Test_Room.Test_Room
-[2021.01.10-21.49.52:613][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
-[2021.01.10-21.49.52:615][106]Cmd: MAP LOAD FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2021.01.10-21.49.52:615][106]LightingResults: New page: Lighting Build
-[2021.01.10-21.49.52:615][106]LoadErrors: New page: Loading map: Test_Room.umap
-[2021.01.10-21.49.52:615][106]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
-[2021.01.10-21.49.52:615][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2021.01.10-21.49.52:615][106]MapCheck: New page: Map Check
-[2021.01.10-21.49.52:615][106]LightingResults: New page: Lighting Build
-[2021.01.10-21.49.52:623][106]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021C1D7342C0), frame # 12106
-[2021.01.10-21.49.52:623][106]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021C3FD06800), frame # 12106
-[2021.01.10-21.49.52:623][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
-[2021.01.10-21.49.52:678][106]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2021.01.10-21.49.52:678][106]LogAIModule: Creating AISystem for world Test_Room
-[2021.01.10-21.49.52:678][106]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021C9C47A000), frame # 12106
-[2021.01.10-21.49.52:678][106]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021C1DBAB4C0), frame # 12106
-[2021.01.10-21.49.52:686][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
-[2021.01.10-21.49.52:704][106]Cmd: MAP CHECKDEP NOCLEARLOG
-[2021.01.10-21.49.52:704][106]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.083ms to complete.
-[2021.01.10-21.49.52:704][106]LogFileHelpers: Loading map 'Test_Room' took 0.090
-[2021.01.10-21.50.05:879][602]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level_1.Level_1
-[2021.01.10-21.50.05:886][602]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
-[2021.01.10-21.50.05:888][602]Cmd: MAP LOAD FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Level_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2021.01.10-21.50.05:888][602]LightingResults: New page: Lighting Build
-[2021.01.10-21.50.05:888][602]LoadErrors: New page: Loading map: Level_1.umap
-[2021.01.10-21.50.05:921][602]LogWorld: UWorld::CleanupWorld for Test_Room, bSessionEnded=true, bCleanupResources=true
-[2021.01.10-21.50.05:921][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2021.01.10-21.50.05:921][602]MapCheck: New page: Map Check
-[2021.01.10-21.50.05:921][602]LightingResults: New page: Lighting Build
-[2021.01.10-21.50.05:929][602]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021C1DBAB4C0), frame # 13602
-[2021.01.10-21.50.05:929][602]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021C9C47A000), frame # 13602
-[2021.01.10-21.50.05:930][602]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
-[2021.01.10-21.50.05:982][602]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2021.01.10-21.50.05:982][602]LogAIModule: Creating AISystem for world Level_1
-[2021.01.10-21.50.05:982][602]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021C404D4400), frame # 13602
-[2021.01.10-21.50.05:982][602]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021C1DB965C0), frame # 13602
-[2021.01.10-21.50.05:991][602]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
-[2021.01.10-21.50.06:008][602]Cmd: MAP CHECKDEP NOCLEARLOG
-[2021.01.10-21.50.06:008][602]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.082ms to complete.
-[2021.01.10-21.50.06:008][602]LogFileHelpers: Loading map 'Level_1' took 0.120
-[2021.01.10-21.50.34:128][890]LogEditorViewport: Clicking on Actor (LMB): BP_Floor_C (BP_Floor)
-[2021.01.10-21.51.19:210][ 91]LogEditorViewport: Clicking Background
-[2021.01.10-21.51.21:702][389]LogEditorViewport: Clicking Background
-[2021.01.10-21.51.22:262][456]LogEditorViewport: Clicking on Actor (LMB): BP_Floor_C (BP_Floor)
-[2021.01.10-21.51.29:200][258]LogEditorViewport: Clicking Background
-[2021.01.10-21.51.29:923][344]LogEditorViewport: Clicking on Actor (LMB): BP_Floor_C (BP_Floor)
-[2021.01.10-21.51.48:511][560]LogEditorViewport: Clicking on Actor (LMB): BP_Floor_C (BP_Floor)
-[2021.01.10-21.52.00:926][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level_1" FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2021.01.10-21.52.00:936][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
-[2021.01.10-21.52.00:950][ 25]LogSavePackage: Moving '../../../../../Git/GameJamUroboros/GameJamUroboros/Saved/Level_1DBD036454FAFE6AF5E3AAFB5EBEEDAE9.tmp' to '../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Level_1.umap'
-[2021.01.10-21.52.00:982][ 25]AssetCheck: New page: Asset Save: Level_1
-[2021.01.10-21.52.00:982][ 25]LogContentValidation: Display: Validating World /Game/Levels/Level_1.Level_1
-[2021.01.10-21.52.53:330][352]LogEditorViewport: Clicking Background
-[2021.01.10-21.53.03:706][569]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Test_Room.Test_Room
-[2021.01.10-21.53.03:714][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
-[2021.01.10-21.53.03:715][569]Cmd: MAP LOAD FILE="../../../../../Git/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2021.01.10-21.53.03:715][569]LightingResults: New page: Lighting Build
-[2021.01.10-21.53.03:715][569]LoadErrors: New page: Loading map: Test_Room.umap
-[2021.01.10-21.53.03:751][569]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
-[2021.01.10-21.53.03:751][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2021.01.10-21.53.03:751][569]MapCheck: New page: Map Check
-[2021.01.10-21.53.03:751][569]LightingResults: New page: Lighting Build
-[2021.01.10-21.53.03:759][569]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021C1DB965C0), frame # 22569
-[2021.01.10-21.53.03:759][569]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021C404D4400), frame # 22569
-[2021.01.10-21.53.03:759][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
-[2021.01.10-21.53.03:840][569]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2021.01.10-21.53.03:840][569]LogAIModule: Creating AISystem for world Test_Room
-[2021.01.10-21.53.03:840][569]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021C9CEC9C00), frame # 22569
-[2021.01.10-21.53.03:840][569]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021C3EF98900), frame # 22569
-[2021.01.10-21.53.03:849][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
-[2021.01.10-21.53.03:867][569]Cmd: MAP CHECKDEP NOCLEARLOG
-[2021.01.10-21.53.03:867][569]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.089ms to complete.
-[2021.01.10-21.53.03:867][569]LogFileHelpers: Loading map 'Test_Room' took 0.152
-[2021.01.10-21.53.06:908][930]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2021.01.10-22.00.28:532][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.01.10-22.00.28:532][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.01.10-22.00.28:532][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Config/Windows/Engine.ini]
+[2021.01.10-22.00.28:532][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.01.10-22.00.28:532][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Config/Windows/Engine.ini]
+[2021.01.10-22.00.28:532][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Config/Windows/Engine.ini]
+[2021.01.10-22.00.28:532][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.01.10-22.00.28:532][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.01.10-22.00.28:532][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.01.10-22.00.28:532][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.01.10-22.00.28:532][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.01.10-22.00.28:532][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.01.10-22.00.28:532][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.01.10-22.00.28:532][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.01.10-22.00.28:532][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.01.10-22.00.28:532][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.01.10-22.00.28:532][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.01.10-22.00.28:532][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.01.10-22.00.28:532][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.01.10-22.00.28:532][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.01.10-22.00.28:532][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Config/Windows/Engine.ini]
+[2021.01.10-22.00.28:532][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.01.10-22.00.28:532][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.01.10-22.00.28:532][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.01.10-22.00.28:532][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.01.10-22.00.28:532][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.01.10-22.00.28:532][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.01.10-22.00.28:532][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.01.10-22.00.28:532][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.01.10-22.00.28:532][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.01.10-22.00.28:532][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.01.10-22.00.28:532][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.01.10-22.00.28:532][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.01.10-22.00.28:532][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.01.10-22.00.28:532][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Config/Windows/Engine.ini]
+[2021.01.10-22.00.28:532][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Config/Windows/Engine.ini]
+[2021.01.10-22.00.28:534][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Config/Windows/Scalability.ini]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Config/Windows/Scalability.ini]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Config/Windows/Scalability.ini]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Config/Windows/Scalability.ini]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Config/Windows/Scalability.ini]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Config/Windows/Scalability.ini]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.01.10-22.00.28:535][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Config/Windows/Scalability.ini]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Config/Windows/Scalability.ini]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.01.10-22.00.28:536][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.10-22.00.28:536][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.01.10-22.00.28:536][  0]LogHAL: Display: Platform has ~ 16 GB [16954941440 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.01.10-22.00.28:536][  0]LogInit: Going up to parent DeviceProfile []
+[2021.01.10-22.00.28:536][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Config/Windows/Scalability.ini]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Config/Windows/Scalability.ini]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Config/Windows/Scalability.ini]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Config/Windows/Scalability.ini]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Config/Windows/Scalability.ini]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Config/Windows/Scalability.ini]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.10-22.00.28:536][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.10-22.00.28:537][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.10-22.00.28:537][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.10-22.00.28:537][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.01.10-22.00.28:537][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.01.10-22.00.28:537][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.10-22.00.28:537][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.10-22.00.28:537][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.01.10-22.00.28:537][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.01.10-22.00.28:537][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.01.10-22.00.28:537][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.01.10-22.00.28:537][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.01.10-22.00.28:537][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.01.10-22.00.28:537][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.01.10-22.00.28:537][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.01.10-22.00.28:537][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.01.10-22.00.28:537][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.01.10-22.00.28:537][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.01.10-22.00.28:537][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Config/Windows/Scalability.ini]
+[2021.01.10-22.00.28:537][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.10-22.00.28:537][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.10-22.00.28:537][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Config/Windows/Scalability.ini]
+[2021.01.10-22.00.28:537][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.01.10-22.00.28:537][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.01.10-22.00.28:537][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.01.10-22.00.28:537][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.01.10-22.00.28:537][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.01.10-22.00.28:537][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.01.10-22.00.28:537][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.01.10-22.00.28:537][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.01.10-22.00.28:537][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.01.10-22.00.28:537][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.01.10-22.00.28:537][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.01.10-22.00.28:537][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Config/Windows/Engine.ini]
+[2021.01.10-22.00.28:537][  0]LogInit: Computer: DESKTOP-D06QJU5
+[2021.01.10-22.00.28:537][  0]LogInit: User: lolpa
+[2021.01.10-22.00.28:537][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.01.10-22.00.28:537][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.01.10-22.00.28:537][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2021.01.10-22.00.28:537][  0]LogMemory: Platform Memory Stats for Windows
+[2021.01.10-22.00.28:537][  0]LogMemory: Process Physical Memory: 115.48 MB used, 115.48 MB peak
+[2021.01.10-22.00.28:537][  0]LogMemory: Process Virtual Memory: 97.03 MB used, 97.03 MB peak
+[2021.01.10-22.00.28:537][  0]LogMemory: Physical Memory: 7201.83 MB used,  8967.66 MB free, 16169.49 MB total
+[2021.01.10-22.00.28:538][  0]LogMemory: Virtual Memory: 5166.66 MB used,  134212560.00 MB free, 134217728.00 MB total
+[2021.01.10-22.00.28:543][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.01.10-22.00.28:594][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.01.10-22.00.28:595][  0]LogInit: Overriding language with editor language configuration option (en).
+[2021.01.10-22.00.28:595][  0]LogInit: Overriding locale with editor culture configuration option ().
+[2021.01.10-22.00.28:595][  0]LogInit: Using OS detected locale (es-ES).
+[2021.01.10-22.00.28:776][  0]LogInit: Setting process to per monitor DPI aware
+[2021.01.10-22.00.28:798][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.01.10-22.00.28:798][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.01.10-22.00.28:917][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.10-22.00.28:918][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.01.10-22.00.28:918][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.01.10-22.00.28:918][  0]LogD3D11RHI: D3D11 adapters:
+[2021.01.10-22.00.29:030][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2021.01.10-22.00.29:030][  0]LogD3D11RHI:       5980/0/8084 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.01.10-22.00.29:050][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics' (Feature Level 11_0)
+[2021.01.10-22.00.29:050][  0]LogD3D11RHI:       128/0/8084 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.01.10-22.00.29:053][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.01.10-22.00.29:053][  0]LogD3D11RHI:       0/0/8084 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.01.10-22.00.29:053][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.01.10-22.00.29:058][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.01.10-22.00.29:058][  0]LogD3D11RHI:     GPU DeviceId: 0x1f15 (for the marketing name, search the web for "GPU Device Id")
+[2021.01.10-22.00.29:058][  0]LogWindows: EnumDisplayDevices:
+[2021.01.10-22.00.29:059][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2021.01.10-22.00.29:059][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2021.01.10-22.00.29:059][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2021.01.10-22.00.29:059][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.01.10-22.00.29:059][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.01.10-22.00.29:060][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.01.10-22.00.29:060][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.01.10-22.00.29:060][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.01.10-22.00.29:060][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2021.01.10-22.00.29:060][  0]LogD3D11RHI:   Driver Version: 461.09 (internal:27.21.14.6109, unified:461.09)
+[2021.01.10-22.00.29:060][  0]LogD3D11RHI:      Driver Date: 12-31-2020
+[2021.01.10-22.00.29:060][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2021.01.10-22.00.29:136][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.01.10-22.00.29:136][  0]LogD3D11RHI: Async texture creation enabled
+[2021.01.10-22.00.29:136][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.01.10-22.00.29:161][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.01.10-22.00.29:424][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.01.10-22.00.29:450][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.01.10-22.00.29:450][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.01.10-22.00.29:450][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.01.10-22.00.29:450][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.01.10-22.00.29:450][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.01.10-22.00.29:450][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.01.10-22.00.29:450][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.01.10-22.00.29:450][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.01.10-22.00.29:450][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.01.10-22.00.29:450][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.01.10-22.00.29:475][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.01.10-22.00.29:475][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.01.10-22.00.29:485][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.01.10-22.00.29:493][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.01.10-22.00.29:502][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.01.10-22.00.29:511][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.01.10-22.00.29:521][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.01.10-22.00.29:531][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.01.10-22.00.29:541][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.01.10-22.00.29:564][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.01.10-22.00.29:564][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.01.10-22.00.29:579][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.01.10-22.00.29:579][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.01.10-22.00.29:587][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.01.10-22.00.29:595][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.01.10-22.00.29:604][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.01.10-22.00.29:612][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.01.10-22.00.29:612][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.01.10-22.00.29:620][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.01.10-22.00.29:685][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Intermediate/Shaders/WorkingDirectory/10756/).
+[2021.01.10-22.00.29:686][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/lolpa/AppData/Local/Temp/UnrealShaderWorkingDir/017F91EA4543073A935D9FA66526DB88/'.
+[2021.01.10-22.00.29:686][  0]LogXGEController: Cleaning working directory: C:/Users/lolpa/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.01.10-22.00.29:686][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.01.10-22.00.29:686][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.01.10-22.00.29:686][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.01.10-22.00.30:362][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.01.10-22.00.30:422][  0]LogDerivedDataCache: Loaded boot cache 0.06s 75MB C:/Users/lolpa/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.01.10-22.00.30:422][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/lolpa/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2021.01.10-22.00.30:422][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.01.10-22.00.30:422][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.01.10-22.00.30:422][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.10-22.00.30:422][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.01.10-22.00.30:430][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.01.10-22.00.30:431][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.10-22.00.30:431][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.01.10-22.00.30:432][  0]LogDerivedDataCache: Using Local data cache path C:/Users/lolpa/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.01.10-22.00.30:432][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.01.10-22.00.30:432][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.01.10-22.00.30:474][  0]LogSlate: Using FreeType 2.10.0
+[2021.01.10-22.00.30:475][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.01.10-22.00.30:496][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2021.01.10-22.00.30:695][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.10-22.00.30:801][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.01.10-22.00.30:801][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.01.10-22.00.30:801][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.01.10-22.00.30:801][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.01.10-22.00.30:801][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.01.10-22.00.30:817][  0]LogNetVersion: GameJamUroboros 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 1572633662)
+[2021.01.10-22.00.31:200][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (00000218771A5BC0), frame # 0
+[2021.01.10-22.00.31:200][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021877099E40), frame # 0
+[2021.01.10-22.00.31:201][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021877170800), frame # 0
+[2021.01.10-22.00.31:271][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.064451 seconds
+[2021.01.10-22.00.31:276][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2021.01.10-22.00.31:276][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2021.01.10-22.00.31:276][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.01.10-22.00.31:610][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.01.10-22.00.31:615][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.01.10-22.00.31:693][  0]SourceControl: Source control is disabled
+[2021.01.10-22.00.31:693][  0]SourceControl: Source control is disabled
+[2021.01.10-22.00.31:696][  0]SourceControl: Source control is disabled
+[2021.01.10-22.00.31:698][  0]SourceControl: Source control is disabled
+[2021.01.10-22.00.31:706][  0]SourceControl: Source control is disabled
+[2021.01.10-22.00.31:956][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.01.10-22.00.31:979][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.01.10-22.00.31:979][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.01.10-22.00.32:027][  0]LogOcInput: OculusInput pre-init called
+[2021.01.10-22.00.32:039][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.01.10-22.00.32:040][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.01.10-22.00.32:098][  0]LogEngine: Initializing Engine...
+[2021.01.10-22.00.32:099][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.10-22.00.32:099][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.01.10-22.00.32:100][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.01.10-22.00.32:217][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.01.10-22.00.32:225][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.01.10-22.00.32:225][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002187C94BC00), frame # 0
+[2021.01.10-22.00.32:225][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002187C996480), frame # 0
+[2021.01.10-22.00.32:240][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.10-22.00.32:240][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.10-22.00.32:240][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.10-22.00.32:240][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.10-22.00.32:240][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.10-22.00.32:240][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.10-22.00.32:240][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.10-22.00.32:240][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.10-22.00.32:241][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.10-22.00.32:241][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.10-22.00.32:254][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.10-22.00.32:254][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.01.10-22.00.32:280][  0]LogAudioMixer: Display: Using Audio Device Altavoces (USB Audio Device)
+[2021.01.10-22.00.32:284][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.10-22.00.32:286][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.10-22.00.32:286][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.10-22.00.32:287][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.10-22.00.32:288][  0]LogInit: FAudioDevice initialized.
+[2021.01.10-22.00.32:288][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.01.10-22.00.32:333][  0]LogDerivedDataCache: Saved boot cache 0.05s 75MB C:/Users/lolpa/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.01.10-22.00.32:338][  0]LogInit: Texture streaming: Enabled
+[2021.01.10-22.00.32:354][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.01.10-22.00.32:354][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.01.10-22.00.32:355][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.01.10-22.00.32:424][  0]LogInit: Transaction tracking system initialized
+[2021.01.10-22.00.32:448][  0]BlueprintLog: New page: Editor Load
+[2021.01.10-22.00.32:520][  0]LocalizationService: Localization service is disabled
+[2021.01.10-22.00.32:654][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.01.10-22.00.32:654][  0]LogCook: Display: Mobile HDR setting 1
+[2021.01.10-22.00.32:787][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/' took 0.01s
+[2021.01.10-22.00.32:992][  0]SourceControl: Source control is disabled
+[2021.01.10-22.00.32:992][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.859
+[2021.01.10-22.00.32:993][  0]Cmd: MAP LOAD FILE="../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.10-22.00.32:993][  0]LightingResults: New page: Lighting Build
+[2021.01.10-22.00.32:993][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.01.10-22.00.32:993][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.10-22.00.32:993][  0]MapCheck: New page: Map Check
+[2021.01.10-22.00.32:994][  0]LightingResults: New page: Lighting Build
+[2021.01.10-22.00.33:010][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002187C94BC00), frame # 0
+[2021.01.10-22.00.33:010][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002187C996480), frame # 0
+[2021.01.10-22.00.33:011][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.01.10-22.00.33:204][  0]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Explosion01': Can't find file.
+[2021.01.10-22.00.33:205][  0]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Explosion01': Can't find file.
+[2021.01.10-22.00.33:205][  0]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Audio/Explosion01.Explosion01'
+[2021.01.10-22.00.33:205][  0]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Explosion02': Can't find file.
+[2021.01.10-22.00.33:205][  0]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Explosion02': Can't find file.
+[2021.01.10-22.00.33:205][  0]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Audio/Explosion02.Explosion02'
+[2021.01.10-22.00.33:226][  0]LogAIModule: Creating AISystem for world Test_Room
+[2021.01.10-22.00.33:227][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021802253E00), frame # 0
+[2021.01.10-22.00.33:227][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002180229A340), frame # 0
+[2021.01.10-22.00.33:240][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.10-22.00.33:253][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.01.10-22.00.33:253][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.10-22.00.33:253][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,129ms to complete.
+[2021.01.10-22.00.33:253][  0]LogFileHelpers: Loading map 'Test_Room' took 0.260
+[2021.01.10-22.00.33:255][  0]LogUnrealEdMisc: Total Editor Startup Time, took 6.121
+[2021.01.10-22.00.33:354][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.10-22.00.33:360][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.10-22.00.33:366][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.10-22.00.33:372][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.10-22.00.33:378][  0]LogCollectionManager: Loaded 0 collections in 0.001426 seconds
+[2021.01.10-22.00.33:390][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Collections/' took 0.00s
+[2021.01.10-22.00.33:390][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Developers/lolpa/Collections/' took 0.00s
+[2021.01.10-22.00.33:390][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Collections/' took 0.00s
+[2021.01.10-22.00.33:390][  0]LogContentBrowser: Native class hierarchy populated in 0.0074 seconds. Added 3427 classes and 821 folders.
+[2021.01.10-22.00.33:392][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.01.10-22.00.33:431][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.01.10-22.00.33:432][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.01.10-22.00.33:503][  0]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.01.10-22.00.33:505][  0]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.01.10-22.00.33:508][  0]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.01.10-22.00.33:562][  0]LogRenderer: Reallocating scene render targets to support 956x432 Format 10 NumSamples 1 (Frame:1).
+[2021.01.10-22.00.33:669][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.01.10-22.00.33:669][  0]LogLoad: (Engine Initialization) Total time: 6.54 seconds
+[2021.01.10-22.00.33:669][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.01.10-22.00.33:723][  0]LogAssetRegistry: Asset discovery search completed in 3.2277 seconds
+[2021.01.10-22.00.33:728][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.01.10-22.00.33:730][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.01.10-22.00.33:761][  0]LogSlate: Took 0.000241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.10-22.00.46:718][494]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.10-22.00.46:745][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.01.10-22.00.46:777][494]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Test_Room94274C514F8A5B965237A68FEC1880B1.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room.umap'
+[2021.01.10-22.00.46:816][494]AssetCheck: New page: Asset Save: Test_Room
+[2021.01.10-22.00.46:816][494]LogContentValidation: Display: Validating World /Game/Levels/Test_Room.Test_Room
+[2021.01.10-22.00.47:572][539]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.01.10-22.00.47:602][539]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Test_RoomA24F34DB48A271E1098EDEBECD8A99D8.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room.umap'
+[2021.01.10-22.00.47:637][539]AssetCheck: New page: Asset Save: Test_Room
+[2021.01.10-22.00.47:638][539]LogContentValidation: Display: Validating World /Game/Levels/Test_Room.Test_Room
+[2021.01.10-22.00.48:303][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.01.10-22.00.48:333][578]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Test_Room27C627B64E445EE173A279A8C4A2B695.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room.umap'
+[2021.01.10-22.00.48:369][578]AssetCheck: New page: Asset Save: Test_Room
+[2021.01.10-22.00.48:369][578]LogContentValidation: Display: Validating World /Game/Levels/Test_Room.Test_Room
+[2021.01.10-22.00.58:889][207]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level_1.Level_1
+[2021.01.10-22.00.58:898][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.01.10-22.00.58:900][207]Cmd: MAP LOAD FILE="../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Levels/Level_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.10-22.00.58:900][207]LightingResults: New page: Lighting Build
+[2021.01.10-22.00.58:900][207]LoadErrors: New page: Loading map: Level_1.umap
+[2021.01.10-22.00.58:901][207]LogWorld: UWorld::CleanupWorld for Test_Room, bSessionEnded=true, bCleanupResources=true
+[2021.01.10-22.00.58:901][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.10-22.00.58:901][207]MapCheck: New page: Map Check
+[2021.01.10-22.00.58:901][207]LightingResults: New page: Lighting Build
+[2021.01.10-22.00.58:910][207]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021802253E00), frame # 1207
+[2021.01.10-22.00.58:910][207]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002180229A340), frame # 1207
+[2021.01.10-22.00.58:911][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.01.10-22.00.58:954][207]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.10-22.00.58:954][207]LogAIModule: Creating AISystem for world Level_1
+[2021.01.10-22.00.58:954][207]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002188F9AD000), frame # 1207
+[2021.01.10-22.00.58:954][207]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002181686C540), frame # 1207
+[2021.01.10-22.00.58:964][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.01.10-22.00.58:993][207]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.10-22.00.58:993][207]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,103ms to complete.
+[2021.01.10-22.00.58:993][207]LogFileHelpers: Loading map 'Level_1' took 0.093
+[2021.01.10-22.01.00:743][309]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Test_Room.Test_Room
+[2021.01.10-22.01.00:753][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.01.10-22.01.00:755][309]Cmd: MAP LOAD FILE="../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Levels/Test_Room.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.10-22.01.00:755][309]LightingResults: New page: Lighting Build
+[2021.01.10-22.01.00:756][309]LoadErrors: New page: Loading map: Test_Room.umap
+[2021.01.10-22.01.00:756][309]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2021.01.10-22.01.00:756][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.10-22.01.00:756][309]MapCheck: New page: Map Check
+[2021.01.10-22.01.00:756][309]LightingResults: New page: Lighting Build
+[2021.01.10-22.01.00:764][309]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002181686C540), frame # 1309
+[2021.01.10-22.01.00:764][309]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002188F9AD000), frame # 1309
+[2021.01.10-22.01.00:765][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.10-22.01.00:835][309]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.10-22.01.00:835][309]LogAIModule: Creating AISystem for world Test_Room
+[2021.01.10-22.01.00:835][309]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021898C69C00), frame # 1309
+[2021.01.10-22.01.00:835][309]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021806C12480), frame # 1309
+[2021.01.10-22.01.00:846][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.01.10-22.01.00:874][309]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.10-22.01.00:875][309]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,163ms to complete.
+[2021.01.10-22.01.00:875][309]LogFileHelpers: Loading map 'Test_Room' took 0.119
+[2021.01.10-22.01.03:051][438]LogEditorViewport: Clicking on Actor (LMB): BP_Floor_C (BP_Floor)
+[2021.01.10-22.01.35:109][652]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\lolpa\Desktop\Captura.PNG)
+[2021.01.10-22.01.35:124][652]LogTexture: Display: Building textures: Captura (BGRA8, 1263X553)
+[2021.01.10-22.01.46:926][341]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/StartScreen.StartScreen
+[2021.01.10-22.01.47:063][341]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 125 classes and 0 folders.
+[2021.01.10-22.01.48:082][341]LogSlate: Took 0.000133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.01.10-22.02.08:121][537]LogSlate: Took 0.001378 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.01.10-22.02.41:221][482]BlueprintLog: New page: Compile StartScreen
+[2021.01.10-22.02.41:277][482]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2021.01.10-22.02.41:609][498]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/StartScreen" FILE="../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Widgets/StartScreen.uasset" SILENT=true
+[2021.01.10-22.02.41:620][498]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/StartScreenDFAFAD214D49034252ED1886253C7CA9.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Widgets/StartScreen.uasset'
+[2021.01.10-22.02.41:634][498]AssetCheck: New page: Asset Save: StartScreen
+[2021.01.10-22.02.41:634][498]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/StartScreen.StartScreen
+[2021.01.10-22.03.25:464][ 46]BlueprintLog: New page: Compile StartScreen
+[2021.01.10-22.03.25:489][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2021.01.10-22.03.26:501][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/StartScreen" FILE="../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Widgets/StartScreen.uasset" SILENT=true
+[2021.01.10-22.03.26:528][103]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/StartScreen4141A6334C5221EBA944DD87AE6E239D.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Widgets/StartScreen.uasset'
+[2021.01.10-22.03.26:539][103]AssetCheck: New page: Asset Save: StartScreen
+[2021.01.10-22.03.26:539][103]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/StartScreen.StartScreen
+[2021.01.10-22.04.26:738][671]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.10-22.04.31:286][939]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.10-22.04.38:334][356]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.10-22.04.41:671][552]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.10-22.04.45:604][788]BlueprintLog: New page: Compile StartScreen
+[2021.01.10-22.04.45:629][788]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.01.10-22.04.45:960][803]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/StartScreen" FILE="../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Widgets/StartScreen.uasset" SILENT=true
+[2021.01.10-22.04.45:983][803]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/StartScreenFDE10431460A9EF8F68D2C907DAD9B31.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Widgets/StartScreen.uasset'
+[2021.01.10-22.04.45:993][803]AssetCheck: New page: Asset Save: StartScreen
+[2021.01.10-22.04.45:993][803]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/StartScreen.StartScreen
+[2021.01.10-22.05.27:117][249]BlueprintLog: New page: Compile StartScreen
+[2021.01.10-22.05.27:143][249]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.01.10-22.05.27:633][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/StartScreen" FILE="../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Widgets/StartScreen.uasset" SILENT=true
+[2021.01.10-22.05.27:656][277]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/StartScreenB4F1F3AF4AF3748C4CD410B1D56A046B.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Widgets/StartScreen.uasset'
+[2021.01.10-22.05.27:667][277]AssetCheck: New page: Asset Save: StartScreen
+[2021.01.10-22.05.27:667][277]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/StartScreen.StartScreen
+[2021.01.10-22.05.35:182][726]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.01.10-22.05.36:223][726]LogSlate: Window 'Save Content' being destroyed
+[2021.01.10-22.05.36:248][726]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Captura" FILE="../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Widgets/Captura.uasset" SILENT=true
+[2021.01.10-22.05.36:286][726]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/Captura0B57C5464DF581EE4F26249F0CB3A8F3.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Widgets/Captura.uasset'
+[2021.01.10-22.05.36:297][726]AssetCheck: New page: Asset Save: Captura
+[2021.01.10-22.05.36:297][726]LogContentValidation: Display: Validating Texture2D /Game/Widgets/Captura.Captura
+[2021.01.10-22.05.54:174][795]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/StartLevel.StartLevel
+[2021.01.10-22.05.54:195][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.01.10-22.05.55:648][795]LogSlate: Window 'Save Content' being destroyed
+[2021.01.10-22.05.55:679][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2021.01.10-22.05.55:687][795]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/StartLevelD5729C4C4065190B08B062B4E27A584E.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Levels/StartLevel.umap'
+[2021.01.10-22.05.55:688][795]LogFileHelpers: Saving map 'StartLevel' took 0.033
+[2021.01.10-22.05.55:688][795]Cmd: MAP LOAD FILE="../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Levels/StartLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.10-22.05.55:688][795]LightingResults: New page: Lighting Build
+[2021.01.10-22.05.55:689][795]LoadErrors: New page: Loading map: StartLevel.umap
+[2021.01.10-22.05.55:690][795]LogWorld: UWorld::CleanupWorld for Test_Room, bSessionEnded=true, bCleanupResources=true
+[2021.01.10-22.05.55:690][795]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.10-22.05.55:690][795]MapCheck: New page: Map Check
+[2021.01.10-22.05.55:690][795]LightingResults: New page: Lighting Build
+[2021.01.10-22.05.55:712][795]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021806C12480), frame # 17795
+[2021.01.10-22.05.55:712][795]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021898C69C00), frame # 17795
+[2021.01.10-22.05.55:716][795]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2021.01.10-22.05.55:807][795]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.10-22.05.55:807][795]LogAIModule: Creating AISystem for world StartLevel
+[2021.01.10-22.05.55:807][795]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000218B0352C00), frame # 17795
+[2021.01.10-22.05.55:807][795]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021890C560C0), frame # 17795
+[2021.01.10-22.05.55:832][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.01.10-22.05.55:860][795]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.10-22.05.55:866][795]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 5,951ms to complete.
+[2021.01.10-22.05.55:867][795]LogFileHelpers: Loading map 'StartLevel' took 0.178
+[2021.01.10-22.05.55:902][795]AssetCheck: New page: Asset Save: StartLevel
+[2021.01.10-22.05.55:902][795]LogContentValidation: Display: Validating World /Game/Levels/StartLevel.StartLevel
+[2021.01.10-22.05.58:076][924]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/StartLevel.StartLevel:PersistentLevel.StartLevel
+[2021.01.10-22.06.13:249][793]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.01.10-22.06.15:525][929]BlueprintLog: New page: Compile StartLevel
+[2021.01.10-22.06.15:553][929]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2021.01.10-22.06.15:579][929]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.01.10-22.06.15:888][946]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.01.10-22.06.15:911][946]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/StartLevelDFA054FD436B99B3B9DD4E9F919AC379.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Levels/StartLevel.umap'
+[2021.01.10-22.06.15:941][946]LogFileHelpers: Saving map 'StartLevel' took 0.079
+[2021.01.10-22.06.15:951][946]AssetCheck: New page: Asset Save: StartLevel
+[2021.01.10-22.06.15:951][946]LogContentValidation: Display: Validating World /Game/Levels/StartLevel.StartLevel
+[2021.01.10-22.06.18:043][ 72]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.01.10-22.06.18:060][ 72]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.10-22.06.18:061][ 72]PIE: New page: PIE session: StartLevel (11 ene. 2021 0:06:18)
+[2021.01.10-22.06.18:062][ 72]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.01.10-22.06.18:063][ 72]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.01.10-22.06.18:063][ 72]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_StartLevel
+[2021.01.10-22.06.18:063][ 72]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000815s)
+[2021.01.10-22.06.18:064][ 72]LogAIModule: Creating AISystem for world StartLevel
+[2021.01.10-22.06.18:064][ 72]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000218E0306800), frame # 19072
+[2021.01.10-22.06.18:064][ 72]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000218ED9382C0), frame # 19072
+[2021.01.10-22.06.18:064][ 72]LogPlayLevel: PIE: World Init took: (0.000849s)
+[2021.01.10-22.06.18:064][ 72]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/StartLevel.StartLevel to /Game/Levels/UEDPIE_0_StartLevel.StartLevel (0.001768s)
+[2021.01.10-22.06.18:087][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2021.01.10-22.06.18:088][ 72]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.10-22.06.18:088][ 72]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.10-22.06.18:088][ 72]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.10-22.06.18:088][ 72]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.10-22.06.18:088][ 72]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.10-22.06.18:088][ 72]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.10-22.06.18:088][ 72]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.10-22.06.18:088][ 72]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.10-22.06.18:088][ 72]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.10-22.06.18:088][ 72]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.10-22.06.18:090][ 72]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.10-22.06.18:090][ 72]LogAudioMixer: Display: 1: FrontRight
+[2021.01.10-22.06.18:103][ 72]LogAudioMixer: Display: Using Audio Device Altavoces (USB Audio Device)
+[2021.01.10-22.06.18:103][ 72]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.10-22.06.18:103][ 72]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.10-22.06.18:103][ 72]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.10-22.06.18:103][ 72]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.10-22.06.18:114][ 72]LogInit: FAudioDevice initialized.
+[2021.01.10-22.06.18:131][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.10-22.06.18:131][ 72]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.10-22.06.18:132][ 72]LogWorld: Bringing World /Game/Levels/UEDPIE_0_StartLevel.StartLevel up for play (max tick rate 60) at 2021.01.10-23.06.18
+[2021.01.10-22.06.18:132][ 72]LogWorld: Bringing up level for play took: 0.000306
+[2021.01.10-22.06.18:132][ 72]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.01.10-22.06.18:144][ 72]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.01.10-22.06.18:148][ 72]PIE: Server logged in
+[2021.01.10-22.06.18:150][ 72]PIE: Play in editor total start time 0,091 seconds.
+[2021.01.10-22.06.18:185][ 73]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2021.01.10-22.06.21:528][254]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.10-22.06.21:528][254]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_StartLevel
+[2021.01.10-22.06.21:528][254]LogSlate: Window 'GameJamUroboros Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.01.10-22.06.21:533][254]LogWorld: UWorld::CleanupWorld for StartLevel, bSessionEnded=true, bCleanupResources=true
+[2021.01.10-22.06.21:533][254]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.10-22.06.21:536][254]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.10-22.06.21:542][254]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.10-22.06.21:587][254]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000218ED9382C0), frame # 19254
+[2021.01.10-22.06.21:587][254]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000218E0306800), frame # 19254
+[2021.01.10-22.06.21:606][254]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2021.01.10-22.06.21:637][255]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.01.10-22.06.24:156][406]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.01.10-22.06.24:172][406]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.10-22.06.24:172][406]PIE: New page: PIE session: StartLevel (11 ene. 2021 0:06:24)
+[2021.01.10-22.06.24:172][406]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_StartLevel
+[2021.01.10-22.06.24:173][406]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000765s)
+[2021.01.10-22.06.24:174][406]LogAIModule: Creating AISystem for world StartLevel
+[2021.01.10-22.06.24:174][406]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000218ADF71800), frame # 19406
+[2021.01.10-22.06.24:174][406]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000218A666E480), frame # 19406
+[2021.01.10-22.06.24:174][406]LogPlayLevel: PIE: World Init took: (0.000773s)
+[2021.01.10-22.06.24:174][406]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/StartLevel.StartLevel to /Game/Levels/UEDPIE_0_StartLevel.StartLevel (0.001627s)
+[2021.01.10-22.06.24:204][406]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2021.01.10-22.06.24:205][406]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.10-22.06.24:205][406]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.10-22.06.24:205][406]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.10-22.06.24:205][406]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.10-22.06.24:205][406]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.10-22.06.24:205][406]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.10-22.06.24:205][406]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.10-22.06.24:205][406]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.10-22.06.24:205][406]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.10-22.06.24:205][406]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.10-22.06.24:207][406]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.10-22.06.24:207][406]LogAudioMixer: Display: 1: FrontRight
+[2021.01.10-22.06.24:217][406]LogAudioMixer: Display: Using Audio Device Altavoces (USB Audio Device)
+[2021.01.10-22.06.24:218][406]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.10-22.06.24:218][406]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.10-22.06.24:218][406]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.10-22.06.24:218][406]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.10-22.06.24:229][406]LogInit: FAudioDevice initialized.
+[2021.01.10-22.06.24:243][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.10-22.06.24:243][406]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.10-22.06.24:244][406]LogWorld: Bringing World /Game/Levels/UEDPIE_0_StartLevel.StartLevel up for play (max tick rate 60) at 2021.01.10-23.06.24
+[2021.01.10-22.06.24:244][406]LogWorld: Bringing up level for play took: 0.000468
+[2021.01.10-22.06.24:245][406]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.01.10-22.06.24:249][406]PIE: Server logged in
+[2021.01.10-22.06.24:251][406]PIE: Play in editor total start time 0,079 seconds.
+[2021.01.10-22.06.28:419][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.10-22.06.28:419][621]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_StartLevel
+[2021.01.10-22.06.28:419][621]LogSlate: Window 'GameJamUroboros Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.01.10-22.06.28:423][621]LogWorld: UWorld::CleanupWorld for StartLevel, bSessionEnded=true, bCleanupResources=true
+[2021.01.10-22.06.28:423][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.10-22.06.28:432][621]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.10-22.06.28:437][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.10-22.06.28:478][621]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000218A666E480), frame # 19621
+[2021.01.10-22.06.28:479][621]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000218ADF71800), frame # 19621
+[2021.01.10-22.06.28:481][621]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2021.01.10-22.06.28:514][622]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.01.10-22.06.29:594][686]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.01.10-22.06.29:610][686]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.10-22.06.29:611][686]PIE: New page: PIE session: StartLevel (11 ene. 2021 0:06:29)
+[2021.01.10-22.06.29:611][686]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_StartLevel
+[2021.01.10-22.06.29:611][686]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000772s)
+[2021.01.10-22.06.29:612][686]LogAIModule: Creating AISystem for world StartLevel
+[2021.01.10-22.06.29:612][686]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000218A7762000), frame # 19686
+[2021.01.10-22.06.29:612][686]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000218A7D9FD80), frame # 19686
+[2021.01.10-22.06.29:612][686]LogPlayLevel: PIE: World Init took: (0.000846s)
+[2021.01.10-22.06.29:612][686]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/StartLevel.StartLevel to /Game/Levels/UEDPIE_0_StartLevel.StartLevel (0.001695s)
+[2021.01.10-22.06.29:639][686]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2021.01.10-22.06.29:641][686]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.10-22.06.29:641][686]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.10-22.06.29:641][686]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.10-22.06.29:641][686]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.10-22.06.29:641][686]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.10-22.06.29:641][686]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.10-22.06.29:641][686]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.10-22.06.29:641][686]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.10-22.06.29:641][686]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.10-22.06.29:641][686]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.10-22.06.29:643][686]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.10-22.06.29:643][686]LogAudioMixer: Display: 1: FrontRight
+[2021.01.10-22.06.29:654][686]LogAudioMixer: Display: Using Audio Device Altavoces (USB Audio Device)
+[2021.01.10-22.06.29:654][686]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.10-22.06.29:654][686]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.10-22.06.29:654][686]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.10-22.06.29:654][686]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.10-22.06.29:665][686]LogInit: FAudioDevice initialized.
+[2021.01.10-22.06.29:681][686]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.10-22.06.29:681][686]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.10-22.06.29:682][686]LogWorld: Bringing World /Game/Levels/UEDPIE_0_StartLevel.StartLevel up for play (max tick rate 60) at 2021.01.10-23.06.29
+[2021.01.10-22.06.29:682][686]LogWorld: Bringing up level for play took: 0.000257
+[2021.01.10-22.06.29:682][686]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.01.10-22.06.29:686][686]PIE: Server logged in
+[2021.01.10-22.06.29:688][686]PIE: Play in editor total start time 0,078 seconds.
+[2021.01.10-22.06.30:335][724]LogNet: Browse: /Game/Levels/Level_1
+[2021.01.10-22.06.30:335][724]LogLoad: LoadMap: /Game/Levels/Level_1
+[2021.01.10-22.06.30:335][724]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_StartLevel
+[2021.01.10-22.06.30:335][724]LogWorld: UWorld::CleanupWorld for StartLevel, bSessionEnded=true, bCleanupResources=true
+[2021.01.10-22.06.30:336][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.10-22.06.30:393][724]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000218A7D9FD80), frame # 19724
+[2021.01.10-22.06.30:394][724]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000218A7762000), frame # 19724
+[2021.01.10-22.06.30:396][724]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.01.10-22.06.30:402][724]LogAIModule: Creating AISystem for world Level_1
+[2021.01.10-22.06.30:402][724]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000218A7763000), frame # 19724
+[2021.01.10-22.06.30:402][724]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000218A5321440), frame # 19724
+[2021.01.10-22.06.30:402][724]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.10-22.06.30:404][724]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2021.01.10-23.06.30
+[2021.01.10-22.06.30:404][724]LogWorld: Bringing up level for play took: 0.000883
+[2021.01.10-22.06.30:404][724]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.01.10-22.06.30:405][724]LogLoad: Took 0.070588 seconds to LoadMap(/Game/Levels/Level_1)
+[2021.01.10-22.06.31:538][790]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.10-22.06.31:538][790]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_1
+[2021.01.10-22.06.31:538][790]LogSlate: Window 'GameJamUroboros Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.01.10-22.06.31:542][790]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2021.01.10-22.06.31:542][790]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.10-22.06.31:553][790]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.10-22.06.31:558][790]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.10-22.06.31:599][790]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000218A5321440), frame # 19790
+[2021.01.10-22.06.31:599][790]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000218A7763000), frame # 19790
+[2021.01.10-22.06.31:602][790]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2021.01.10-22.06.31:631][791]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.01.10-22.06.32:249][828]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.01.10-22.06.32:265][828]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.10-22.06.32:266][828]PIE: New page: PIE session: StartLevel (11 ene. 2021 0:06:32)
+[2021.01.10-22.06.32:266][828]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_StartLevel
+[2021.01.10-22.06.32:266][828]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000759s)
+[2021.01.10-22.06.32:267][828]LogAIModule: Creating AISystem for world StartLevel
+[2021.01.10-22.06.32:267][828]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000218A7E6C600), frame # 19828
+[2021.01.10-22.06.32:267][828]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000218A4FCE480), frame # 19828
+[2021.01.10-22.06.32:267][828]LogPlayLevel: PIE: World Init took: (0.000912s)
+[2021.01.10-22.06.32:267][828]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/StartLevel.StartLevel to /Game/Levels/UEDPIE_0_StartLevel.StartLevel (0.001764s)
+[2021.01.10-22.06.32:294][828]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.01.10-22.06.32:297][828]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.10-22.06.32:297][828]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.10-22.06.32:297][828]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.10-22.06.32:297][828]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.10-22.06.32:297][828]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.10-22.06.32:297][828]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.10-22.06.32:297][828]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.10-22.06.32:297][828]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.10-22.06.32:297][828]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.10-22.06.32:297][828]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.10-22.06.32:299][828]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.10-22.06.32:299][828]LogAudioMixer: Display: 1: FrontRight
+[2021.01.10-22.06.32:310][828]LogAudioMixer: Display: Using Audio Device Altavoces (USB Audio Device)
+[2021.01.10-22.06.32:310][828]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.10-22.06.32:310][828]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.10-22.06.32:310][828]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.10-22.06.32:310][828]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.10-22.06.32:320][828]LogInit: FAudioDevice initialized.
+[2021.01.10-22.06.32:339][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.10-22.06.32:339][828]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.10-22.06.32:340][828]LogWorld: Bringing World /Game/Levels/UEDPIE_0_StartLevel.StartLevel up for play (max tick rate 60) at 2021.01.10-23.06.32
+[2021.01.10-22.06.32:340][828]LogWorld: Bringing up level for play took: 0.000311
+[2021.01.10-22.06.32:340][828]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.01.10-22.06.32:345][828]PIE: Server logged in
+[2021.01.10-22.06.32:347][828]PIE: Play in editor total start time 0,082 seconds.
+[2021.01.10-22.06.32:937][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.10-22.06.32:937][863]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_StartLevel
+[2021.01.10-22.06.32:937][863]LogSlate: Window 'GameJamUroboros Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.01.10-22.06.32:943][863]LogWorld: UWorld::CleanupWorld for StartLevel, bSessionEnded=true, bCleanupResources=true
+[2021.01.10-22.06.32:943][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.10-22.06.32:949][863]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.10-22.06.32:953][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.10-22.06.32:994][863]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000218A4FCE480), frame # 19863
+[2021.01.10-22.06.32:994][863]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000218A7E6C600), frame # 19863
+[2021.01.10-22.06.32:997][863]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.01.10-22.06.33:048][865]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.01.10-22.06.57:283][293]BlueprintLog: New page: Compile StartLevel
+[2021.01.10-22.06.57:330][293]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2021.01.10-22.06.58:084][335]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2021.01.10-22.06.58:106][335]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/StartLevel01769729490128DA929A8B88EBF271F5.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Levels/StartLevel.umap'
+[2021.01.10-22.06.58:137][335]LogFileHelpers: Saving map 'StartLevel' took 0.081
+[2021.01.10-22.06.58:149][335]AssetCheck: New page: Asset Save: StartLevel
+[2021.01.10-22.06.58:149][335]LogContentValidation: Display: Validating World /Game/Levels/StartLevel.StartLevel
+[2021.01.10-22.06.58:606][363]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.01.10-22.06.58:623][363]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.10-22.06.58:623][363]PIE: New page: PIE session: StartLevel (11 ene. 2021 0:06:58)
+[2021.01.10-22.06.58:623][363]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_StartLevel
+[2021.01.10-22.06.58:624][363]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000862s)
+[2021.01.10-22.06.58:625][363]LogAIModule: Creating AISystem for world StartLevel
+[2021.01.10-22.06.58:625][363]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002189F06A000), frame # 21363
+[2021.01.10-22.06.58:625][363]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000218F0233C40), frame # 21363
+[2021.01.10-22.06.58:625][363]LogPlayLevel: PIE: World Init took: (0.000799s)
+[2021.01.10-22.06.58:625][363]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/StartLevel.StartLevel to /Game/Levels/UEDPIE_0_StartLevel.StartLevel (0.001735s)
+[2021.01.10-22.06.58:653][363]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2021.01.10-22.06.58:658][363]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.10-22.06.58:658][363]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.10-22.06.58:658][363]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.10-22.06.58:658][363]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.10-22.06.58:658][363]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.10-22.06.58:658][363]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.10-22.06.58:658][363]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.10-22.06.58:658][363]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.10-22.06.58:659][363]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.10-22.06.58:659][363]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.10-22.06.58:660][363]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.10-22.06.58:660][363]LogAudioMixer: Display: 1: FrontRight
+[2021.01.10-22.06.58:671][363]LogAudioMixer: Display: Using Audio Device Altavoces (USB Audio Device)
+[2021.01.10-22.06.58:671][363]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.10-22.06.58:671][363]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.10-22.06.58:671][363]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.10-22.06.58:671][363]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.10-22.06.58:681][363]LogInit: FAudioDevice initialized.
+[2021.01.10-22.06.58:708][363]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.10-22.06.58:708][363]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.10-22.06.58:709][363]LogWorld: Bringing World /Game/Levels/UEDPIE_0_StartLevel.StartLevel up for play (max tick rate 60) at 2021.01.10-23.06.58
+[2021.01.10-22.06.58:709][363]LogWorld: Bringing up level for play took: 0.000331
+[2021.01.10-22.06.58:709][363]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.01.10-22.06.58:714][363]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.01.10-22.06.58:716][363]PIE: Server logged in
+[2021.01.10-22.06.58:717][363]PIE: Play in editor total start time 0,095 seconds.
+[2021.01.10-22.06.59:211][392]LogNet: Browse: /Game/Levels/Level_1
+[2021.01.10-22.06.59:211][392]LogLoad: LoadMap: /Game/Levels/Level_1
+[2021.01.10-22.06.59:211][392]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_StartLevel
+[2021.01.10-22.06.59:211][392]LogWorld: UWorld::CleanupWorld for StartLevel, bSessionEnded=true, bCleanupResources=true
+[2021.01.10-22.06.59:211][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.10-22.06.59:237][392]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002189F06A000), frame # 21392
+[2021.01.10-22.06.59:237][392]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000218F0233C40), frame # 21392
+[2021.01.10-22.06.59:240][392]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2021.01.10-22.06.59:243][392]LogAIModule: Creating AISystem for world Level_1
+[2021.01.10-22.06.59:243][392]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000218ED5CC600), frame # 21392
+[2021.01.10-22.06.59:243][392]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021907920680), frame # 21392
+[2021.01.10-22.06.59:243][392]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.10-22.06.59:245][392]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2021.01.10-23.06.59
+[2021.01.10-22.06.59:245][392]LogWorld: Bringing up level for play took: 0.001073
+[2021.01.10-22.06.59:245][392]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.01.10-22.06.59:246][392]LogLoad: Took 0.035351 seconds to LoadMap(/Game/Levels/Level_1)
+[2021.01.10-22.06.59:919][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.10-22.06.59:919][431]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_1
+[2021.01.10-22.06.59:919][431]LogSlate: Window 'GameJamUroboros Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.01.10-22.06.59:923][431]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2021.01.10-22.06.59:923][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.10-22.06.59:930][431]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.10-22.06.59:935][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.10-22.06.59:979][431]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021907920680), frame # 21431
+[2021.01.10-22.06.59:979][431]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000218ED5CC600), frame # 21431
+[2021.01.10-22.06.59:982][431]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2021.01.10-22.07.00:016][432]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.01.10-22.07.00:782][478]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.01.10-22.07.00:798][478]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.10-22.07.00:798][478]PIE: New page: PIE session: StartLevel (11 ene. 2021 0:07:00)
+[2021.01.10-22.07.00:798][478]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_StartLevel
+[2021.01.10-22.07.00:799][478]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000750s)
+[2021.01.10-22.07.00:800][478]LogAIModule: Creating AISystem for world StartLevel
+[2021.01.10-22.07.00:800][478]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000218ED738200), frame # 21478
+[2021.01.10-22.07.00:800][478]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000218C93B2340), frame # 21478
+[2021.01.10-22.07.00:800][478]LogPlayLevel: PIE: World Init took: (0.000911s)
+[2021.01.10-22.07.00:800][478]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/StartLevel.StartLevel to /Game/Levels/UEDPIE_0_StartLevel.StartLevel (0.001753s)
+[2021.01.10-22.07.00:830][478]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.01.10-22.07.00:831][478]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.10-22.07.00:831][478]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.10-22.07.00:831][478]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.10-22.07.00:831][478]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.10-22.07.00:831][478]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.10-22.07.00:831][478]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.10-22.07.00:831][478]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.10-22.07.00:831][478]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.10-22.07.00:831][478]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.10-22.07.00:831][478]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.10-22.07.00:833][478]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.10-22.07.00:833][478]LogAudioMixer: Display: 1: FrontRight
+[2021.01.10-22.07.00:843][478]LogAudioMixer: Display: Using Audio Device Altavoces (USB Audio Device)
+[2021.01.10-22.07.00:843][478]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.10-22.07.00:843][478]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.10-22.07.00:843][478]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.10-22.07.00:843][478]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.10-22.07.00:854][478]LogInit: FAudioDevice initialized.
+[2021.01.10-22.07.00:867][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.10-22.07.00:868][478]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.10-22.07.00:868][478]LogWorld: Bringing World /Game/Levels/UEDPIE_0_StartLevel.StartLevel up for play (max tick rate 60) at 2021.01.10-23.07.00
+[2021.01.10-22.07.00:868][478]LogWorld: Bringing up level for play took: 0.000267
+[2021.01.10-22.07.00:869][478]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.01.10-22.07.00:871][478]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.01.10-22.07.00:873][478]PIE: Server logged in
+[2021.01.10-22.07.00:874][478]PIE: Play in editor total start time 0,076 seconds.
+[2021.01.10-22.07.04:589][698]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.10-22.07.04:589][698]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_StartLevel
+[2021.01.10-22.07.04:589][698]LogSlate: Window 'GameJamUroboros Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.01.10-22.07.04:593][698]LogWorld: UWorld::CleanupWorld for StartLevel, bSessionEnded=true, bCleanupResources=true
+[2021.01.10-22.07.04:593][698]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.10-22.07.04:601][698]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.10-22.07.04:605][698]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.10-22.07.04:651][698]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000218C93B2340), frame # 21698
+[2021.01.10-22.07.04:651][698]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000218ED738200), frame # 21698
+[2021.01.10-22.07.04:655][698]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2021.01.10-22.07.04:687][699]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.01.10-22.07.08:671][938]BlueprintLog: New page: Compile StartLevel
+[2021.01.10-22.07.08:715][938]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2021.01.10-22.07.09:060][956]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2021.01.10-22.07.09:083][956]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/StartLevelD19FBC104603CD15A2648F8B81707CF7.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Levels/StartLevel.umap'
+[2021.01.10-22.07.09:113][956]LogFileHelpers: Saving map 'StartLevel' took 0.084
+[2021.01.10-22.07.09:126][956]AssetCheck: New page: Asset Save: StartLevel
+[2021.01.10-22.07.09:126][956]LogContentValidation: Display: Validating World /Game/Levels/StartLevel.StartLevel
+[2021.01.10-22.08.52:354][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.01.10-22.08.52:377][407]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/StartLevelEF19FD674DBF8E7B6DC14EAE497EECEE.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Levels/StartLevel.umap'
+[2021.01.10-22.08.52:409][407]LogFileHelpers: Saving map 'StartLevel' took 0.087
+[2021.01.10-22.08.52:423][407]AssetCheck: New page: Asset Save: StartLevel
+[2021.01.10-22.08.52:423][407]LogContentValidation: Display: Validating World /Game/Levels/StartLevel.StartLevel
+[2021.01.10-22.08.52:720][425]BlueprintLog: New page: Compile StartLevel
+[2021.01.10-22.08.52:764][425]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.01.10-22.12.01:386][699]BlueprintLog: New page: Compile StartLevel
+[2021.01.10-22.12.01:433][699]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2021.01.10-22.12.01:899][724]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.01.10-22.12.01:927][724]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/StartLevel4F743AB84338BBCD1F09B5BBCA071DC0.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Levels/StartLevel.umap'
+[2021.01.10-22.12.01:961][724]LogFileHelpers: Saving map 'StartLevel' took 0.093
+[2021.01.10-22.12.01:971][724]AssetCheck: New page: Asset Save: StartLevel
+[2021.01.10-22.12.01:971][724]LogContentValidation: Display: Validating World /Game/Levels/StartLevel.StartLevel
+[2021.01.10-22.12.02:648][764]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.01.10-22.12.02:666][764]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.10-22.12.02:666][764]PIE: New page: PIE session: StartLevel (11 ene. 2021 0:12:02)
+[2021.01.10-22.12.02:666][764]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_StartLevel
+[2021.01.10-22.12.02:667][764]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000818s)
+[2021.01.10-22.12.02:668][764]LogAIModule: Creating AISystem for world StartLevel
+[2021.01.10-22.12.02:668][764]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000218A7762C00), frame # 24764
+[2021.01.10-22.12.02:668][764]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000218C93B2840), frame # 24764
+[2021.01.10-22.12.02:668][764]LogPlayLevel: PIE: World Init took: (0.000917s)
+[2021.01.10-22.12.02:668][764]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/StartLevel.StartLevel to /Game/Levels/UEDPIE_0_StartLevel.StartLevel (0.001812s)
+[2021.01.10-22.12.02:698][764]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2021.01.10-22.12.02:699][764]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.10-22.12.02:699][764]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.10-22.12.02:699][764]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.10-22.12.02:699][764]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.10-22.12.02:699][764]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.10-22.12.02:699][764]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.10-22.12.02:699][764]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.10-22.12.02:699][764]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.10-22.12.02:700][764]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.10-22.12.02:700][764]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.10-22.12.02:702][764]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.10-22.12.02:702][764]LogAudioMixer: Display: 1: FrontRight
+[2021.01.10-22.12.02:714][764]LogAudioMixer: Display: Using Audio Device Altavoces (USB Audio Device)
+[2021.01.10-22.12.02:714][764]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.10-22.12.02:714][764]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.10-22.12.02:714][764]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.10-22.12.02:714][764]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.10-22.12.02:725][764]LogInit: FAudioDevice initialized.
+[2021.01.10-22.12.02:742][764]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.10-22.12.02:742][764]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.10-22.12.02:743][764]LogWorld: Bringing World /Game/Levels/UEDPIE_0_StartLevel.StartLevel up for play (max tick rate 60) at 2021.01.10-23.12.02
+[2021.01.10-22.12.02:743][764]LogWorld: Bringing up level for play took: 0.000284
+[2021.01.10-22.12.02:743][764]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.01.10-22.12.02:746][764]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.01.10-22.12.02:748][764]PIE: Server logged in
+[2021.01.10-22.12.02:751][764]PIE: Play in editor total start time 0,085 seconds.
+[2021.01.10-22.12.07:348][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.10-22.12.07:348][ 36]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_StartLevel
+[2021.01.10-22.12.07:349][ 36]LogSlate: Window 'GameJamUroboros Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.01.10-22.12.07:353][ 36]LogWorld: UWorld::CleanupWorld for StartLevel, bSessionEnded=true, bCleanupResources=true
+[2021.01.10-22.12.07:354][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.10-22.12.07:359][ 36]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.10-22.12.07:366][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.10-22.12.07:416][ 36]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000218C93B2840), frame # 25036
+[2021.01.10-22.12.07:416][ 36]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000218A7762C00), frame # 25036
+[2021.01.10-22.12.07:420][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2021.01.10-22.12.07:455][ 37]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.01.10-22.13.19:428][656]BlueprintLog: New page: Compile StartLevel
+[2021.01.10-22.13.19:474][656]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2021.01.10-22.13.20:014][685]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2021.01.10-22.13.20:037][685]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/StartLevel6CB1EF5146F4B00C6764A8A3D8A394F9.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Levels/StartLevel.umap'
+[2021.01.10-22.13.20:070][685]LogFileHelpers: Saving map 'StartLevel' took 0.089
+[2021.01.10-22.13.20:085][685]AssetCheck: New page: Asset Save: StartLevel
+[2021.01.10-22.13.20:085][685]LogContentValidation: Display: Validating World /Game/Levels/StartLevel.StartLevel
+[2021.01.10-22.14.44:011][702]BlueprintLog: New page: Compile StartScreen
+[2021.01.10-22.14.44:048][702]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2021.01.10-22.14.44:466][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/StartScreen" FILE="../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Widgets/StartScreen.uasset" SILENT=true
+[2021.01.10-22.14.44:499][723]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/StartScreen28E96B404DCBBDB5CFACFF95217F4CE4.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Widgets/StartScreen.uasset'
+[2021.01.10-22.14.44:514][723]AssetCheck: New page: Asset Save: StartScreen
+[2021.01.10-22.14.44:514][723]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/StartScreen.StartScreen
+[2021.01.10-22.14.45:036][754]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.01.10-22.14.45:053][754]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.10-22.14.45:053][754]PIE: New page: PIE session: StartLevel (11 ene. 2021 0:14:45)
+[2021.01.10-22.14.45:054][754]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_StartLevel
+[2021.01.10-22.14.45:054][754]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000764s)
+[2021.01.10-22.14.45:055][754]LogAIModule: Creating AISystem for world StartLevel
+[2021.01.10-22.14.45:055][754]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002191DD95200), frame # 31754
+[2021.01.10-22.14.45:055][754]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002191533C400), frame # 31754
+[2021.01.10-22.14.45:055][754]LogPlayLevel: PIE: World Init took: (0.000889s)
+[2021.01.10-22.14.45:055][754]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/StartLevel.StartLevel to /Game/Levels/UEDPIE_0_StartLevel.StartLevel (0.001745s)
+[2021.01.10-22.14.45:085][754]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2021.01.10-22.14.45:086][754]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.10-22.14.45:086][754]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.10-22.14.45:086][754]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.10-22.14.45:086][754]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.10-22.14.45:086][754]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.10-22.14.45:086][754]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.10-22.14.45:086][754]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.10-22.14.45:086][754]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.10-22.14.45:086][754]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.10-22.14.45:086][754]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.10-22.14.45:089][754]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.10-22.14.45:089][754]LogAudioMixer: Display: 1: FrontRight
+[2021.01.10-22.14.45:100][754]LogAudioMixer: Display: Using Audio Device Altavoces (USB Audio Device)
+[2021.01.10-22.14.45:100][754]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.10-22.14.45:100][754]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.10-22.14.45:100][754]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.10-22.14.45:100][754]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.10-22.14.45:111][754]LogInit: FAudioDevice initialized.
+[2021.01.10-22.14.45:131][754]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.10-22.14.45:131][754]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.10-22.14.45:132][754]LogWorld: Bringing World /Game/Levels/UEDPIE_0_StartLevel.StartLevel up for play (max tick rate 60) at 2021.01.10-23.14.45
+[2021.01.10-22.14.45:132][754]LogWorld: Bringing up level for play took: 0.000224
+[2021.01.10-22.14.45:132][754]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2021.01.10-22.14.45:135][754]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.01.10-22.14.45:137][754]PIE: Server logged in
+[2021.01.10-22.14.45:140][754]PIE: Play in editor total start time 0,087 seconds.
+[2021.01.10-22.14.48:582][957]LogNet: Browse: /Game/Levels/Level_1
+[2021.01.10-22.14.48:582][957]LogLoad: LoadMap: /Game/Levels/Level_1
+[2021.01.10-22.14.48:582][957]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_StartLevel
+[2021.01.10-22.14.48:583][957]LogWorld: UWorld::CleanupWorld for StartLevel, bSessionEnded=true, bCleanupResources=true
+[2021.01.10-22.14.48:583][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.10-22.14.48:635][957]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002191533C400), frame # 31957
+[2021.01.10-22.14.48:635][957]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002191DD95200), frame # 31957
+[2021.01.10-22.14.48:638][957]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2021.01.10-22.14.48:642][957]LogAIModule: Creating AISystem for world Level_1
+[2021.01.10-22.14.48:642][957]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002191DD96800), frame # 31957
+[2021.01.10-22.14.48:642][957]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000218C8E8B740), frame # 31957
+[2021.01.10-22.14.48:643][957]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.10-22.14.48:644][957]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2021.01.10-23.14.48
+[2021.01.10-22.14.48:645][957]LogWorld: Bringing up level for play took: 0.001107
+[2021.01.10-22.14.48:645][957]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.01.10-22.14.48:646][957]LogLoad: Took 0.063322 seconds to LoadMap(/Game/Levels/Level_1)
+[2021.01.10-22.14.49:339][997]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.10-22.14.49:339][997]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_1
+[2021.01.10-22.14.49:339][997]LogSlate: Window 'GameJamUroboros Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.01.10-22.14.49:342][997]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2021.01.10-22.14.49:342][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.10-22.14.49:350][997]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.10-22.14.49:355][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.10-22.14.49:407][997]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000218C8E8B740), frame # 31997
+[2021.01.10-22.14.49:407][997]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002191DD96800), frame # 31997
+[2021.01.10-22.14.49:412][997]LogUObjectHash: Compacting FUObjectHashTables data took   5.38ms
+[2021.01.10-22.14.49:449][998]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.01.10-22.15.41:473][327]BlueprintLog: New page: Compile StartScreen
+[2021.01.10-22.15.41:509][327]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2021.01.10-22.15.41:939][351]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/StartScreen" FILE="../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Widgets/StartScreen.uasset" SILENT=true
+[2021.01.10-22.15.41:965][351]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/StartScreenDFDBB1D44796CB2BDC79ACA7335ED679.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Widgets/StartScreen.uasset'
+[2021.01.10-22.15.41:979][351]AssetCheck: New page: Asset Save: StartScreen
+[2021.01.10-22.15.41:979][351]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/StartScreen.StartScreen
+[2021.01.10-22.15.45:247][547]BlueprintLog: New page: Compile StartScreen
+[2021.01.10-22.15.45:283][547]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2021.01.10-22.15.45:586][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/StartScreen" FILE="../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Widgets/StartScreen.uasset" SILENT=true
+[2021.01.10-22.15.45:612][564]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/StartScreenF7F4F901459943D8E4FAC99CC9347D22.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Widgets/StartScreen.uasset'
+[2021.01.10-22.15.45:624][564]AssetCheck: New page: Asset Save: StartScreen
+[2021.01.10-22.15.45:624][564]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/StartScreen.StartScreen
+[2021.01.10-22.15.50:948][883]BlueprintLog: New page: Compile StartLevel
+[2021.01.10-22.15.51:001][883]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2021.01.10-22.15.51:360][901]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2021.01.10-22.15.51:385][901]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/StartLevel48489E844A9FD5C5425ADCA8B8395B3B.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Levels/StartLevel.umap'
+[2021.01.10-22.15.51:419][901]LogFileHelpers: Saving map 'StartLevel' took 0.092
+[2021.01.10-22.15.51:430][901]AssetCheck: New page: Asset Save: StartLevel
+[2021.01.10-22.15.51:430][901]LogContentValidation: Display: Validating World /Game/Levels/StartLevel.StartLevel
+[2021.01.10-22.15.52:392][958]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.01.10-22.15.52:410][958]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.10-22.15.52:410][958]PIE: New page: PIE session: StartLevel (11 ene. 2021 0:15:52)
+[2021.01.10-22.15.52:410][958]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_StartLevel
+[2021.01.10-22.15.52:411][958]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000940s)
+[2021.01.10-22.15.52:412][958]LogAIModule: Creating AISystem for world StartLevel
+[2021.01.10-22.15.52:412][958]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000218E0304200), frame # 33958
+[2021.01.10-22.15.52:412][958]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000218F02682C0), frame # 33958
+[2021.01.10-22.15.52:412][958]LogPlayLevel: PIE: World Init took: (0.001454s)
+[2021.01.10-22.15.52:413][958]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/StartLevel.StartLevel to /Game/Levels/UEDPIE_0_StartLevel.StartLevel (0.002496s)
+[2021.01.10-22.15.52:443][958]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2021.01.10-22.15.52:444][958]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.10-22.15.52:444][958]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.10-22.15.52:444][958]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.10-22.15.52:444][958]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.10-22.15.52:444][958]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.10-22.15.52:444][958]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.10-22.15.52:444][958]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.10-22.15.52:444][958]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.10-22.15.52:445][958]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.10-22.15.52:445][958]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.10-22.15.52:447][958]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.10-22.15.52:448][958]LogAudioMixer: Display: 1: FrontRight
+[2021.01.10-22.15.52:459][958]LogAudioMixer: Display: Using Audio Device Altavoces (USB Audio Device)
+[2021.01.10-22.15.52:459][958]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.10-22.15.52:459][958]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.10-22.15.52:459][958]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.10-22.15.52:460][958]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.10-22.15.52:470][958]LogInit: FAudioDevice initialized.
+[2021.01.10-22.15.52:493][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.10-22.15.52:493][958]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.10-22.15.52:494][958]LogWorld: Bringing World /Game/Levels/UEDPIE_0_StartLevel.StartLevel up for play (max tick rate 60) at 2021.01.10-23.15.52
+[2021.01.10-22.15.52:494][958]LogWorld: Bringing up level for play took: 0.000280
+[2021.01.10-22.15.52:494][958]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2021.01.10-22.15.52:497][958]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.01.10-22.15.52:499][958]PIE: Server logged in
+[2021.01.10-22.15.52:501][958]PIE: Play in editor total start time 0,091 seconds.
+[2021.01.10-22.15.56:176][163]LogNet: Browse: /Game/Levels/Level_1
+[2021.01.10-22.15.56:176][163]LogLoad: LoadMap: /Game/Levels/Level_1
+[2021.01.10-22.15.56:176][163]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_StartLevel
+[2021.01.10-22.15.56:177][163]LogWorld: UWorld::CleanupWorld for StartLevel, bSessionEnded=true, bCleanupResources=true
+[2021.01.10-22.15.56:177][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.10-22.15.56:235][163]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000218F02682C0), frame # 34163
+[2021.01.10-22.15.56:235][163]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000218E0304200), frame # 34163
+[2021.01.10-22.15.56:239][163]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2021.01.10-22.15.56:242][163]LogAIModule: Creating AISystem for world Level_1
+[2021.01.10-22.15.56:242][163]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021922714200), frame # 34163
+[2021.01.10-22.15.56:242][163]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000218C92D6700), frame # 34163
+[2021.01.10-22.15.56:243][163]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.10-22.15.56:244][163]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2021.01.10-23.15.56
+[2021.01.10-22.15.56:244][163]LogWorld: Bringing up level for play took: 0.001024
+[2021.01.10-22.15.56:244][163]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.01.10-22.15.56:246][163]LogLoad: Took 0.069155 seconds to LoadMap(/Game/Levels/Level_1)
+[2021.01.10-22.15.57:355][230]LogSlate: Window 'GameJamUroboros Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.01.10-22.15.57:361][230]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_1
+[2021.01.10-22.15.57:361][230]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2021.01.10-22.15.57:361][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.10-22.15.57:366][230]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.10-22.15.57:371][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.10-22.15.57:419][230]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000218C92D6700), frame # 34230
+[2021.01.10-22.15.57:419][230]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021922714200), frame # 34230
+[2021.01.10-22.15.57:424][230]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2021.01.10-22.15.57:459][231]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.01.10-22.15.58:837][313]BlueprintLog: New page: Compile StartLevel
+[2021.01.10-22.15.58:882][313]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2021.01.10-22.15.59:380][340]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2021.01.10-22.15.59:403][340]LogSavePackage: Moving '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Saved/StartLevel09F66F1446F70BCA88342186054E4B08.tmp' to '../../../../../../Users/lolpa/Documents/GitHub/GameJamUroboros/GameJamUroboros/Content/Levels/StartLevel.umap'
+[2021.01.10-22.15.59:435][340]LogFileHelpers: Saving map 'StartLevel' took 0.086
+[2021.01.10-22.15.59:450][340]AssetCheck: New page: Asset Save: StartLevel
+[2021.01.10-22.15.59:450][340]LogContentValidation: Display: Validating World /Game/Levels/StartLevel.StartLevel
